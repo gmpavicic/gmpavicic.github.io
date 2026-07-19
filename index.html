@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>GMP · Autos y Propiedades · Córdoba</title>
+<meta name="description" content="Comprá o vendé tu auto o tu propiedad en Córdoba. Te acompaño en todo el proceso.">
+<style>
+  :root{
+    --ink:#1a2332;
+    --ink-soft:#4a5568;
+    --bg:#f5f6f8;
+    --card:#ffffff;
+    --line:#e4e7ec;
+    --accent:#1f6f5c;
+    --accent-soft:#e8f3f0;
+    --wa:#25d366;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:560px;margin:0 auto;padding:0 16px 48px;}
+
+  header{
+    background:var(--ink);color:#fff;
+    padding:40px 16px 32px;text-align:center;
+  }
+  .monogram{
+    display:inline-flex;align-items:center;justify-content:center;
+    width:64px;height:64px;border:2px solid rgba(255,255,255,.85);border-radius:16px;
+    font-size:22px;font-weight:700;letter-spacing:2px;margin-bottom:14px;
+  }
+  header h1{font-size:22px;font-weight:600;letter-spacing:.3px;}
+  header p{margin-top:6px;font-size:15px;color:rgba(255,255,255,.75);}
+
+  .cards{margin-top:-18px;display:flex;flex-direction:column;gap:14px;}
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:16px;
+    overflow:hidden;box-shadow:0 1px 3px rgba(16,24,40,.06);
+  }
+  .card-head{
+    width:100%;display:flex;align-items:center;gap:14px;
+    padding:18px 16px;background:none;border:none;cursor:pointer;
+    font:inherit;text-align:left;color:var(--ink);
+  }
+  .card-head .icon{
+    flex:none;width:44px;height:44px;border-radius:12px;
+    background:var(--accent-soft);display:flex;align-items:center;justify-content:center;
+    font-size:22px;
+  }
+  .card-head .txt b{display:block;font-size:16px;font-weight:600;}
+  .card-head .txt span{font-size:13px;color:var(--ink-soft);}
+  .card-head .chev{margin-left:auto;color:var(--ink-soft);transition:transform .2s;font-size:13px;}
+  .card.open .chev{transform:rotate(180deg);}
+  .card-body{display:none;padding:0 16px 18px;border-top:1px solid var(--line);}
+  .card.open .card-body{display:block;}
+  .card-body .intro{font-size:14px;color:var(--ink-soft);padding:14px 0 4px;}
+
+  .btn{
+    display:block;width:100%;text-align:center;text-decoration:none;
+    padding:13px 16px;border-radius:12px;font-size:15px;font-weight:600;
+    border:none;cursor:pointer;font-family:inherit;margin-top:12px;
+  }
+  .btn-primary{background:var(--accent);color:#fff;}
+  .btn-wa{background:var(--wa);color:#fff;}
+  .btn-outline{background:#fff;color:var(--accent);border:1.5px solid var(--accent);}
+
+  .divider{
+    display:flex;align-items:center;gap:10px;margin:18px 0 4px;
+    font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.6px;
+  }
+  .divider::before,.divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+  label{display:block;font-size:13px;font-weight:600;margin:12px 0 4px;color:var(--ink);}
+  input,select,textarea{
+    width:100%;padding:11px 12px;border:1px solid var(--line);border-radius:10px;
+    font:inherit;font-size:15px;background:#fff;color:var(--ink);
+  }
+  input:focus,select:focus,textarea:focus{outline:2px solid var(--accent);border-color:var(--accent);}
+  textarea{resize:vertical;min-height:64px;}
+  .row{display:flex;gap:10px;}
+  .row>div{flex:1;}
+
+  .note{
+    background:var(--accent-soft);border-radius:12px;padding:12px 14px;
+    font-size:13.5px;color:var(--ink);margin-top:14px;
+  }
+  .note b{color:var(--accent);}
+
+  footer{
+    margin-top:36px;text-align:center;font-size:13px;color:var(--ink-soft);
+  }
+  footer a{color:var(--accent);text-decoration:none;font-weight:600;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="monogram">GMP</div>
+  <h1>Autos y propiedades en Córdoba</h1>
+  <p>Contame qué estás buscando y me ocupo.</p>
+</header>
+
+<div class="wrap">
+  <div class="cards">
+
+    <!-- COMPRAR AUTO -->
+    <div class="card" id="card-comprar-auto">
+      <button class="card-head" onclick="toggle('card-comprar-auto')">
+        <div class="icon">🚗</div>
+        <div class="txt"><b>Quiero comprar un auto</b><span>Mirá el stock o encargame la búsqueda</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <p class="intro">Trabajo con <b>Click Cars</b>, agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
+        <a class="btn btn-primary" href="https://clickcarscba.com/search?filter[vehicleType]=car&amp;filter[source]=all" target="_blank" rel="noopener">Ver catálogo de Click Cars</a>
+        <div class="divider">¿No está el que buscás?</div>
+        <p class="intro">Dejame el pedido y quedo atento: cuando aparece algo que encaja, te aviso primero.</p>
+        <label>Marca y modelo</label>
+        <input id="ca-modelo" placeholder="Ej: Toyota Corolla, Fiat Cronos...">
+        <div class="row">
+          <div><label>Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
+          <div><label>Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
+        </div>
+        <label>Algo más que deba saber (opcional)</label>
+        <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
+        <button class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
+      </div>
+    </div>
+
+    <!-- VENDER AUTO -->
+    <div class="card" id="card-vender-auto">
+      <button class="card-head" onclick="toggle('card-vender-auto')">
+        <div class="icon">🔑</div>
+        <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
+        <label>Marca y modelo</label>
+        <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
+        <div class="row">
+          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
+          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
+        </div>
+        <label>Estado / comentarios (opcional)</label>
+        <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
+        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
+      </div>
+    </div>
+
+    <!-- COMPRAR DEPTO -->
+    <div class="card" id="card-comprar-depto">
+      <button class="card-head" onclick="toggle('card-comprar-depto')">
+        <div class="icon">🏢</div>
+        <div class="txt"><b>Quiero comprar o alquilar</b><span>Departamentos y propiedades en Córdoba</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <p class="intro">Trabajo con <b>Ragazzini Bienes Raíces</b>. Mirá las propiedades disponibles:</p>
+        <a class="btn btn-primary" href="https://www.ragazzinibienesraices.com/site/properties/sale" target="_blank" rel="noopener">Ver propiedades en venta</a>
+        <div class="divider">¿Buscás algo puntual?</div>
+        <p class="intro">Contame qué necesitás y te aviso cuando entra algo que encaja.</p>
+        <div class="row">
+          <div><label>Operación</label>
+            <select id="cd-op"><option>Comprar</option><option>Alquilar</option></select>
+          </div>
+          <div><label>Tipo</label>
+            <select id="cd-tipo"><option>Departamento</option><option>Dúplex</option><option>Casa</option><option>Otro</option></select>
+          </div>
+        </div>
+        <label>Zona / barrio</label>
+        <input id="cd-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
+        <label>Presupuesto</label>
+        <input id="cd-presu" placeholder="Ej: USD 80.000 / $600.000 por mes">
+        <label>Algo más (opcional)</label>
+        <textarea id="cd-nota" placeholder="Dormitorios, cochera, balcón, apto crédito..."></textarea>
+        <button class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
+      </div>
+    </div>
+
+    <!-- VENDER DEPTO -->
+    <div class="card" id="card-vender-depto">
+      <button class="card-head" onclick="toggle('card-vender-depto')">
+        <div class="icon">📋</div>
+        <div class="txt"><b>Quiero vender mi propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <p class="intro">Pasame los datos de la propiedad y coordinamos una tasación sin compromiso.</p>
+        <label>Barrio y dirección aproximada</label>
+        <input id="vd-dir" placeholder="Ej: General Paz, Roma al 500">
+        <div class="row">
+          <div><label>Superficie (m²)</label><input id="vd-m2" inputmode="numeric" placeholder="Ej: 55"></div>
+          <div><label>Dormitorios</label><input id="vd-dorm" inputmode="numeric" placeholder="Ej: 1"></div>
+        </div>
+        <div class="row">
+          <div><label>Antigüedad</label><input id="vd-antig" placeholder="Ej: 15 años / a estrenar"></div>
+          <div><label>¿Tiene escritura?</label>
+            <select id="vd-esc"><option>Sí</option><option>No</option><option>No sé</option></select>
+          </div>
+        </div>
+        <label>Precio esperado (opcional)</label>
+        <input id="vd-precio" placeholder="Ej: USD 75.000">
+        <label>Comentarios (opcional)</label>
+        <textarea id="vd-nota" placeholder="Estado, expensas, si está alquilado..."></textarea>
+        <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <p>GMP · Córdoba, Argentina</p>
+    <p style="margin-top:6px;">
+      <a href="https://clickcarscba.com" target="_blank" rel="noopener">Click Cars</a>
+      &nbsp;·&nbsp;
+      <a href="https://www.ragazzinibienesraices.com" target="_blank" rel="noopener">Ragazzini Bienes Raíces</a>
+    </p>
+  </footer>
+</div>
+
+<script>
+  var WHATSAPP = "5493510000000"; // <-- número de Gastón
+
+  function toggle(id){
+    var card = document.getElementById(id);
+    var wasOpen = card.classList.contains("open");
+    document.querySelectorAll(".card.open").forEach(function(c){c.classList.remove("open");});
+    if(!wasOpen) card.classList.add("open");
+  }
+
+  function v(id){ return document.getElementById(id).value.trim(); }
+  function line(label, val){ return val ? "\n" + label + ": " + val : ""; }
+
+  function sendWA(msg){
+    window.open("https://wa.me/" + WHATSAPP + "?text=" + encodeURIComponent(msg), "_blank");
+  }
+
+  function waComprarAuto(){
+    sendWA("Hola Gastón! Estoy buscando un auto 🚗"
+      + line("Marca y modelo", v("ca-modelo"))
+      + line("Año desde", v("ca-anio"))
+      + line("Presupuesto", v("ca-presu"))
+      + line("Nota", v("ca-nota")));
+  }
+  function waVenderAuto(){
+    sendWA("Hola Gastón! Quiero vender mi auto 🔑"
+      + line("Marca y modelo", v("va-modelo"))
+      + line("Año", v("va-anio"))
+      + line("Kilómetros", v("va-km"))
+      + line("Comentarios", v("va-nota")));
+  }
+  function waComprarDepto(){
+    sendWA("Hola Gastón! Estoy buscando una propiedad 🏢"
+      + line("Operación", v("cd-op"))
+      + line("Tipo", v("cd-tipo"))
+      + line("Zona", v("cd-zona"))
+      + line("Presupuesto", v("cd-presu"))
+      + line("Nota", v("cd-nota")));
+  }
+  function waVenderDepto(){
+    sendWA("Hola Gastón! Quiero vender mi propiedad 📋"
+      + line("Ubicación", v("vd-dir"))
+      + line("Superficie", v("vd-m2") ? v("vd-m2") + " m²" : "")
+      + line("Dormitorios", v("vd-dorm"))
+      + line("Antigüedad", v("vd-antig"))
+      + line("Escritura", v("vd-esc"))
+      + line("Precio esperado", v("vd-precio"))
+      + line("Comentarios", v("vd-nota")));
+  }
+</script>
+
+</body>
+</html>
