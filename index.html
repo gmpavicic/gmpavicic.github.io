@@ -116,7 +116,7 @@
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
-        <p class="intro">Trabajo con <b>Click Cars</b>, agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
+        <p class="intro"><b>Click Cars</b>, agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
         <a class="btn btn-primary" href="https://clickcarscba.com/search?filter[vehicleType]=car&amp;filter[source]=all" target="_blank" rel="noopener">Ver catálogo de Click Cars</a>
         <div class="divider">¿No está el que buscás?</div>
         <p class="intro">Dejame el pedido y quedo atento: cuando aparece algo que encaja, te aviso primero.</p>
@@ -125,6 +125,21 @@
         <div class="row">
           <div><label>Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
           <div><label>Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
+        </div>
+        <label>¿Cómo lo pagarías?</label>
+        <select id="ca-pago" onchange="toggleFin('ca')">
+          <option>Contado</option>
+          <option>Financiado (crédito)</option>
+          <option>Parte contado, parte financiado</option>
+        </select>
+        <div id="ca-fin" style="display:none;">
+          <div class="note">Con tu CUIT te armamos una <b>simulación de crédito sin compromiso</b>. Para autos trabajamos principalmente con <b>Bancor, Nación y Galicia</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
+          <div class="row">
+            <div><label>CUIT</label><input id="ca-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
+            <div><label>¿Ya sos cliente de un banco?</label>
+              <select id="ca-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>Otro banco</option></select>
+            </div>
+          </div>
         </div>
         <label>Algo más que deba saber (opcional)</label>
         <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
@@ -161,13 +176,13 @@
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
-        <p class="intro">Trabajo con <b>Ragazzini Bienes Raíces</b>. Mirá las propiedades disponibles:</p>
+        <p class="intro"><b>Ragazzini Bienes Raíces</b>, inmobiliaria en Córdoba. Mirá las propiedades disponibles:</p>
         <a class="btn btn-primary" href="https://www.ragazzinibienesraices.com/site/properties/sale" target="_blank" rel="noopener">Ver propiedades en venta</a>
         <div class="divider">¿Buscás algo puntual?</div>
         <p class="intro">Contame qué necesitás y te aviso cuando entra algo que encaja.</p>
         <div class="row">
           <div><label>Operación</label>
-            <select id="cd-op"><option>Comprar</option><option>Alquilar</option></select>
+            <select id="cd-op" onchange="toggleOpDepto()"><option>Comprar</option><option>Alquilar</option></select>
           </div>
           <div><label>Tipo</label>
             <select id="cd-tipo"><option>Departamento</option><option>Dúplex</option><option>Casa</option><option>Otro</option></select>
@@ -177,6 +192,23 @@
         <input id="cd-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
         <label>Presupuesto</label>
         <input id="cd-presu" placeholder="Ej: USD 80.000 / $600.000 por mes">
+        <div id="cd-pagoblock">
+          <label>¿Cómo lo pagarías?</label>
+          <select id="cd-pago" onchange="toggleFin('cd')">
+            <option>Contado</option>
+            <option>Crédito hipotecario</option>
+            <option>Parte contado, parte crédito</option>
+          </select>
+          <div id="cd-fin" style="display:none;">
+            <div class="note">Con tu CUIT te armamos una <b>simulación de crédito hipotecario sin compromiso</b>. Trabajamos principalmente con <b>Bancor, Nación, Galicia, BBVA e ICBC</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
+            <div class="row">
+              <div><label>CUIT</label><input id="cd-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
+              <div><label>¿Ya sos cliente de un banco?</label>
+                <select id="cd-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>BBVA</option><option>ICBC</option><option>Otro banco</option></select>
+              </div>
+            </div>
+          </div>
+        </div>
         <label>Algo más (opcional)</label>
         <textarea id="cd-nota" placeholder="Dormitorios, cochera, balcón, apto crédito..."></textarea>
         <button class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
@@ -237,6 +269,22 @@
   function v(id){ return document.getElementById(id).value.trim(); }
   function line(label, val){ return val ? "\n" + label + ": " + val : ""; }
 
+  function toggleFin(p){
+    document.getElementById(p + "-fin").style.display =
+      (v(p + "-pago") === "Contado") ? "none" : "block";
+  }
+  function toggleOpDepto(){
+    var esCompra = v("cd-op") === "Comprar";
+    document.getElementById("cd-pagoblock").style.display = esCompra ? "block" : "none";
+    if(esCompra) toggleFin("cd");
+  }
+  function linesFinanciacion(p){
+    if(v(p + "-pago") === "Contado") return line("Pago", "Contado");
+    return line("Pago", v(p + "-pago"))
+      + line("CUIT (para simular crédito)", v(p + "-cuit"))
+      + line("Banco", v(p + "-banco"));
+  }
+
   function sendWA(msg){
     window.open("https://wa.me/" + WHATSAPP + "?text=" + encodeURIComponent(msg), "_blank");
   }
@@ -246,6 +294,7 @@
       + line("Marca y modelo", v("ca-modelo"))
       + line("Año desde", v("ca-anio"))
       + line("Presupuesto", v("ca-presu"))
+      + linesFinanciacion("ca")
       + line("Nota", v("ca-nota")));
   }
   function waVenderAuto(){
@@ -261,6 +310,7 @@
       + line("Tipo", v("cd-tipo"))
       + line("Zona", v("cd-zona"))
       + line("Presupuesto", v("cd-presu"))
+      + (v("cd-op") === "Comprar" ? linesFinanciacion("cd") : "")
       + line("Nota", v("cd-nota")));
   }
   function waVenderDepto(){
