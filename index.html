@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex">
-<title>GMP · Autos y Propiedades · Córdoba</title>
-<meta name="description" content="Comprá o vendé tu auto o tu propiedad en Córdoba. Te acompaño en todo el proceso.">
+<title>Gastón Pavicic · Propiedades y autos en Córdoba</title>
+<meta name="description" content="Comprá, vendé o alquilá tu propiedad o auto en Córdoba. Contame qué estás buscando y me ocupo.">
 <style>
   :root{
     --ink:#1a2332;
@@ -29,12 +29,13 @@
     background:var(--ink);color:#fff;
     padding:40px 16px 32px;text-align:center;
   }
-  .monogram{
-    display:inline-flex;align-items:center;justify-content:center;
-    width:64px;height:64px;border:2px solid rgba(255,255,255,.85);border-radius:16px;
-    font-size:22px;font-weight:700;letter-spacing:2px;margin-bottom:14px;
+  .name{font-size:26px;font-weight:700;letter-spacing:.4px;}
+  .role{
+    display:inline-block;margin-top:8px;padding:4px 12px;border-radius:999px;
+    border:1px solid rgba(255,255,255,.35);font-size:12px;letter-spacing:.6px;
+    text-transform:uppercase;color:rgba(255,255,255,.85);
   }
-  header h1{font-size:22px;font-weight:600;letter-spacing:.3px;}
+  header h1{font-size:19px;font-weight:600;letter-spacing:.3px;margin-top:16px;color:rgba(255,255,255,.95);}
   header p{margin-top:6px;font-size:15px;color:rgba(255,255,255,.75);}
 
   .cards{margin-top:-18px;display:flex;flex-direction:column;gap:14px;}
@@ -114,75 +115,14 @@
 <body>
 
 <header>
-  <div class="monogram">GMP</div>
-  <h1>Autos y propiedades en Córdoba</h1>
+  <div class="name">Gastón Pavicic</div>
+  <div class="role">Digital Manager</div>
+  <h1>Propiedades y autos en Córdoba</h1>
   <p>Contame qué estás buscando y me ocupo.</p>
 </header>
 
 <div class="wrap">
   <div class="cards">
-
-    <!-- COMPRAR AUTO -->
-    <div class="card" id="card-comprar-auto">
-      <button class="card-head" onclick="toggle('card-comprar-auto')">
-        <div class="icon">🚗</div>
-        <div class="txt"><b>Quiero comprar un auto</b><span>Mirá el stock o encargame la búsqueda</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <img class="brand-logo" data-brand="cc" alt="Click Cars">
-        <p class="intro" style="text-align:center;">Agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
-        <a class="btn btn-primary" href="https://clickcarscba.com/search?filter[vehicleType]=car&amp;filter[source]=all" target="_blank" rel="noopener">Ver catálogo de Click Cars</a>
-        <div class="divider">¿No está el que buscás?</div>
-        <p class="intro">Dejame el pedido y quedo atento: cuando aparece algo que encaja, te aviso primero.</p>
-        <label>Marca y modelo</label>
-        <input id="ca-modelo" placeholder="Ej: Toyota Corolla, Fiat Cronos...">
-        <div class="row">
-          <div><label>Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
-          <div><label>Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
-        </div>
-        <label>¿Cómo lo pagarías?</label>
-        <select id="ca-pago" onchange="toggleFin('ca')">
-          <option>Contado</option>
-          <option>Financiado (crédito)</option>
-          <option>Parte contado, parte financiado</option>
-        </select>
-        <div id="ca-fin" style="display:none;">
-          <div class="note">Con tu CUIT te armamos una <b>simulación de crédito sin compromiso</b>. Para autos trabajamos principalmente con <b>Bancor, Nación y Galicia</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
-          <div class="row">
-            <div><label>CUIT</label><input id="ca-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
-            <div><label>¿Ya sos cliente de un banco?</label>
-              <select id="ca-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>Otro banco</option></select>
-            </div>
-          </div>
-        </div>
-        <label>Algo más que deba saber (opcional)</label>
-        <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
-        <button class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
-      </div>
-    </div>
-
-    <!-- VENDER AUTO -->
-    <div class="card" id="card-vender-auto">
-      <button class="card-head" onclick="toggle('card-vender-auto')">
-        <div class="icon">🔑</div>
-        <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <img class="brand-logo" data-brand="cc" alt="Click Cars">
-        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
-        <label>Marca y modelo</label>
-        <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
-        <div class="row">
-          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
-          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
-        </div>
-        <label>Estado / comentarios (opcional)</label>
-        <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
-        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
-      </div>
-    </div>
 
     <!-- COMPRAR DEPTO -->
     <div class="card" id="card-comprar-depto">
@@ -261,33 +201,79 @@
         <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
       </div>
     </div>
+    <!-- COMPRAR AUTO -->
+    <div class="card" id="card-comprar-auto">
+      <button class="card-head" onclick="toggle('card-comprar-auto')">
+        <div class="icon">🚗</div>
+        <div class="txt"><b>Quiero comprar un auto</b><span>Mirá el stock o encargame la búsqueda</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <img class="brand-logo" data-brand="cc" alt="Click Cars">
+        <p class="intro" style="text-align:center;">Agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
+        <a class="btn btn-primary" href="https://clickcarscba.com/search?filter[vehicleType]=car&amp;filter[source]=all" target="_blank" rel="noopener">Ver catálogo de Click Cars</a>
+        <div class="divider">¿No está el que buscás?</div>
+        <p class="intro">Dejame el pedido y quedo atento: cuando aparece algo que encaja, te aviso primero.</p>
+        <label>Marca y modelo</label>
+        <input id="ca-modelo" placeholder="Ej: Toyota Corolla, Fiat Cronos...">
+        <div class="row">
+          <div><label>Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
+          <div><label>Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
+        </div>
+        <label>¿Cómo lo pagarías?</label>
+        <select id="ca-pago" onchange="toggleFin('ca')">
+          <option>Contado</option>
+          <option>Financiado (crédito)</option>
+          <option>Parte contado, parte financiado</option>
+        </select>
+        <div id="ca-fin" style="display:none;">
+          <div class="note">Con tu CUIT te armamos una <b>simulación de crédito sin compromiso</b>. Para autos trabajamos principalmente con <b>Bancor, Nación y Galicia</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
+          <div class="row">
+            <div><label>CUIT</label><input id="ca-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
+            <div><label>¿Ya sos cliente de un banco?</label>
+              <select id="ca-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>Otro banco</option></select>
+            </div>
+          </div>
+        </div>
+        <label>Algo más que deba saber (opcional)</label>
+        <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
+        <button class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
+      </div>
+    </div>
+
+    <!-- VENDER AUTO -->
+    <div class="card" id="card-vender-auto">
+      <button class="card-head" onclick="toggle('card-vender-auto')">
+        <div class="icon">🔑</div>
+        <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <img class="brand-logo" data-brand="cc" alt="Click Cars">
+        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
+        <label>Marca y modelo</label>
+        <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
+        <div class="row">
+          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
+          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
+        </div>
+        <label>Estado / comentarios (opcional)</label>
+        <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
+        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
+      </div>
+    </div>
+
 
   </div>
 
   <div class="grupo">
     <div class="grupo-title">Las marcas del grupo</div>
     <div class="brand">
-      <img data-brand="cc" alt="Click Cars">
-      <p>Agencia de autos multimarca · 0km y usados</p>
-      <div class="brand-btns">
-        <a class="web" href="https://clickcarscba.com/" target="_blank" rel="noopener">Sitio web</a>
-        <a class="ig" href="https://www.instagram.com/clickcars.cba/" target="_blank" rel="noopener">Instagram</a>
-      </div>
-    </div>
-    <div class="brand">
       <img data-brand="rag" alt="Ragazzini Bienes Raíces">
       <p>Compra y venta de propiedades</p>
       <div class="brand-btns">
         <a class="web" href="https://www.ragazzinibienesraices.com/" target="_blank" rel="noopener">Sitio web</a>
         <a class="ig" href="https://www.instagram.com/ragazzinibienesraices/" target="_blank" rel="noopener">Instagram</a>
-      </div>
-    </div>
-    <div class="brand">
-      <img data-brand="nuuv" alt="Nuuv Córdoba" style="max-height:84px;">
-      <p>Motos y monopatines eléctricos NIU</p>
-      <div class="brand-btns">
-        <a class="web" href="https://nuuvcordoba.com/" target="_blank" rel="noopener">Sitio web</a>
-        <a class="ig" href="https://www.instagram.com/nuuv.cordoba/" target="_blank" rel="noopener">Instagram</a>
       </div>
     </div>
     <div class="brand">
@@ -298,10 +284,26 @@
         <a class="ig" href="https://www.instagram.com/administracionfmr" target="_blank" rel="noopener">Instagram</a>
       </div>
     </div>
+    <div class="brand">
+      <img data-brand="cc" alt="Click Cars">
+      <p>Agencia de autos multimarca · 0km y usados</p>
+      <div class="brand-btns">
+        <a class="web" href="https://clickcarscba.com/" target="_blank" rel="noopener">Sitio web</a>
+        <a class="ig" href="https://www.instagram.com/clickcars.cba/" target="_blank" rel="noopener">Instagram</a>
+      </div>
+    </div>
+    <div class="brand">
+      <img data-brand="nuuv" alt="Nuuv Córdoba" style="max-height:84px;">
+      <p>Motos y monopatines eléctricos NIU</p>
+      <div class="brand-btns">
+        <a class="web" href="https://nuuvcordoba.com/" target="_blank" rel="noopener">Sitio web</a>
+        <a class="ig" href="https://www.instagram.com/nuuv.cordoba/" target="_blank" rel="noopener">Instagram</a>
+      </div>
+    </div>
   </div>
 
   <footer>
-    <p>GMP · Córdoba, Argentina</p>
+    <p>Gastón Pavicic · Córdoba, Argentina</p>
   </footer>
 </div>
 
