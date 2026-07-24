@@ -157,9 +157,9 @@
             <option>Parte contado, parte crédito</option>
           </select>
           <div id="cd-fin" style="display:none;">
-            <div class="note">Con tu CUIT te armamos una <b>simulación de crédito hipotecario sin compromiso</b>. Trabajamos principalmente con <b>Bancor, Nación, Galicia, BBVA e ICBC</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
+            <div class="note">Te orientamos con una <b>precalificación sin compromiso</b>. En hipotecarios lo que más define es el ingreso: la cuota no puede superar ~25% del ingreso del grupo familiar. Trabajamos con <b>Bancor, Nación, Galicia, BBVA e ICBC</b>. Si no sos cliente de ninguno, te podés hacer cliente después.</div>
             <div class="row">
-              <div><label>CUIT</label><input id="cd-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
+              <div><label>Ingreso mensual del grupo (aprox.)</label><input id="cd-ingreso" inputmode="numeric" placeholder="Ej: $2.500.000"></div>
               <div><label>¿Ya sos cliente de un banco?</label>
                 <select id="cd-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>BBVA</option><option>ICBC</option><option>Otro banco</option></select>
               </div>
@@ -263,6 +263,26 @@
       </div>
     </div>
 
+    <!-- OTRA COSA -->
+    <div class="card" id="card-otra-cosa">
+      <button class="card-head" onclick="toggle('card-otra-cosa')">
+        <div class="icon">💬</div>
+        <div class="txt"><b>Busco otra cosa</b><span>Contame y te conecto con quien lo resuelve</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <p class="intro">Me muevo entre <b>Córdoba y Buenos Aires</b> y conozco gente en todos lados. ¿Un depto temporal, un hotel bien ubicado, un profesional de confianza? Decime qué necesitás y te paso el contacto justo.</p>
+        <label>¿Qué estás buscando?</label>
+        <textarea id="oc-que" placeholder="Ej: depto por 1 semana cerca de la embajada de USA en Buenos Aires / abogado en Córdoba / alojamiento temporal..."></textarea>
+        <div class="row">
+          <div><label>¿Dónde?</label>
+            <select id="oc-donde"><option>Córdoba</option><option>Buenos Aires</option><option>Otro / no sé</option></select>
+          </div>
+          <div><label>¿Para cuándo? (opcional)</label><input id="oc-cuando" placeholder="Ej: la semana que viene"></div>
+        </div>
+        <button class="btn btn-wa" onclick="waOtraCosa()">Consultar por WhatsApp</button>
+      </div>
+    </div>
 
   </div>
 
@@ -331,9 +351,11 @@
   }
   function linesFinanciacion(p){
     if(v(p + "-pago") === "Contado") return line("Pago", "Contado");
-    return line("Pago", v(p + "-pago"))
-      + line("CUIT (para simular crédito)", v(p + "-cuit"))
-      + line("Banco", v(p + "-banco"));
+    var out = line("Pago", v(p + "-pago"));
+    if(document.getElementById(p + "-cuit")) out += line("CUIT (para simular crédito)", v(p + "-cuit"));
+    if(document.getElementById(p + "-ingreso")) out += line("Ingreso mensual aprox.", v(p + "-ingreso"));
+    out += line("Banco", v(p + "-banco"));
+    return out;
   }
 
   function sendWA(msg){
@@ -347,6 +369,12 @@
       + line("Presupuesto", v("ca-presu"))
       + linesFinanciacion("ca")
       + line("Nota", v("ca-nota")));
+  }
+  function waOtraCosa(){
+    sendWA("Hola Gastón! Necesito una mano con algo 💬"
+      + line("Busco", v("oc-que"))
+      + line("Dónde", v("oc-donde"))
+      + line("Para cuándo", v("oc-cuando")));
   }
   function waVenderAuto(){
     sendWA("Hola Gastón! Quiero vender mi auto 🔑"
