@@ -42,6 +42,7 @@
   .card{
     background:var(--card);border:1px solid var(--line);border-radius:16px;
     overflow:hidden;box-shadow:0 1px 3px rgba(16,24,40,.06);
+    scroll-margin-top:12px;
   }
   .card-head{
     width:100%;display:flex;align-items:center;gap:14px;
@@ -334,7 +335,13 @@
     var card = document.getElementById(id);
     var wasOpen = card.classList.contains("open");
     document.querySelectorAll(".card.open").forEach(function(c){c.classList.remove("open");});
-    if(!wasOpen) card.classList.add("open");
+    if(!wasOpen){
+      card.classList.add("open");
+      // Llevar el encabezado de la tarjeta al tope, para que no arranque a mitad del form
+      requestAnimationFrame(function(){
+        card.scrollIntoView({behavior:"smooth", block:"start"});
+      });
+    }
   }
 
   function v(id){ return document.getElementById(id).value.trim(); }
