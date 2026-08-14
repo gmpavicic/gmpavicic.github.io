@@ -129,7 +129,7 @@
     <div class="card" id="card-comprar-depto">
       <button class="card-head" onclick="toggle('card-comprar-depto')">
         <div class="icon">🏢</div>
-        <div class="txt"><b>Quiero comprar o alquilar</b><span>Departamentos y propiedades en Córdoba</span></div>
+        <div class="txt"><b>Quiero comprar</b><span>Departamentos y propiedades en Córdoba</span></div>
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
@@ -138,38 +138,27 @@
         <a class="btn btn-primary" href="https://www.ragazzinibienesraices.com/site/properties/sale" target="_blank" rel="noopener">Ver propiedades en venta</a>
         <div class="divider">¿Buscás algo puntual?</div>
         <p class="intro">Contame qué necesitás y te aviso cuando entra algo que encaja.</p>
-        <div class="row">
-          <div><label>Operación</label>
-            <select id="cd-op" onchange="toggleOpDepto()"><option>Comprar</option><option>Alquilar</option></select>
-          </div>
-          <div><label>Tipo</label>
-            <select id="cd-tipo"><option>Departamento</option><option>Dúplex</option><option>Casa</option><option>Otro</option></select>
-          </div>
-        </div>
+        <label>Tipo</label>
+        <select id="cd-tipo"><option>Departamento</option><option>Dúplex</option><option>Casa</option><option>Otro</option></select>
         <label>Zona / barrio</label>
         <input id="cd-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
         <label>Presupuesto</label>
-        <input id="cd-presu" placeholder="Ej: USD 80.000 / $600.000 por mes">
-        <div id="cd-pagoblock">
-          <label>¿Cómo lo pagarías?</label>
-          <select id="cd-pago" onchange="toggleFin('cd')">
-            <option>Contado</option>
-            <option>Crédito hipotecario</option>
-            <option>Parte contado, parte crédito</option>
-          </select>
-          <div id="cd-fin" style="display:none;">
-            <div class="note">Te orientamos con una <b>precalificación sin compromiso</b>. En hipotecarios lo que más define es el ingreso: la cuota no puede superar ~25% del ingreso del grupo familiar. Trabajamos con <b>Bancor, Nación, Galicia, BBVA e ICBC</b>. Si no sos cliente de ninguno, te podés hacer cliente después.</div>
-            <div class="row">
-              <div><label>Ingreso mensual del grupo (aprox.)</label><input id="cd-ingreso" inputmode="numeric" placeholder="Ej: $2.500.000"></div>
-              <div><label>¿Ya sos cliente de un banco?</label>
-                <select id="cd-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>BBVA</option><option>ICBC</option><option>Otro banco</option></select>
-              </div>
-            </div>
-          </div>
+        <input id="cd-presu" placeholder="Ej: USD 80.000">
+        <label>¿Cómo lo pagarías?</label>
+        <select id="cd-pago" onchange="toggleFin('cd')">
+          <option>Contado</option>
+          <option>Crédito hipotecario</option>
+          <option>Parte contado, parte crédito</option>
+        </select>
+        <div id="cd-fin" style="display:none;">
+          <div class="note">Si vas a necesitar crédito, trabajamos con <b>Bancor, Nación, Galicia, BBVA e ICBC</b>. Te doy la info básica de cada uno para orientarte. Si no sos cliente de ninguno, te podés hacer cliente después.</div>
+          <label>¿Ya sos cliente de un banco?</label>
+          <select id="cd-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>BBVA</option><option>ICBC</option><option>Otro banco</option></select>
         </div>
         <label>Algo más (opcional)</label>
         <textarea id="cd-nota" placeholder="Dormitorios, cochera, balcón, apto crédito..."></textarea>
         <button class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
+        <p class="intro" style="text-align:center;margin-top:12px;font-size:13px;">¿Buscás <b>alquilar</b> en vez de comprar? Eso lo maneja <a href="https://www.administracionfmr.com.ar" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;">FMR</a>.</p>
       </div>
     </div>
 
@@ -351,11 +340,6 @@
     document.getElementById(p + "-fin").style.display =
       (v(p + "-pago") === "Contado") ? "none" : "block";
   }
-  function toggleOpDepto(){
-    var esCompra = v("cd-op") === "Comprar";
-    document.getElementById("cd-pagoblock").style.display = esCompra ? "block" : "none";
-    if(esCompra) toggleFin("cd");
-  }
   function linesFinanciacion(p){
     if(v(p + "-pago") === "Contado") return line("Pago", "Contado");
     var out = line("Pago", v(p + "-pago"));
@@ -391,12 +375,11 @@
       + line("Comentarios", v("va-nota")));
   }
   function waComprarDepto(){
-    sendWA("Hola Gastón! Estoy buscando una propiedad 🏢"
-      + line("Operación", v("cd-op"))
+    sendWA("Hola Gastón! Quiero comprar una propiedad 🏢"
       + line("Tipo", v("cd-tipo"))
       + line("Zona", v("cd-zona"))
       + line("Presupuesto", v("cd-presu"))
-      + (v("cd-op") === "Comprar" ? linesFinanciacion("cd") : "")
+      + linesFinanciacion("cd")
       + line("Nota", v("cd-nota")));
   }
   function waVenderDepto(){
