@@ -101,6 +101,7 @@
   .brand{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 16px;text-align:center;margin-bottom:12px;box-shadow:0 1px 3px rgba(16,24,40,.06);}
   .brand img{max-width:170px;max-height:44px;}
   .fmr-logo svg{width:64px;height:64px;display:block;margin:0 auto;}
+  .brand-logo-fmr svg{width:54px;height:54px;display:block;margin:8px auto 2px;}
   .brand p{font-size:13.5px;color:var(--ink-soft);margin:8px 0 14px;}
   .brand-btns{display:flex;gap:10px;justify-content:center;}
   .brand-btns a{flex:1;max-width:170px;text-decoration:none;font-size:14px;font-weight:600;padding:10px 12px;border-radius:10px;text-align:center;}
@@ -129,7 +130,7 @@
     <div class="card" id="card-comprar-depto">
       <button class="card-head" onclick="toggle('card-comprar-depto')">
         <div class="icon">🏢</div>
-        <div class="txt"><b>Quiero comprar</b><span>Departamentos y propiedades en Córdoba</span></div>
+        <div class="txt"><b>Quiero comprar una propiedad</b><span>Casa, depto, lote, local…</span></div>
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
@@ -139,7 +140,7 @@
         <div class="divider">¿Buscás algo puntual?</div>
         <p class="intro">Contame qué necesitás y te aviso cuando entra algo que encaja.</p>
         <label>Tipo</label>
-        <select id="cd-tipo"><option>Departamento</option><option>Dúplex</option><option>Casa</option><option>Otro</option></select>
+        <select id="cd-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Lote / terreno</option><option>Local / comercial</option><option>Otro</option></select>
         <label>Zona / barrio</label>
         <input id="cd-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
         <label>Presupuesto</label>
@@ -158,7 +159,6 @@
         <label>Algo más (opcional)</label>
         <textarea id="cd-nota" placeholder="Dormitorios, cochera, balcón, apto crédito..."></textarea>
         <button class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
-        <p class="intro" style="text-align:center;margin-top:12px;font-size:13px;">¿Buscás <b>alquilar</b> en vez de comprar? Eso lo maneja <a href="https://www.administracionfmr.com.ar" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;">FMR</a>.</p>
       </div>
     </div>
 
@@ -166,7 +166,7 @@
     <div class="card" id="card-vender-depto">
       <button class="card-head" onclick="toggle('card-vender-depto')">
         <div class="icon">📋</div>
-        <div class="txt"><b>Quiero vender mi propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
+        <div class="txt"><b>Quiero vender una propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
@@ -191,6 +191,55 @@
         <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
       </div>
     </div>
+
+    <!-- BUSCO ALQUILER (inquilino) -->
+    <div class="card" id="card-busco-alquiler">
+      <button class="card-head" onclick="toggle('card-busco-alquiler')">
+        <div class="icon">🔎</div>
+        <div class="txt"><b>Busco un alquiler</b><span>Quiero alquilar una propiedad</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
+        <p class="intro" style="text-align:center;">Los alquileres los maneja <b>FMR</b>. Contame qué buscás y coordinamos.</p>
+        <label>¿Qué buscás?</label>
+        <select id="ba-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
+        <label>Zona / barrio</label>
+        <input id="ba-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
+        <div class="row">
+          <div><label>Presupuesto por mes</label><input id="ba-presu" placeholder="Ej: $600.000"></div>
+          <div><label>¿Para cuándo?</label><input id="ba-cuando" placeholder="Ej: este mes"></div>
+        </div>
+        <label>Algo más (opcional)</label>
+        <textarea id="ba-nota" placeholder="Cantidad de personas, mascotas, cochera, garante..."></textarea>
+        <button class="btn btn-wa" onclick="waBuscoAlquiler()">Enviar búsqueda por WhatsApp</button>
+      </div>
+    </div>
+
+    <!-- TENGO PARA ALQUILAR (propietario) -->
+    <div class="card" id="card-tengo-alquiler">
+      <button class="card-head" onclick="toggle('card-tengo-alquiler')">
+        <div class="icon">🏠</div>
+        <div class="txt"><b>Tengo una propiedad para alquilar</b><span>La ponemos en alquiler y la administramos</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
+        <p class="intro" style="text-align:center;"><b>FMR</b> se ocupa de publicar, alquilar y administrar tu propiedad. Pasame los datos y coordinamos.</p>
+        <label>Tipo</label>
+        <select id="ta-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
+        <label>Barrio y dirección aproximada</label>
+        <input id="ta-dir" placeholder="Ej: General Paz, Roma al 500">
+        <div class="row">
+          <div><label>Ambientes / dormitorios</label><input id="ta-amb" placeholder="Ej: 2 dormitorios"></div>
+          <div><label>Precio esperado por mes</label><input id="ta-precio" placeholder="Ej: $650.000"></div>
+        </div>
+        <label>Comentarios (opcional)</label>
+        <textarea id="ta-nota" placeholder="Estado, si está ocupada, expensas, desde cuándo disponible..."></textarea>
+        <button class="btn btn-wa" onclick="waTengoAlquiler()">Consultar por WhatsApp</button>
+      </div>
+    </div>
+
     <!-- COMPRAR AUTO -->
     <div class="card" id="card-comprar-auto">
       <button class="card-head" onclick="toggle('card-comprar-auto')">
@@ -366,6 +415,22 @@
       + line("Busco", v("oc-que"))
       + line("Dónde", v("oc-donde"))
       + line("Para cuándo", v("oc-cuando")));
+  }
+  function waBuscoAlquiler(){
+    sendWA("Hola Gastón! Busco un alquiler 🔎"
+      + line("Tipo", v("ba-tipo"))
+      + line("Zona", v("ba-zona"))
+      + line("Presupuesto por mes", v("ba-presu"))
+      + line("Para cuándo", v("ba-cuando"))
+      + line("Nota", v("ba-nota")));
+  }
+  function waTengoAlquiler(){
+    sendWA("Hola Gastón! Tengo una propiedad para alquilar 🏠"
+      + line("Tipo", v("ta-tipo"))
+      + line("Ubicación", v("ta-dir"))
+      + line("Ambientes", v("ta-amb"))
+      + line("Precio esperado por mes", v("ta-precio"))
+      + line("Comentarios", v("ta-nota")));
   }
   function waVenderAuto(){
     sendWA("Hola Gastón! Quiero vender mi auto 🔑"
