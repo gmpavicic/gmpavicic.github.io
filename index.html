@@ -126,6 +126,36 @@
 <div class="wrap">
   <div class="cards">
 
+    <!-- VENDER DEPTO -->
+    <div class="card" id="card-vender-depto">
+      <button class="card-head" onclick="toggle('card-vender-depto')">
+        <div class="icon">📋</div>
+        <div class="txt"><b>Quiero vender una propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
+        <div class="chev">▼</div>
+      </button>
+      <div class="card-body">
+        <img class="brand-logo" data-brand="rag" alt="Ragazzini Bienes Raíces">
+        <p class="intro">Pasame los datos de la propiedad y coordinamos una tasación sin compromiso.</p>
+        <label>Barrio y dirección aproximada</label>
+        <input id="vd-dir" placeholder="Ej: General Paz, Roma al 500">
+        <div class="row">
+          <div><label>Superficie (m²)</label><input id="vd-m2" inputmode="numeric" placeholder="Ej: 55"></div>
+          <div><label>Dormitorios</label><input id="vd-dorm" inputmode="numeric" placeholder="Ej: 1"></div>
+        </div>
+        <div class="row">
+          <div><label>Antigüedad</label><input id="vd-antig" placeholder="Ej: 15 años / a estrenar"></div>
+          <div><label>¿Tiene escritura?</label>
+            <select id="vd-esc"><option>Sí</option><option>No</option><option>No sé</option></select>
+          </div>
+        </div>
+        <label>Precio esperado (opcional)</label>
+        <input id="vd-precio" placeholder="Ej: USD 75.000">
+        <label>Comentarios (opcional)</label>
+        <textarea id="vd-nota" placeholder="Estado, expensas, si está alquilado..."></textarea>
+        <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
+      </div>
+    </div>
+
     <!-- COMPRAR DEPTO -->
     <div class="card" id="card-comprar-depto">
       <button class="card-head" onclick="toggle('card-comprar-depto')">
@@ -162,33 +192,27 @@
       </div>
     </div>
 
-    <!-- VENDER DEPTO -->
-    <div class="card" id="card-vender-depto">
-      <button class="card-head" onclick="toggle('card-vender-depto')">
-        <div class="icon">📋</div>
-        <div class="txt"><b>Quiero vender una propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
+    <!-- TENGO PARA ALQUILAR (propietario) -->
+    <div class="card" id="card-tengo-alquiler">
+      <button class="card-head" onclick="toggle('card-tengo-alquiler')">
+        <div class="icon">🏠</div>
+        <div class="txt"><b>Tengo una propiedad para alquilar</b><span>La ponemos en alquiler y la administramos</span></div>
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
-        <img class="brand-logo" data-brand="rag" alt="Ragazzini Bienes Raíces">
-        <p class="intro">Pasame los datos de la propiedad y coordinamos una tasación sin compromiso.</p>
+        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
+        <p class="intro" style="text-align:center;"><b>FMR</b> se ocupa de publicar, alquilar y administrar tu propiedad. Pasame los datos y coordinamos.</p>
+        <label>Tipo</label>
+        <select id="ta-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
         <label>Barrio y dirección aproximada</label>
-        <input id="vd-dir" placeholder="Ej: General Paz, Roma al 500">
+        <input id="ta-dir" placeholder="Ej: General Paz, Roma al 500">
         <div class="row">
-          <div><label>Superficie (m²)</label><input id="vd-m2" inputmode="numeric" placeholder="Ej: 55"></div>
-          <div><label>Dormitorios</label><input id="vd-dorm" inputmode="numeric" placeholder="Ej: 1"></div>
+          <div><label>Ambientes / dormitorios</label><input id="ta-amb" placeholder="Ej: 2 dormitorios"></div>
+          <div><label>Precio esperado por mes</label><input id="ta-precio" placeholder="Ej: $650.000"></div>
         </div>
-        <div class="row">
-          <div><label>Antigüedad</label><input id="vd-antig" placeholder="Ej: 15 años / a estrenar"></div>
-          <div><label>¿Tiene escritura?</label>
-            <select id="vd-esc"><option>Sí</option><option>No</option><option>No sé</option></select>
-          </div>
-        </div>
-        <label>Precio esperado (opcional)</label>
-        <input id="vd-precio" placeholder="Ej: USD 75.000">
         <label>Comentarios (opcional)</label>
-        <textarea id="vd-nota" placeholder="Estado, expensas, si está alquilado..."></textarea>
-        <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
+        <textarea id="ta-nota" placeholder="Estado, si está ocupada, expensas, desde cuándo disponible..."></textarea>
+        <button class="btn btn-wa" onclick="waTengoAlquiler()">Consultar por WhatsApp</button>
       </div>
     </div>
 
@@ -216,27 +240,25 @@
       </div>
     </div>
 
-    <!-- TENGO PARA ALQUILAR (propietario) -->
-    <div class="card" id="card-tengo-alquiler">
-      <button class="card-head" onclick="toggle('card-tengo-alquiler')">
-        <div class="icon">🏠</div>
-        <div class="txt"><b>Tengo una propiedad para alquilar</b><span>La ponemos en alquiler y la administramos</span></div>
+    <!-- VENDER AUTO -->
+    <div class="card" id="card-vender-auto">
+      <button class="card-head" onclick="toggle('card-vender-auto')">
+        <div class="icon">🔑</div>
+        <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
         <div class="chev">▼</div>
       </button>
       <div class="card-body">
-        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
-        <p class="intro" style="text-align:center;"><b>FMR</b> se ocupa de publicar, alquilar y administrar tu propiedad. Pasame los datos y coordinamos.</p>
-        <label>Tipo</label>
-        <select id="ta-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
-        <label>Barrio y dirección aproximada</label>
-        <input id="ta-dir" placeholder="Ej: General Paz, Roma al 500">
+        <img class="brand-logo" data-brand="cc" alt="Click Cars">
+        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
+        <label>Marca y modelo</label>
+        <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
         <div class="row">
-          <div><label>Ambientes / dormitorios</label><input id="ta-amb" placeholder="Ej: 2 dormitorios"></div>
-          <div><label>Precio esperado por mes</label><input id="ta-precio" placeholder="Ej: $650.000"></div>
+          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
+          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
         </div>
-        <label>Comentarios (opcional)</label>
-        <textarea id="ta-nota" placeholder="Estado, si está ocupada, expensas, desde cuándo disponible..."></textarea>
-        <button class="btn btn-wa" onclick="waTengoAlquiler()">Consultar por WhatsApp</button>
+        <label>Estado / comentarios (opcional)</label>
+        <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
+        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
       </div>
     </div>
 
@@ -277,28 +299,6 @@
         <label>Algo más que deba saber (opcional)</label>
         <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
         <button class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
-      </div>
-    </div>
-
-    <!-- VENDER AUTO -->
-    <div class="card" id="card-vender-auto">
-      <button class="card-head" onclick="toggle('card-vender-auto')">
-        <div class="icon">🔑</div>
-        <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <img class="brand-logo" data-brand="cc" alt="Click Cars">
-        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
-        <label>Marca y modelo</label>
-        <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
-        <div class="row">
-          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
-          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
-        </div>
-        <label>Estado / comentarios (opcional)</label>
-        <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
-        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
       </div>
     </div>
 
