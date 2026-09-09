@@ -35,8 +35,11 @@
     border:1px solid rgba(255,255,255,.35);font-size:12px;letter-spacing:.6px;
     text-transform:uppercase;color:rgba(255,255,255,.85);
   }
-  header h1{font-size:19px;font-weight:600;letter-spacing:.3px;margin-top:16px;color:rgba(255,255,255,.95);}
+  header h1{font-size:19px;font-weight:600;letter-spacing:.3px;margin-top:20px;color:rgba(255,255,255,.95);}
   header p{margin-top:6px;font-size:15px;color:rgba(255,255,255,.75);}
+  .brands-header{display:flex;gap:10px;justify-content:center;align-items:center;flex-wrap:wrap;margin-top:16px;}
+  .brands-header .chip{background:#fff;border-radius:10px;padding:8px 13px;display:flex;align-items:center;}
+  .brands-header img{height:26px;width:auto;display:block;}
 
   .cards{margin-top:-18px;display:flex;flex-direction:column;gap:14px;}
   .card{
@@ -95,16 +98,15 @@
 
   .brand-logo{display:block;max-width:180px;max-height:48px;margin:16px auto 2px;}
 
-  .grupo{margin-top:36px;}
-  .grupo-title{display:flex;align-items:center;gap:10px;font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.8px;margin-bottom:14px;}
+  .grupo{margin-top:56px;padding-top:22px;border-top:1px solid var(--line);opacity:.9;}
+  .grupo-title{display:flex;align-items:center;gap:10px;font-size:11px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.8px;margin-bottom:12px;}
   .grupo-title::before,.grupo-title::after{content:"";flex:1;height:1px;background:var(--line);}
-  .brand{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 16px;text-align:center;margin-bottom:12px;box-shadow:0 1px 3px rgba(16,24,40,.06);}
-  .brand img{max-width:170px;max-height:44px;}
-  .fmr-logo svg{width:64px;height:64px;display:block;margin:0 auto;}
-  .brand-logo-fmr svg{width:54px;height:54px;display:block;margin:8px auto 2px;}
-  .brand p{font-size:13.5px;color:var(--ink-soft);margin:8px 0 14px;}
-  .brand-btns{display:flex;gap:10px;justify-content:center;}
-  .brand-btns a{flex:1;max-width:170px;text-decoration:none;font-size:14px;font-weight:600;padding:10px 12px;border-radius:10px;text-align:center;}
+  .brand{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 14px;text-align:center;margin-bottom:8px;}
+  .brand img{max-width:120px;max-height:28px;}
+  .fmr-logo svg{width:38px;height:38px;display:block;margin:0 auto;}
+  .brand p{font-size:12px;color:var(--ink-soft);margin:6px 0 9px;}
+  .brand-btns{display:flex;gap:8px;justify-content:center;}
+  .brand-btns a{flex:1;max-width:140px;text-decoration:none;font-size:12.5px;font-weight:600;padding:7px 10px;border-radius:9px;text-align:center;}
   .brand-btns a.web{border:1.5px solid var(--accent);color:var(--accent);}
   .brand-btns a.ig{border:1.5px solid #d6249f;color:#d6249f;}
 
@@ -119,6 +121,10 @@
 <header>
   <div class="name">Gastón Pavicic</div>
   <div class="role">Digital Manager</div>
+  <div class="brands-header">
+    <span class="chip"><img data-brand="rag" alt="Ragazzini Bienes Raíces"></span>
+    <span class="chip"><img data-brand="cc" alt="Click Cars"></span>
+  </div>
   <h1>Propiedades y autos en Córdoba</h1>
   <p>Contame qué estás buscando y me ocupo.</p>
 </header>
@@ -192,53 +198,7 @@
       </div>
     </div>
 
-    <!-- TENGO PARA ALQUILAR (propietario) -->
-    <div class="card" id="card-tengo-alquiler">
-      <button class="card-head" onclick="toggle('card-tengo-alquiler')">
-        <div class="icon">🏠</div>
-        <div class="txt"><b>Tengo una propiedad para alquilar</b><span>La ponemos en alquiler y la administramos</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
-        <p class="intro" style="text-align:center;"><b>FMR</b> se ocupa de publicar, alquilar y administrar tu propiedad. Pasame los datos y coordinamos.</p>
-        <label>Tipo</label>
-        <select id="ta-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
-        <label>Barrio y dirección aproximada</label>
-        <input id="ta-dir" placeholder="Ej: General Paz, Roma al 500">
-        <div class="row">
-          <div><label>Ambientes / dormitorios</label><input id="ta-amb" placeholder="Ej: 2 dormitorios"></div>
-          <div><label>Precio esperado por mes</label><input id="ta-precio" placeholder="Ej: $650.000"></div>
-        </div>
-        <label>Comentarios (opcional)</label>
-        <textarea id="ta-nota" placeholder="Estado, si está ocupada, expensas, desde cuándo disponible..."></textarea>
-        <button class="btn btn-wa" onclick="waTengoAlquiler()">Consultar por WhatsApp</button>
-      </div>
-    </div>
 
-    <!-- BUSCO ALQUILER (inquilino) -->
-    <div class="card" id="card-busco-alquiler">
-      <button class="card-head" onclick="toggle('card-busco-alquiler')">
-        <div class="icon">🔎</div>
-        <div class="txt"><b>Busco un alquiler</b><span>Quiero alquilar una propiedad</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <div class="brand-logo-fmr"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080"> <circle cx="540" cy="540" r="540" fill="#0b445c"/> <g fill="none" stroke="#ffffff" stroke-width="26">  <rect x="215" y="205" width="330" height="330"/>  <path d="M545 205 H760 L845 290 V535 H545 Z"/>  <rect x="545" y="560" width="300" height="330"/> </g> <path d="M215 890 V650 L360 545 L505 650 V890 Z" fill="none" stroke="#d81f7a" stroke-width="26"/> <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="210" text-anchor="middle" dominant-baseline="central">  <text x="380" y="372">F</text>  <text x="700" y="372">M</text>  <text x="700" y="723">R</text> </g></svg></div>
-        <p class="intro" style="text-align:center;">Los alquileres los maneja <b>FMR</b>. Contame qué buscás y coordinamos.</p>
-        <label>¿Qué buscás?</label>
-        <select id="ba-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Local / comercial</option><option>Otro</option></select>
-        <label>Zona / barrio</label>
-        <input id="ba-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
-        <div class="row">
-          <div><label>Presupuesto por mes</label><input id="ba-presu" placeholder="Ej: $600.000"></div>
-          <div><label>¿Para cuándo?</label><input id="ba-cuando" placeholder="Ej: este mes"></div>
-        </div>
-        <label>Algo más (opcional)</label>
-        <textarea id="ba-nota" placeholder="Cantidad de personas, mascotas, cochera, garante..."></textarea>
-        <button class="btn btn-wa" onclick="waBuscoAlquiler()">Enviar búsqueda por WhatsApp</button>
-      </div>
-    </div>
 
     <!-- VENDER AUTO -->
     <div class="card" id="card-vender-auto">
@@ -302,26 +262,6 @@
       </div>
     </div>
 
-    <!-- OTRA COSA -->
-    <div class="card" id="card-otra-cosa">
-      <button class="card-head" onclick="toggle('card-otra-cosa')">
-        <div class="icon">💬</div>
-        <div class="txt"><b>Busco otra cosa</b><span>Contame qué necesitás e intento ayudarte</span></div>
-        <div class="chev">▼</div>
-      </button>
-      <div class="card-body">
-        <p class="intro">¿Un depto temporal, un hotel bien ubicado, un profesional de confianza? Contame qué necesitás e intento ayudarte.</p>
-        <label>¿Qué estás buscando?</label>
-        <textarea id="oc-que" placeholder="Ej: depto por 1 semana cerca de la embajada de USA en Buenos Aires / abogado en Córdoba / alojamiento temporal..."></textarea>
-        <div class="row">
-          <div><label>¿Dónde?</label>
-            <select id="oc-donde"><option>Córdoba</option><option>Buenos Aires</option><option>Otro / no sé</option></select>
-          </div>
-          <div><label>¿Para cuándo? (opcional)</label><input id="oc-cuando" placeholder="Ej: la semana que viene"></div>
-        </div>
-        <button class="btn btn-wa" onclick="waOtraCosa()">Consultar por WhatsApp</button>
-      </div>
-    </div>
 
   </div>
 
@@ -352,7 +292,7 @@
       </div>
     </div>
     <div class="brand">
-      <img data-brand="nuuv" alt="Nuuv Córdoba" style="max-height:84px;">
+      <img data-brand="nuuv" alt="Nuuv Córdoba" style="max-height:48px;">
       <p>Motos y monopatines eléctricos NIU</p>
       <div class="brand-btns">
         <a class="web" href="https://nuuvcordoba.com/" target="_blank" rel="noopener">Sitio web</a>
@@ -409,28 +349,6 @@
       + line("Presupuesto", v("ca-presu"))
       + linesFinanciacion("ca")
       + line("Nota", v("ca-nota")));
-  }
-  function waOtraCosa(){
-    sendWA("Hola Gastón! Necesito una mano con algo 💬"
-      + line("Busco", v("oc-que"))
-      + line("Dónde", v("oc-donde"))
-      + line("Para cuándo", v("oc-cuando")));
-  }
-  function waBuscoAlquiler(){
-    sendWA("Hola Gastón! Busco un alquiler 🔎"
-      + line("Tipo", v("ba-tipo"))
-      + line("Zona", v("ba-zona"))
-      + line("Presupuesto por mes", v("ba-presu"))
-      + line("Para cuándo", v("ba-cuando"))
-      + line("Nota", v("ba-nota")));
-  }
-  function waTengoAlquiler(){
-    sendWA("Hola Gastón! Tengo una propiedad para alquilar 🏠"
-      + line("Tipo", v("ta-tipo"))
-      + line("Ubicación", v("ta-dir"))
-      + line("Ambientes", v("ta-amb"))
-      + line("Precio esperado por mes", v("ta-precio"))
-      + line("Comentarios", v("ta-nota")));
   }
   function waVenderAuto(){
     sendWA("Hola Gastón! Quiero vender mi auto 🔑"
