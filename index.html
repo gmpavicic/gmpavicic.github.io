@@ -5,7 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex">
 <title>Gastón Pavicic · Propiedades y autos en Córdoba</title>
-<meta name="description" content="Comprá, vendé o alquilá tu propiedad o auto en Córdoba. Contame qué estás buscando y me ocupo.">
+<meta name="description" content="Si querés comprar, vender o encontrar una oportunidad, contame qué necesitás y me ocupo personalmente.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%231f6f5c'/%3E%3Ctext%20x='32'%20y='45'%20font-family='Arial,sans-serif'%20font-size='34'%20font-weight='700'%20text-anchor='middle'%20fill='%23ffffff'%3EGP%3C/text%3E%3C/svg%3E">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://gmpavicic.github.io/">
+<meta property="og:title" content="Gastón Pavicic · Propiedades y autos en Córdoba">
+<meta property="og:description" content="Si querés comprar, vender o encontrar una oportunidad, contame qué necesitás y me ocupo personalmente.">
+<meta property="og:image" content="https://gmpavicic.github.io/og-image.png?v=1">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_AR">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   :root{
     --ink:#1a2332;
@@ -23,7 +33,7 @@
     background:var(--bg);color:var(--ink);line-height:1.5;
     -webkit-font-smoothing:antialiased;
   }
-  .wrap{max-width:560px;margin:0 auto;padding:0 16px 48px;}
+  .wrap{max-width:560px;margin:0 auto;padding:0 16px 96px;}
 
   header{
     background:var(--ink);color:#fff;
@@ -55,8 +65,9 @@
   .card-head .icon{
     flex:none;width:44px;height:44px;border-radius:12px;
     background:var(--accent-soft);display:flex;align-items:center;justify-content:center;
-    font-size:22px;
+    color:var(--accent);
   }
+  .card-head .icon svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;}
   .card-head .txt b{display:block;font-size:16px;font-weight:600;}
   .card-head .txt span{font-size:13px;color:var(--ink-soft);}
   .card-head .chev{margin-left:auto;color:var(--ink-soft);transition:transform .2s;font-size:13px;}
@@ -114,6 +125,20 @@
     margin-top:36px;text-align:center;font-size:13px;color:var(--ink-soft);
   }
   footer a{color:var(--accent);text-decoration:none;font-weight:600;}
+
+  .fab-wa{
+    position:fixed;right:16px;bottom:16px;z-index:50;
+    display:inline-flex;align-items:center;gap:9px;
+    background:var(--wa);color:#fff;text-decoration:none;
+    padding:12px 18px;border-radius:999px;font-size:15px;font-weight:600;
+    box-shadow:0 6px 20px rgba(0,0,0,.18);
+  }
+  .fab-wa svg{width:20px;height:20px;fill:#fff;flex:none;}
+
+  .card-head:focus-visible,.btn:focus-visible,a.btn:focus-visible,.brand-btns a:focus-visible,footer a:focus-visible{
+    outline:2px solid var(--accent);outline-offset:2px;border-radius:8px;
+  }
+  .fab-wa:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
 </style>
 </head>
 <body>
@@ -126,7 +151,7 @@
     <span class="chip"><img data-brand="cc" alt="Click Cars"></span>
   </div>
   <h1>Propiedades y autos en Córdoba</h1>
-  <p>Contame qué estás buscando y me ocupo.</p>
+  <p>Si querés comprar, vender o encontrar una oportunidad, contame qué necesitás y me ocupo personalmente.</p>
 </header>
 
 <div class="wrap">
@@ -134,54 +159,55 @@
 
     <!-- VENDER DEPTO -->
     <div class="card" id="card-vender-depto">
-      <button class="card-head" onclick="toggle('card-vender-depto')">
-        <div class="icon">📋</div>
+      <button type="button" class="card-head" onclick="toggle('card-vender-depto')" aria-expanded="false" aria-controls="card-vender-depto-body">
+        <div class="icon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 10.7 10 5l7 5.7"/><path d="M5 9.4V19h10V9.4"/><path d="M19.5 21v-6"/><path d="M17 17.5l2.5-2.5 2.5 2.5"/></svg></div>
         <div class="txt"><b>Quiero vender una propiedad</b><span>Tasación y venta con acompañamiento completo</span></div>
         <div class="chev">▼</div>
       </button>
-      <div class="card-body">
+      <div class="card-body" id="card-vender-depto-body" role="region">
         <img class="brand-logo" data-brand="rag" alt="Ragazzini Bienes Raíces">
+        <div class="note"><b>¿Por qué vender con nosotros?</b> Conocemos el mercado, publicamos en los principales portales y nos ocupamos de las consultas y visitas. Además, contamos con potenciales compradores e inversores.</div>
         <p class="intro">Pasame los datos de la propiedad y coordinamos una tasación sin compromiso.</p>
-        <label>Barrio y dirección aproximada</label>
+        <label for="vd-dir">Barrio y dirección aproximada</label>
         <input id="vd-dir" placeholder="Ej: General Paz, Roma al 500">
         <div class="row">
-          <div><label>Superficie (m²)</label><input id="vd-m2" inputmode="numeric" placeholder="Ej: 55"></div>
-          <div><label>Dormitorios</label><input id="vd-dorm" inputmode="numeric" placeholder="Ej: 1"></div>
+          <div><label for="vd-m2">Superficie (m²)</label><input id="vd-m2" inputmode="numeric" placeholder="Ej: 55"></div>
+          <div><label for="vd-dorm">Dormitorios</label><input id="vd-dorm" inputmode="numeric" placeholder="Ej: 1"></div>
         </div>
         <div class="row">
-          <div><label>Antigüedad</label><input id="vd-antig" placeholder="Ej: 15 años / a estrenar"></div>
-          <div><label>¿Tiene escritura?</label>
+          <div><label for="vd-antig">Antigüedad</label><input id="vd-antig" placeholder="Ej: 15 años / a estrenar"></div>
+          <div><label for="vd-esc">¿Tiene escritura?</label>
             <select id="vd-esc"><option>Sí</option><option>No</option><option>No sé</option></select>
           </div>
         </div>
-        <label>Precio esperado (opcional)</label>
+        <label for="vd-precio">Precio esperado (opcional)</label>
         <input id="vd-precio" placeholder="Ej: USD 75.000">
-        <label>Comentarios (opcional)</label>
+        <label for="vd-nota">Comentarios (opcional)</label>
         <textarea id="vd-nota" placeholder="Estado, expensas, si está alquilado..."></textarea>
-        <button class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
+        <button type="button" class="btn btn-wa" onclick="waVenderDepto()">Consultar por WhatsApp</button>
       </div>
     </div>
 
     <!-- COMPRAR DEPTO -->
     <div class="card" id="card-comprar-depto">
-      <button class="card-head" onclick="toggle('card-comprar-depto')">
-        <div class="icon">🏢</div>
+      <button type="button" class="card-head" onclick="toggle('card-comprar-depto')" aria-expanded="false" aria-controls="card-comprar-depto-body">
+        <div class="icon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 10.7 10 5l7 5.7"/><path d="M5 9.4V19h10V9.4"/><circle cx="18.3" cy="17.3" r="2.6"/><path d="M20.2 19.2 22 21"/></svg></div>
         <div class="txt"><b>Quiero comprar una propiedad</b><span>Casa, depto, lote, local…</span></div>
         <div class="chev">▼</div>
       </button>
-      <div class="card-body">
+      <div class="card-body" id="card-comprar-depto-body" role="region">
         <img class="brand-logo" data-brand="rag" alt="Ragazzini Bienes Raíces">
         <p class="intro" style="text-align:center;">Inmobiliaria en Córdoba. Mirá las propiedades disponibles:</p>
         <a class="btn btn-primary" href="https://www.ragazzinibienesraices.com/site/properties/sale" target="_blank" rel="noopener">Ver propiedades en venta</a>
         <div class="divider">¿Buscás algo puntual?</div>
         <p class="intro">Contame qué necesitás y te aviso cuando entra algo que encaja.</p>
-        <label>Tipo</label>
+        <label for="cd-tipo">Tipo</label>
         <select id="cd-tipo"><option>Departamento</option><option>Casa</option><option>Dúplex</option><option>Lote / terreno</option><option>Local / comercial</option><option>Otro</option></select>
-        <label>Zona / barrio</label>
+        <label for="cd-zona">Zona / barrio</label>
         <input id="cd-zona" placeholder="Ej: Nueva Córdoba, General Paz...">
-        <label>Presupuesto</label>
+        <label for="cd-presu">Presupuesto</label>
         <input id="cd-presu" placeholder="Ej: USD 80.000">
-        <label>¿Cómo lo pagarías?</label>
+        <label for="cd-pago">¿Cómo lo pagarías?</label>
         <select id="cd-pago" onchange="toggleFin('cd')">
           <option>Contado</option>
           <option>Crédito hipotecario</option>
@@ -189,12 +215,12 @@
         </select>
         <div id="cd-fin" style="display:none;">
           <div class="note">El crédito lo gestionás vos con tu banco. Según cuál sea y si tenés cuenta sueldo, te podemos dar info o aconsejarte para orientarte. Los más usados son <b>Bancor, Nación, Galicia, BBVA e ICBC</b>.</div>
-          <label>¿En qué banco tenés cuenta sueldo?</label>
+          <label for="cd-banco">¿En qué banco tenés cuenta sueldo?</label>
           <select id="cd-banco"><option>No tengo cuenta sueldo</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>BBVA</option><option>ICBC</option><option>Otro banco</option></select>
         </div>
-        <label>Algo más (opcional)</label>
+        <label for="cd-nota">Algo más (opcional)</label>
         <textarea id="cd-nota" placeholder="Dormitorios, cochera, balcón, apto crédito..."></textarea>
-        <button class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
+        <button type="button" class="btn btn-wa" onclick="waComprarDepto()">Enviar búsqueda por WhatsApp</button>
       </div>
     </div>
 
@@ -202,46 +228,46 @@
 
     <!-- VENDER AUTO -->
     <div class="card" id="card-vender-auto">
-      <button class="card-head" onclick="toggle('card-vender-auto')">
-        <div class="icon">🔑</div>
+      <button type="button" class="card-head" onclick="toggle('card-vender-auto')" aria-expanded="false" aria-controls="card-vender-auto-body">
+        <div class="icon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 13.5l1.3-3.8A1.8 1.8 0 0 1 6 8.5h6.5a1.8 1.8 0 0 1 1.7 1.2l1.3 3.8"/><path d="M2.5 13.5h13.5V16H2.5z"/><circle cx="6" cy="16.4" r="1.3"/><circle cx="12.5" cy="16.4" r="1.3"/><path d="M20 21v-6"/><path d="M17.5 17.5l2.5-2.5 2.5 2.5"/></svg></div>
         <div class="txt"><b>Quiero vender mi auto</b><span>Consignación: vos lo dejás, nosotros lo vendemos</span></div>
         <div class="chev">▼</div>
       </button>
-      <div class="card-body">
+      <div class="card-body" id="card-vender-auto-body" role="region">
         <img class="brand-logo" data-brand="cc" alt="Click Cars">
-        <div class="note"><b>¿Cómo funciona?</b> Dejás el auto en la agencia, lo <b>alistamos</b> (limpieza profunda, detalles y puesta a punto — ese costo lo cubre el dueño), lo publicamos y nos ocupamos de mostrar, negociar y cerrar la venta con toda la documentación en regla.</div>
-        <label>Marca y modelo</label>
+        <div class="note"><b>¿Por qué venderlo con nosotros?</b> Lo alistamos, lo mostramos impecable y lo ofrecemos en un amplio horario con vendedores profesionales. Además, brindamos opciones de financiación que amplían la cantidad de posibles compradores.</div>
+        <label for="va-modelo">Marca y modelo</label>
         <input id="va-modelo" placeholder="Ej: VW Amarok Highline">
         <div class="row">
-          <div><label>Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
-          <div><label>Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
+          <div><label for="va-anio">Año</label><input id="va-anio" inputmode="numeric" placeholder="Ej: 2020"></div>
+          <div><label for="va-km">Kilómetros</label><input id="va-km" inputmode="numeric" placeholder="Ej: 85.000"></div>
         </div>
-        <label>Estado / comentarios (opcional)</label>
+        <label for="va-nota">Estado / comentarios (opcional)</label>
         <textarea id="va-nota" placeholder="Único dueño, service oficial, detalle en paragolpes..."></textarea>
-        <button class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
+        <button type="button" class="btn btn-wa" onclick="waVenderAuto()">Consultar por WhatsApp</button>
       </div>
     </div>
 
     <!-- COMPRAR AUTO -->
     <div class="card" id="card-comprar-auto">
-      <button class="card-head" onclick="toggle('card-comprar-auto')">
-        <div class="icon">🚗</div>
+      <button type="button" class="card-head" onclick="toggle('card-comprar-auto')" aria-expanded="false" aria-controls="card-comprar-auto-body">
+        <div class="icon"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 13.5l1.3-3.8A1.8 1.8 0 0 1 6 8.5h6.5a1.8 1.8 0 0 1 1.7 1.2l1.3 3.8"/><path d="M2.5 13.5h13.5V16H2.5z"/><circle cx="6" cy="16.4" r="1.3"/><circle cx="12.5" cy="16.4" r="1.3"/><circle cx="19" cy="17" r="2.6"/><path d="M20.9 18.9 22.5 20.5"/></svg></div>
         <div class="txt"><b>Quiero comprar un auto</b><span>Mirá el stock o encargame la búsqueda</span></div>
         <div class="chev">▼</div>
       </button>
-      <div class="card-body">
+      <div class="card-body" id="card-comprar-auto-body" role="region">
         <img class="brand-logo" data-brand="cc" alt="Click Cars">
         <p class="intro" style="text-align:center;">Agencia multimarca en Córdoba. Mirá lo que hay disponible hoy:</p>
         <a class="btn btn-primary" href="https://clickcarscba.com/search?filter[vehicleType]=car&amp;filter[source]=all" target="_blank" rel="noopener">Ver catálogo de Click Cars</a>
         <div class="divider">¿No está el que buscás?</div>
         <p class="intro">Dejame el pedido y quedo atento: cuando aparece algo que encaja, te aviso primero.</p>
-        <label>Marca y modelo</label>
+        <label for="ca-modelo">Marca y modelo</label>
         <input id="ca-modelo" placeholder="Ej: Toyota Corolla, Fiat Cronos...">
         <div class="row">
-          <div><label>Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
-          <div><label>Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
+          <div><label for="ca-anio">Año (desde)</label><input id="ca-anio" inputmode="numeric" placeholder="Ej: 2018"></div>
+          <div><label for="ca-presu">Presupuesto</label><input id="ca-presu" placeholder="Ej: 18 millones"></div>
         </div>
-        <label>¿Cómo lo pagarías?</label>
+        <label for="ca-pago">¿Cómo lo pagarías?</label>
         <select id="ca-pago" onchange="toggleFin('ca')">
           <option>Contado</option>
           <option>Financiado (crédito)</option>
@@ -250,15 +276,15 @@
         <div id="ca-fin" style="display:none;">
           <div class="note">Con tu CUIT te armamos una <b>simulación de crédito sin compromiso</b>. Para autos trabajamos principalmente con <b>Bancor, Nación y Galicia</b>. Si no sos cliente de ninguno, no pasa nada: te podés hacer cliente después.</div>
           <div class="row">
-            <div><label>CUIT</label><input id="ca-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
-            <div><label>¿Ya sos cliente de un banco?</label>
+            <div><label for="ca-cuit">CUIT</label><input id="ca-cuit" inputmode="numeric" placeholder="Ej: 20-31234567-8"></div>
+            <div><label for="ca-banco">¿Ya sos cliente de un banco?</label>
               <select id="ca-banco"><option>Todavía no</option><option>Bancor</option><option>Nación</option><option>Galicia</option><option>Otro banco</option></select>
             </div>
           </div>
         </div>
-        <label>Algo más que deba saber (opcional)</label>
+        <label for="ca-nota">Algo más que deba saber (opcional)</label>
         <textarea id="ca-nota" placeholder="Caja automática, entrego usado, etc."></textarea>
-        <button class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
+        <button type="button" class="btn btn-wa" onclick="waComprarAuto()">Enviar pedido por WhatsApp</button>
       </div>
     </div>
 
@@ -306,15 +332,26 @@
   </footer>
 </div>
 
+<a class="fab-wa" href="https://wa.me/5493512222151?text=Hola%20Gast%C3%B3n!%20Quer%C3%ADa%20hacerte%20una%20consulta" target="_blank" rel="noopener" aria-label="Hablar con Gastón por WhatsApp">
+  <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 0 0-8.5 15.3L2 22l4.8-1.5A10 10 0 1 0 12 2zm0 18a8 8 0 0 1-4.1-1.1l-.3-.2-2.8.9.9-2.7-.2-.3A8 8 0 1 1 12 20zm4.4-6c-.2-.1-1.4-.7-1.6-.8s-.4-.1-.5.1-.6.8-.8 1-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.2-.4.2-.4.6-1.2a.5.5 0 0 0 0-.5l-.8-1.9c-.2-.5-.4-.4-.5-.4h-.5a1 1 0 0 0-.7.3A2.8 2.8 0 0 0 6 8.3a4.9 4.9 0 0 0 1 2.6 11 11 0 0 0 4.3 3.8c2 .8 2 .6 2.4.5a2.4 2.4 0 0 0 1.6-1.1 2 2 0 0 0 .1-1.1c-.1-.1-.3-.2-.5-.3z"/></svg>
+  Hablar con Gastón
+</a>
+
 <script>
   var WHATSAPP = "5493512222151";
 
   function toggle(id){
     var card = document.getElementById(id);
     var wasOpen = card.classList.contains("open");
-    document.querySelectorAll(".card.open").forEach(function(c){c.classList.remove("open");});
+    document.querySelectorAll(".card.open").forEach(function(c){
+      c.classList.remove("open");
+      var b = c.querySelector(".card-head");
+      if(b){ b.setAttribute("aria-expanded", "false"); }
+    });
     if(!wasOpen){
       card.classList.add("open");
+      var btn = card.querySelector(".card-head");
+      if(btn){ btn.setAttribute("aria-expanded", "true"); }
       // Llevar el encabezado de la tarjeta al tope, para que no arranque a mitad del form
       requestAnimationFrame(function(){
         card.scrollIntoView({behavior:"smooth", block:"start"});
