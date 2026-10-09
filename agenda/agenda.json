@@ -1,0 +1,2113 @@
+{
+  "events": [
+    {
+      "id": "80c8ba6418cbabae",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Aldosivi vs. Sarmiento",
+      "date": "2026-10-09",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "031df53b2cc43396",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Gimnasia La Plata vs. Atlético Tucumán",
+      "date": "2026-10-09",
+      "time": "18:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "11df6ddbbf6febac",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Instituto vs. Boca Juniors",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": true,
+      "national": false,
+      "city": "Córdoba Capital",
+      "venueStatus": "pending",
+      "note": "Las fuentes publicadas discrepan entre el Kempes y el Monumental de Alta Córdoba. Confirmá la sede con Instituto antes de ir.",
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        },
+        {
+          "name": "Sede: Vía Córdoba",
+          "url": "https://viapais.com.ar/cordoba/instituto-boca-kempes-dias-horarios-partidos-fecha-12_0_nG2aMPfRkj.html"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "cea155d483d5070b",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Unión vs. Defensa y Justicia",
+      "date": "2026-10-09",
+      "time": "21:45",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "7233d7bd9bfcaf39",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Barracas Central vs. Huracán",
+      "date": "2026-10-10",
+      "time": "15:45",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "44d53a5edd9e8c5e",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Central Córdoba vs. Estudiantes",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "0f0e8c73290b9234",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Tigre vs. Banfield",
+      "date": "2026-10-10",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "conflicting",
+      "local": false,
+      "national": false,
+      "note": "La fuente lista dos señales. Televisación pendiente de reconfirmación.",
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "e68091086307f31b",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "River Plate vs. Estudiantes de Río Cuarto",
+      "date": "2026-10-10",
+      "time": "21:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "cfeb1427ed1c30de",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "San Lorenzo vs. Deportivo Riestra",
+      "date": "2026-10-11",
+      "time": "14:45",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "7209ef21b6c267b4",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Platense vs. Argentinos Juniors",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "198e2accb626f94d",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Rosario Central vs. Independiente Rivadavia",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "8912758922fc39da",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Racing vs. Belgrano",
+      "date": "2026-10-11",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "9b0491c04d3d9081",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Talleres vs. Independiente",
+      "date": "2026-10-11",
+      "time": "21:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": true,
+      "national": false,
+      "venue": "Estadio Mario Alberto Kempes",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Confirmá acceso y venta de entradas con el club.",
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "0763d488bfac7491",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Lanús vs. Vélez Sarsfield",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a784ecec32d9e046",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Gimnasia Mendoza vs. Newell’s",
+      "date": "2026-10-12",
+      "time": "18:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DeporTV",
+          "url": "https://deportv.gob.ar/futbol/fecha-12-torneo-clausura-dias-horarios-arbitros-tv-partidos-nid:17737"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "8662a062ab4d2730",
+      "sport": "Rugby",
+      "competition": "Top 10 · UCR",
+      "title": "La Tablada vs. Jockey Club Córdoba",
+      "date": "2026-10-10",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "La Tablada · Sede Urca",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "9fbf19e4b3ddfadf",
+      "sport": "Rugby",
+      "competition": "Top 10 · UCR",
+      "title": "Universitario vs. Urú Curé",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Club Universitario Córdoba · Sede",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "75c27043571840ee",
+      "sport": "Rugby",
+      "competition": "Top 10 · UCR",
+      "title": "Palermo Bajo vs. Jockey Club Villa María",
+      "date": "2026-10-10",
+      "time": "16:10",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Club Palermo Bajo",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "ecd7d9b0b8c9abc4",
+      "sport": "Rugby",
+      "competition": "Top 10 · UCR",
+      "title": "Carlos Paz RC vs. Tala RC",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Córdoba Athletic · Anexo Bimbo",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "baef6cf5ef7784de",
+      "sport": "Rugby",
+      "competition": "Desarrollo · UCR",
+      "title": "Asociación Cordobesa de Volantes vs. Conas RC",
+      "date": "2026-10-09",
+      "time": "21:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Asociación Cordobesa de Volantes",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "02a8c0fb98e2e519",
+      "sport": "Rugby",
+      "competition": "Desarrollo · UCR",
+      "title": "Universidad Siglo 21 vs. Rosedal RC",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Universidad Siglo 21",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "70bb83ca838e661d",
+      "sport": "Rugby",
+      "competition": "Desarrollo · UCR",
+      "title": "Villa Libertador RC vs. Chelcos RC",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Universidad Católica de Córdoba",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "df29469bce016526",
+      "sport": "Rugby",
+      "competition": "Desarrollo · UCR",
+      "title": "Ajedrez Cosquín vs. Salsipuedes RC",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Club Ajedrez Cosquín",
+      "city": "Cosquín",
+      "venueStatus": "confirmed",
+      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "74286516ebeb91e1",
+      "sport": "Automovilismo",
+      "competition": "Córdoba Pista",
+      "title": "Córdoba Pista · Cabalén",
+      "date": "2026-10-24",
+      "endDate": "2026-10-25",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Autódromo Oscar Cabalén",
+      "city": "Villa Parque Santa Ana",
+      "venueStatus": "confirmed",
+      "note": "Fecha y circuito publicados. Cronograma, entradas y horarios todavía por confirmar.",
+      "sources": [
+        {
+          "name": "FRAD Córdoba",
+          "url": "https://fradcba.com.ar/se-modifico-el-calendario-del-cordoba-pista-y-la-ultima-del-provincial-de-karting-en-asfalto/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a0b619416d8778ee",
+      "sport": "Automovilismo",
+      "competition": "Córdoba Pista",
+      "title": "Córdoba Pista · Cabalén",
+      "date": "2026-11-21",
+      "endDate": "2026-11-22",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "not-applicable",
+      "local": true,
+      "national": false,
+      "venue": "Autódromo Oscar Cabalén",
+      "city": "Villa Parque Santa Ana",
+      "venueStatus": "confirmed",
+      "note": "Fecha y circuito publicados. Cronograma, entradas y horarios todavía por confirmar.",
+      "sources": [
+        {
+          "name": "FRAD Córdoba",
+          "url": "https://fradcba.com.ar/se-modifico-el-calendario-del-cordoba-pista-y-la-ultima-del-provincial-de-karting-en-asfalto/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "57ea354206a5c087",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "Baycurrent Classic",
+      "date": "2026-10-08",
+      "endDate": "2026-10-11",
+      "time": null,
+      "timeType": "pending",
+      "channels": [
+        "Golf Channel Latinoamérica"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Yokohama, Japón. Golf Channel Latinoamérica publica cobertura; el horario de Argentina y las salidas se deben reconfirmar.",
+      "sources": [
+        {
+          "name": "PGA Tour · torneo y salidas",
+          "url": "https://www.pgatour.com/es/tournaments/2026/baycurrent-classic/R2026527/tee-times"
+        },
+        {
+          "name": "Programación Golf Channel LATAM",
+          "url": "https://www.gatotv.com/canal/golf_channel_latinoamerica/2026-10-09"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "359ceed0df353693",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "Butterfield Bermuda Championship",
+      "date": "2026-10-22",
+      "endDate": "2026-10-25",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Horario de salidas y transmisión en Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "PGA Tour · calendario",
+          "url": "https://www.pgatour.com/schedule"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "4aacfdb1bdab02cd",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "China Open · Beijing",
+      "date": "2026-09-30",
+      "endDate": "2026-10-11",
+      "time": null,
+      "timeType": "pending",
+      "channels": [
+        "Disney+ Premium",
+        "WTA TV"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partidos del cuadro principal femenino. Horarios individuales pendientes de orden de juego verificado. La señal lineal de ESPN depende de la programación diaria.",
+      "sources": [
+        {
+          "name": "WTA · orden de juego",
+          "url": "https://www.wtatennis.com/tournaments/1020/Beijing/2026/order-of-play"
+        },
+        {
+          "name": "TV Argentina · Canal Tenis",
+          "url": "https://canaltenis.com/como-ver-por-television-wta-china-open-en-argentina/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "45c87daa464ae14e",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Germany P2 · Jornada del viernes",
+      "date": "2026-10-09",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Düsseldorf. Horario y transmisión del día por confirmar.",
+      "sources": [
+        {
+          "name": "FIP · calendario oficial",
+          "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "6bfcf4a2d7f66915",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Germany P2 · Jornada del domingo",
+      "date": "2026-10-11",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Última jornada del torneo. Orden de juego y transmisión por confirmar.",
+      "sources": [
+        {
+          "name": "FIP · calendario oficial",
+          "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "9c45c0c4dd8bb506",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1",
+      "date": "2026-10-10",
+      "endDate": "2026-10-18",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Calendario del torneo, incluida la clasificación. Cuadro principal y horarios diarios por confirmar.",
+      "sources": [
+        {
+          "name": "FIP · calendario oficial",
+          "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "2075b741dcff2c1e",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major",
+      "date": "2026-10-26",
+      "endDate": "2026-10-31",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Horario y transmisión en Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "FIP · calendario oficial",
+          "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "7ea8e43b7936d653",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "M1000 Shanghai – Segunda Ronda",
+      "date": "2026-10-09",
+      "time": "07:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "e13428e3ce3aa056",
+      "sport": "Golf",
+      "competition": "DP World Tour",
+      "title": "Open de España – Primera Ronda",
+      "date": "2026-10-09",
+      "time": "09:00",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "3c7489397fc24fae",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Borussia Dortmund vs. Werder Bremen",
+      "date": "2026-10-09",
+      "time": "15:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "5bd0efbd26f6522a",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Málaga vs. Espanyol",
+      "date": "2026-10-09",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "8c1f233dca8e9f66",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Arsenal vs. Leeds United",
+      "date": "2026-10-10",
+      "time": "08:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "d7dfd7cbf03dba97",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Germany P2 – Semifinales #1 Femenina y Masculina",
+      "date": "2026-10-10",
+      "time": "09:00",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "21c16cfdd75dd72f",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Genoa vs. Fiorentina",
+      "date": "2026-10-10",
+      "time": "09:50",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a35a3a8bc22258fa",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Hoffenheim vs. Hamburger SV",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "62b50789c80dc35d",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Augsburg vs. Bayern Munich",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "ec9f2a008f9a9a83",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Union Berlin vs. SV Elversberg",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "02aba5cc9ef227e8",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "SC Paderborn 07 vs. Stuttgart",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "9600be4760656a8b",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Mainz 05 vs. Bayer Leverkusen",
+      "date": "2026-10-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "c4fedd6f64e0298f",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Chelsea vs. Bournemouth",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "2f6889f330e1dd6c",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Ipswich Town vs. Fulham",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "2645376435010542",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Sunderland vs. Brighton & Hove Albion",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "e21727f392a3fc26",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Aston Villa vs. Brentford",
+      "date": "2026-10-10",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "f3d7567b2ba773a0",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Alavés vs. Atlético Madrid",
+      "date": "2026-10-10",
+      "time": "11:15",
+      "timeType": "event",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "eb6325f7934bd936",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Inter vs. Parma",
+      "date": "2026-10-10",
+      "time": "12:50",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a04df4e48b06e89b",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Germany P2 – Semifinales #2 Femenina y Masculina",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "7fbae5e2361aedab",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Barcelona vs. Getafe",
+      "date": "2026-10-10",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "7a76ac3257f6199a",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Manchester United vs. Tottenham Hotspur",
+      "date": "2026-10-10",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "DSPORTS · hora del partido",
+          "url": "https://www.directvsports.com/futbol/manchester-united-vs.-tottenham-todo-lo-que-tenes-que-saber-del-duelo-de-la-premier-league-20261007-0017.html"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "5c289d616c69fd7d",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "RB Leipzig vs. Eintracht Frankfurt",
+      "date": "2026-10-10",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "59c5d56d09914aad",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Napoli vs. Frosinone",
+      "date": "2026-10-10",
+      "time": "15:30",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "d60f124a120bd8e3",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "M1000 Shanghai – Tercera Ronda",
+      "date": "2026-10-11",
+      "time": "07:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a9e9ee99cbd346f9",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Como vs. Roma",
+      "date": "2026-10-11",
+      "time": "07:20",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "69722d4beeb67712",
+      "sport": "Golf",
+      "competition": "DP World Tour",
+      "title": "Open de España – Ronda Final",
+      "date": "2026-10-11",
+      "time": "07:30",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "c790cf4764d17161",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Crystal Palace vs. Nottingham Forest",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "f33d4a42717a3fb9",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Lazio vs. Monza",
+      "date": "2026-10-11",
+      "time": "09:50",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "40564189ab316dc1",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Hull City vs. Everton",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "a81d89faef90def7",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Lecce vs. Bologna",
+      "date": "2026-10-11",
+      "time": "09:50",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "3049afab9d805575",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "FC Köln vs. Borussia M’gladbach",
+      "date": "2026-10-11",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "d026a8f41731a7d7",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "M1000 Shanghai – Tercera Ronda",
+      "date": "2026-10-11",
+      "time": "11:30",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "19c8295ae99889f6",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Liverpool vs. Manchester City",
+      "date": "2026-10-11",
+      "time": "12:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "d2597ac9c2fb536c",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Freiburg vs. Schalke 04",
+      "date": "2026-10-11",
+      "time": "12:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "fe5c6f73fbf6734c",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Sassuolo vs. Milan",
+      "date": "2026-10-11",
+      "time": "12:50",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "82d05957a75125af",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Cagliari vs. Juventus",
+      "date": "2026-10-11",
+      "time": "15:30",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "3f26bf3a555e80e8",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Racing de Santander vs. Valencia",
+      "date": "2026-10-11",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "f724f7eb0af32a8a",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Atalanta vs. Venezia",
+      "date": "2026-10-12",
+      "time": "13:20",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "4f62ed41b5a1a55e",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Torino vs. Udinese",
+      "date": "2026-10-12",
+      "time": "15:30",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "3322fb156f64f5a9",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Coventry City vs. Newcastle United",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "e077506ba2868a1a",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "M1000 Shanghai – Octavos de final",
+      "date": "2026-10-13",
+      "time": "07:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "b2d6ec578e9d5488",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "M1000 Shanghai – Cuartos de Final",
+      "date": "2026-10-15",
+      "time": "07:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "87295dc4658358e9",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Eintracht Frankfurt vs. FC Köln",
+      "date": "2026-10-16",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN 3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "62a179cd2cad72bc",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Frosinone vs. Sassuolo",
+      "date": "2026-10-16",
+      "time": "15:30",
+      "timeType": "broadcast",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "b3aa583898bd75ae",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Deportivo La Coruña vs. Levante",
+      "date": "2026-10-16",
+      "time": "15:50",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN 2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "aa32cbdeec404a6a",
+      "sport": "Rugby",
+      "competition": "Nations Championship",
+      "title": "Irlanda vs. Los Pumas",
+      "date": "2026-11-06",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "note": "Fecha y rival confirmados por la UAR. Horario en Argentina y televisación pendientes de verificar.",
+      "sources": [
+        {
+          "name": "UAR · calendario de Los Pumas",
+          "url": "https://uar.com.ar/los-pumas-ponen-primera-en-londres/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "39a18b0cee44173d",
+      "sport": "Rugby",
+      "competition": "Nations Championship",
+      "title": "Italia vs. Los Pumas",
+      "date": "2026-11-14",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "note": "Fecha y rival confirmados por la UAR. Horario en Argentina y televisación pendientes de verificar.",
+      "sources": [
+        {
+          "name": "UAR · calendario de Los Pumas",
+          "url": "https://uar.com.ar/los-pumas-ponen-primera-en-londres/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "89e1852e6785cca6",
+      "sport": "Rugby",
+      "competition": "Nations Championship",
+      "title": "Francia vs. Los Pumas",
+      "date": "2026-11-21",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "note": "Fecha y rival confirmados por la UAR. Horario en Argentina y televisación pendientes de verificar.",
+      "sources": [
+        {
+          "name": "UAR · calendario de Los Pumas",
+          "url": "https://uar.com.ar/los-pumas-ponen-primera-en-londres/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "2bca54ec99aeebcc",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Rayo Vallecano vs. Athletic Club",
+      "date": "2026-10-10",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "caf64d3ea4871642",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Madrid vs. Villarreal",
+      "date": "2026-10-10",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "DSports",
+        "DGO"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "ef8f728a864be297",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Elche vs. Celta",
+      "date": "2026-10-11",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [
+        "DSports",
+        "DGO"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "cb583a0b65cfd4c9",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Sociedad vs. Deportivo",
+      "date": "2026-10-11",
+      "time": "11:15",
+      "timeType": "event",
+      "channels": [
+        "DSports",
+        "DGO"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "dcf1465a4c39798a",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Betis vs. Osasuna",
+      "date": "2026-10-11",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "DSports",
+        "DGO"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "f55c6577a2e8751d",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Levante vs. Sevilla",
+      "date": "2026-10-12",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [
+        "DSports 2",
+        "DGO"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Guía TV Argentina",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "60c3efdf3998f6ea",
+      "sport": "Básquet",
+      "competition": "Clasificatorios FIBA 2027",
+      "title": "Argentina vs. Bahamas",
+      "date": "2026-11-26",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "city": "Zárate",
+      "venueStatus": "pending",
+      "note": "Fecha y rival publicados por la CAB. Horario y transmisión en Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "CAB · Quinta Ventana",
+          "url": "https://argentina.basketball/mayor-masculina/noticia/36277/argentina-recibira-a-bahamas-y-canada-en-zarate-por-la-quinta-ventana-de-clasificatorios-fiba"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "46543116c09d8bf2",
+      "sport": "Básquet",
+      "competition": "Clasificatorios FIBA 2027",
+      "title": "Argentina vs. Canadá",
+      "date": "2026-11-29",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "city": "Zárate",
+      "venueStatus": "pending",
+      "note": "Fecha y rival publicados por la CAB. Horario y transmisión en Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "CAB · Quinta Ventana",
+          "url": "https://argentina.basketball/mayor-masculina/noticia/36277/argentina-recibira-a-bahamas-y-canada-en-zarate-por-la-quinta-ventana-de-clasificatorios-fiba"
+        }
+      ],
+      "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    }
+  ],
+  "updatedAt": "2026-10-09T13:53:02.649451Z",
+  "coverageThrough": "2026-10-16",
+  "warnings": []
+}
