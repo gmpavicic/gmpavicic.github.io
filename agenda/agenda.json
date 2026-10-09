@@ -2105,9 +2105,159 @@
         }
       ],
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "f1-singapore-2026-practice-1",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Singapur",
+      "title": "GP de Singapur · Práctica libre 1",
+      "date": "2026-10-09",
+      "time": "05:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Circuito urbano de Marina Bay",
+      "city": "Singapur",
+      "venueStatus": "confirmed",
+      "note": "Hora de inicio de la sesión, en Córdoba (UTC−3). La transmisión de ESPN en Disney+ Premium comienza a las 05:25. Horario oficial convertido desde Singapur (UTC+8).",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Singapur",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T15:10:36.563Z"
+    },
+    {
+      "id": "f1-singapore-2026-sprint-qualifying",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Singapur",
+      "title": "GP de Singapur · Clasificación sprint",
+      "date": "2026-10-09",
+      "time": "09:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Circuito urbano de Marina Bay",
+      "city": "Singapur",
+      "venueStatus": "confirmed",
+      "note": "Hora de inicio de la sesión, en Córdoba (UTC−3). La transmisión de ESPN en Disney+ Premium comienza a las 09:25. Horario oficial convertido desde Singapur (UTC+8).",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Singapur",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T15:10:36.563Z"
+    },
+    {
+      "id": "f1-singapore-2026-sprint",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Singapur",
+      "title": "GP de Singapur · Sprint",
+      "date": "2026-10-10",
+      "time": "06:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Circuito urbano de Marina Bay",
+      "city": "Singapur",
+      "venueStatus": "confirmed",
+      "note": "Hora de inicio de la sesión, en Córdoba (UTC−3). La transmisión de ESPN en Disney+ Premium comienza a las 05:55. Horario oficial convertido desde Singapur (UTC+8).",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Singapur",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T15:10:36.563Z"
+    },
+    {
+      "id": "f1-singapore-2026-qualifying",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Singapur",
+      "title": "GP de Singapur · Clasificación",
+      "date": "2026-10-10",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Circuito urbano de Marina Bay",
+      "city": "Singapur",
+      "venueStatus": "confirmed",
+      "note": "Hora de inicio de la sesión, en Córdoba (UTC−3). La transmisión de ESPN en Disney+ Premium comienza a las 09:55. Horario oficial convertido desde Singapur (UTC+8).",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Singapur",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T15:10:36.563Z"
+    },
+    {
+      "id": "f1-singapore-2026-race",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Singapur",
+      "title": "GP de Singapur · Carrera",
+      "date": "2026-10-11",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Circuito urbano de Marina Bay",
+      "city": "Singapur",
+      "venueStatus": "confirmed",
+      "note": "Hora de inicio de la sesión, en Córdoba (UTC−3). La transmisión de ESPN en Disney+ Premium comienza a las 08:55. Horario oficial convertido desde Singapur (UTC+8).",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Singapur",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-09T15:10:36.563Z"
     }
   ],
-  "updatedAt": "2026-10-09T13:53:02.649451Z",
+  "updatedAt": "2026-10-09T15:10:36.563Z",
   "coverageThrough": "2026-10-16",
   "warnings": []
 }
