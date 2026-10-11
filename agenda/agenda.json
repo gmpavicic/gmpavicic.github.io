@@ -6775,9 +6775,44 @@
         }
       ],
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
+    },
+    {
+      "id": "6ec308430defbae8",
+      "sport": "Golf",
+      "competition": "Korn Ferry Tour",
+      "title": "Korn Ferry Tour Championship",
+      "date": "2026-10-08",
+      "endDate": "2026-10-11",
+      "time": null,
+      "timeType": "pending",
+      "channels": [
+        "Golf Channel Latinoamérica"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "The Federal Club",
+      "city": "Glen Allen, Virginia, Estados Unidos",
+      "venueStatus": "confirmed",
+      "note": "Torneo del 8 al 11 de octubre. La guía de Golf Channel Latinoamérica publica cobertura de la ronda final; horario exacto para Argentina y salidas por reconfirmar. Consultá el marcador para el avance por hoyo y los argentinos.",
+      "sources": [
+        {
+          "name": "PGA Tour · fechas, sede y salidas",
+          "url": "https://pgatourmedia.pgatourhq.com/tours/2026/kornferrytour/kornferrytourchampionship"
+        },
+        {
+          "name": "Korn Ferry Tour · torneo y salidas",
+          "url": "https://www.pgatour.com/korn-ferry-tour/tournaments/2026/korn-ferry-tour-championship-presented-by-virginias-richmond-region/H2026045/tee-times"
+        },
+        {
+          "name": "Golf Channel Latinoamérica · programación",
+          "url": "https://www.gatotv.com/canal/golf_channel_latinoamerica/2026-10-11"
+        }
+      ],
+      "verifiedAt": "2026-10-11T02:47:45.822Z"
     }
   ],
-  "updatedAt": "2026-10-11T02:31:28.730Z",
+  "updatedAt": "2026-10-11T02:47:45.822Z",
   "coverageThrough": "2026-10-24",
   "warnings": [
     "PGA Tour no permitió leer el calendario completo ni las salidas del Baycurrent Classic. Se conserva ese registro con su verificación anterior; horarios de golf y programación argentina exacta pendientes.",
