@@ -325,30 +325,6 @@
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
     },
     {
-      "id": "baef6cf5ef7784de",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Asociación Cordobesa de Volantes vs. Conas RC",
-      "date": "2026-10-09",
-      "time": "21:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "not-applicable",
-      "local": true,
-      "national": false,
-      "venue": "Asociación Cordobesa de Volantes",
-      "city": "Córdoba Capital",
-      "venueStatus": "confirmed",
-      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
       "id": "cea155d483d5070b",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
@@ -1143,7 +1119,7 @@
     {
       "id": "ecd7d9b0b8c9abc4",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Carlos Paz RC vs. Tala RC",
       "date": "2026-10-10",
       "time": "16:00",
@@ -1194,7 +1170,7 @@
     {
       "id": "9fbf19e4b3ddfadf",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Universitario vs. Urú Curé",
       "date": "2026-10-10",
       "time": "16:00",
@@ -1218,7 +1194,7 @@
     {
       "id": "75c27043571840ee",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Palermo Bajo vs. Jockey Club Villa María",
       "date": "2026-10-10",
       "time": "16:10",
@@ -1302,7 +1278,7 @@
     {
       "id": "8662a062ab4d2730",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "La Tablada vs. Jockey Club Córdoba",
       "date": "2026-10-10",
       "time": "17:00",
@@ -2131,150 +2107,6 @@
       "verifiedAt": "2026-10-11T03:25:41Z"
     },
     {
-      "id": "df29469bce016526",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Ajedrez Cosquín vs. Salsipuedes RC",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "not-applicable",
-      "local": true,
-      "national": false,
-      "venue": "Club Ajedrez Cosquín",
-      "city": "Cosquín",
-      "venueStatus": "confirmed",
-      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
-      "id": "rugby-3b00788080b9ff9c",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Asociación Independiente Dolores vs. Oliva Rugby",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "General Cabrera",
-      "city": "General Cabrera",
-      "venueStatus": "pending",
-      "note": "Primera división. UCR confirma fecha, hora y localidad de la cancha; predio e ingreso pendientes de confirmar. No se verificó una transmisión.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-11T03:25:41Z"
-    },
-    {
-      "id": "rugby-f948045ea486f2cd",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Cuises RC vs. Mañke RC",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "Porteña",
-      "city": "Porteña",
-      "venueStatus": "pending",
-      "note": "Primera división. UCR confirma fecha, hora y localidad de la cancha; predio e ingreso pendientes de confirmar. No se verificó una transmisión.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-11T03:25:41Z"
-    },
-    {
-      "id": "rugby-08ec49f93fb2e9c4",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Jockey Club Río Cuarto vs. Náutico Fitz Simon",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "Río Cuarto",
-      "city": "Río Cuarto",
-      "venueStatus": "pending",
-      "note": "Primera división. UCR confirma fecha, hora y localidad de la cancha; predio e ingreso pendientes de confirmar. No se verificó una transmisión.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-11T03:25:41Z"
-    },
-    {
-      "id": "02a8c0fb98e2e519",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Universidad Siglo 21 vs. Rosedal RC",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "not-applicable",
-      "local": true,
-      "national": false,
-      "venue": "Universidad Siglo 21",
-      "city": "Córdoba Capital",
-      "venueStatus": "confirmed",
-      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
-      "id": "70bb83ca838e661d",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Villa Libertador RC vs. Chelcos RC",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "not-applicable",
-      "local": true,
-      "national": false,
-      "venue": "Universidad Católica de Córdoba",
-      "city": "Córdoba Capital",
-      "venueStatus": "confirmed",
-      "note": "Primera división. Consultá con el club las condiciones de ingreso.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
       "id": "82d05957a75125af",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -2332,30 +2164,6 @@
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
-      "id": "rugby-86ec2d4100fc335a",
-      "sport": "Rugby",
-      "competition": "Desarrollo · UCR",
-      "title": "Ranqueles RC vs. Águilas RC",
-      "date": "2026-10-11",
-      "time": "16:20",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "Laboulaye",
-      "city": "Laboulaye",
-      "venueStatus": "pending",
-      "note": "Primera división. UCR confirma fecha, hora y localidad de la cancha; predio e ingreso pendientes de confirmar. No se verificó una transmisión.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-06-al-11-de-Octubre-de-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-11T03:25:41Z"
     },
     {
       "id": "7209ef21b6c267b4",
@@ -4612,7 +4420,7 @@
     {
       "id": "rugby-f5df4024e6d1f0b4",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Jockey Club Córdoba vs. San Martín RC",
       "date": "2026-10-17",
       "time": null,
@@ -4634,7 +4442,7 @@
     {
       "id": "rugby-71c383f91eff33a7",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Jockey Club Villa María vs. Carlos Paz RC",
       "date": "2026-10-17",
       "time": null,
@@ -4656,7 +4464,7 @@
     {
       "id": "rugby-a08d07cdde4401ac",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "La Tablada vs. Universitario",
       "date": "2026-10-17",
       "time": null,
@@ -4678,7 +4486,7 @@
     {
       "id": "rugby-95dda675572a6541",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Tala RC vs. Córdoba Athletic",
       "date": "2026-10-17",
       "time": null,
@@ -4700,7 +4508,7 @@
     {
       "id": "rugby-92ccd21f66710106",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Urú Curé vs. Palermo Bajo",
       "date": "2026-10-17",
       "time": null,
@@ -7057,7 +6865,7 @@
     {
       "id": "rugby-2b9307f638da6521",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Carlos Paz RC vs. Urú Curé",
       "date": "2026-10-24",
       "time": null,
@@ -7079,7 +6887,7 @@
     {
       "id": "rugby-6eafc1bec7703da1",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Córdoba Athletic vs. Jockey Club Villa María",
       "date": "2026-10-24",
       "time": null,
@@ -7130,7 +6938,7 @@
     {
       "id": "rugby-9f3def21192a40ea",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Palermo Bajo vs. La Tablada",
       "date": "2026-10-24",
       "time": null,
@@ -7152,7 +6960,7 @@
     {
       "id": "rugby-48cc57e830c74cbf",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "San Martín RC vs. Tala RC",
       "date": "2026-10-24",
       "time": null,
@@ -7174,7 +6982,7 @@
     {
       "id": "rugby-7a619072e9f66ab0",
       "sport": "Rugby",
-      "competition": "Top 10 · UCR",
+      "competition": "UCR · Primera división",
       "title": "Universitario vs. Jockey Club Córdoba",
       "date": "2026-10-24",
       "time": null,
@@ -7448,7 +7256,7 @@
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
     }
   ],
-  "updatedAt": "2026-10-11T03:29:39.973Z",
+  "updatedAt": "2026-10-11T03:44:37.943Z",
   "coverageThrough": "2026-10-24",
   "warnings": [
     "PGA Tour no permitió leer el calendario completo ni las salidas del Baycurrent Classic. Se conserva ese registro con su verificación anterior; horarios de golf y programación argentina exacta pendientes.",
