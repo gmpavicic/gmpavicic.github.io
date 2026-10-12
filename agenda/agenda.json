@@ -10919,7 +10919,7 @@
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
     }
   ],
-  "updatedAt": "2026-10-12T10:14:02.458Z",
+  "updatedAt": "2026-10-12T13:30:32.536Z",
   "coverageThrough": "2026-10-25",
   "warnings": [
     "GP de Estados Unidos: horarios oficiales confirmados; TV argentina y grilla de salida aún pendientes.",
@@ -10941,5 +10941,214 @@
     "Belgrano–River: Kempes según el club; Gigante según ESPN. Sede pendiente de reconfirmación.",
     "TV en conflicto: Lanús–Vélez y Coventry–Newcastle. Se conservan las discrepancias indicadas en cada ficha.",
     "Libertadores: Disney+ Premium confirmado; señal lineal argentina pendiente."
-  ]
+  ],
+  "padelTopPairs": {
+    "rankingDate": "2026-10-12",
+    "verifiedAt": "2026-10-12T13:26:57.628594Z",
+    "sources": [
+      {
+        "name": "FIP · ranking mundial individual",
+        "url": "https://www.padelfip.com/fip-rankings/"
+      },
+      {
+        "name": "FIP · parejas confirmadas de Milano",
+        "url": "https://www.padelfip.com/events/milano-p1-2026/"
+      },
+      {
+        "name": "FIP · asociaciones actuales y cuadro",
+        "url": "https://www.padelfip.com/2026/10/the-draws-potential-final-between-sanchez-and-josemaria-in-milan-galan-chingotto-aim-to-defend-their-title/"
+      }
+    ],
+    "pairs": [
+      {
+        "gender": "men",
+        "rank": 1,
+        "points": 39680,
+        "players": [
+          {
+            "name": "Arturo Coello",
+            "aliases": [
+              "Coello",
+              "Arturo Coello"
+            ]
+          },
+          {
+            "name": "Agustín Tapia",
+            "aliases": [
+              "Tapia",
+              "Agustin Tapia",
+              "Agustín Tapia"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "men",
+        "rank": 2,
+        "points": 33720,
+        "players": [
+          {
+            "name": "Alejandro Galán",
+            "aliases": [
+              "Galán",
+              "Galan",
+              "Ale Galan",
+              "Alejandro Galan"
+            ]
+          },
+          {
+            "name": "Federico Chingotto",
+            "aliases": [
+              "Chingotto",
+              "Fede Chingotto",
+              "Federico Chingotto"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "men",
+        "rank": 3,
+        "points": 14730,
+        "players": [
+          {
+            "name": "Juan Lebrón",
+            "aliases": [
+              "Lebrón",
+              "Lebron",
+              "Juan Lebron"
+            ]
+          },
+          {
+            "name": "Leandro Román Augsburger",
+            "aliases": [
+              "Augsburger",
+              "Leo Augsburger",
+              "Leandro Augsburger",
+              "Leandro Roman Augsburger"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "men",
+        "rank": 4,
+        "points": 11680,
+        "players": [
+          {
+            "name": "Franco Stupaczuk",
+            "aliases": [
+              "Stupaczuk",
+              "Franco Stupaczuk"
+            ]
+          },
+          {
+            "name": "Jon Sanz",
+            "aliases": [
+              "Sanz",
+              "Jon Sanz"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "women",
+        "rank": 1,
+        "points": 31400,
+        "players": [
+          {
+            "name": "Gemma Triay Pons",
+            "aliases": [
+              "Triay",
+              "Gemma Triay",
+              "Gemma Triay Pons"
+            ]
+          },
+          {
+            "name": "Delfina Brea Senesi",
+            "aliases": [
+              "Brea",
+              "Delfi Brea",
+              "Delfina Brea",
+              "Delfina Brea Senesi"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "women",
+        "rank": 2,
+        "points": 26220,
+        "players": [
+          {
+            "name": "Beatriz González Fernández",
+            "aliases": [
+              "González",
+              "Gonzalez",
+              "Bea Gonzalez",
+              "Beatriz Gonzalez Fernandez"
+            ]
+          },
+          {
+            "name": "Paula Josemaría Martín",
+            "aliases": [
+              "Josemaría",
+              "Josemaria",
+              "Paula Josemaria",
+              "Paula Josemaria Martin"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "women",
+        "rank": 3,
+        "points": 23825,
+        "players": [
+          {
+            "name": "Ariana Sánchez Fallada",
+            "aliases": [
+              "Sánchez",
+              "Sanchez",
+              "Ari Sanchez",
+              "Ariana Sanchez",
+              "Ariana Sanchez Fallada"
+            ]
+          },
+          {
+            "name": "Andrea Ustero Prieto",
+            "aliases": [
+              "Ustero",
+              "Andrea Ustero",
+              "Andrea Ustero Prieto"
+            ]
+          }
+        ]
+      },
+      {
+        "gender": "women",
+        "rank": 4,
+        "points": 19535,
+        "players": [
+          {
+            "name": "Claudia Fernández Sánchez",
+            "aliases": [
+              "Fernández",
+              "Fernandez",
+              "Claudia Fernandez",
+              "Claudia Fernandez Sanchez"
+            ]
+          },
+          {
+            "name": "Martina Calvo Santamaría",
+            "aliases": [
+              "Calvo",
+              "Martina Calvo",
+              "Martina Calvo Santamaria"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
