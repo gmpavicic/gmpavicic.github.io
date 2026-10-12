@@ -1384,35 +1384,6 @@
       "verifiedAt": "2026-10-10T10:22:46.712Z"
     },
     {
-      "id": "9c45c0c4dd8bb506",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Milano P1",
-      "date": "2026-10-10",
-      "endDate": "2026-10-18",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Allianz Cloud",
-      "city": "Milano",
-      "venueStatus": "confirmed",
-      "note": "Clasificación 10–12/10; cuadro principal 12–18/10 en Allianz Cloud. Horarios de cruces y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "FIP · calendario oficial",
-          "url": "https://www.padelfip.com/es/calendario-premier-padel/?events-year=2026"
-        },
-        {
-          "name": "FIP · Milano P1",
-          "url": "https://www.padelfip.com/es/eventos/milano-p1-2026/"
-        }
-      ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
-    },
-    {
       "id": "premier-padel-germany-2026-sf-men-1",
       "sport": "Pádel",
       "competition": "Premier Padel",
@@ -1683,12 +1654,12 @@
       "f1Grid": {
         "driver": "Franco Colapinto",
         "startingPosition": 15,
-        "status": "provisional",
+        "status": "confirmed",
         "source": {
-          "name": "FIA · grilla provisoria, documento 75",
-          "url": "https://api.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_starting_grid.pdf"
+          "name": "FIA · grilla final de Singapur, documento 84",
+          "url": "https://api.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_starting_grid.pdf"
         },
-        "verifiedAt": "2026-10-11T10:14:33.238392Z"
+        "verifiedAt": "2026-10-12T10:09:01.613007Z"
       }
     },
     {
@@ -2670,6 +2641,62 @@
       "verifiedAt": "2026-10-11T10:13:28Z"
     },
     {
+      "id": "premier-padel-milano-2026-10-12-geens-guichard-fernandez-del-castillo",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Geens / Guichard vs. Fernández / Del Castillo",
+      "date": "2026-10-12",
+      "time": "04:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Inicio de pista. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-rubini-chozas-mourino-quilez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Rubini / Chozas vs. Mouriño / Quílez",
+      "date": "2026-10-12",
+      "time": "04:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Inicio de pista. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
       "id": "atp-shanghai-2026-1012-zhang-zhou-krawietz-puetz",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
@@ -2693,6 +2720,62 @@
         }
       ],
       "verifiedAt": "2026-10-11T10:13:28Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-baldi-aima-lopez-fassio",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Baldi / Aima vs. López / Fassio",
+      "date": "2026-10-12",
+      "time": "07:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Final de clasificación femenina. Inicio de pista. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-polo-dominguez-aguilar-escacena",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Polo / Domínguez vs. Aguilar / Escacena",
+      "date": "2026-10-12",
+      "time": "07:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Final de clasificación femenina. Inicio de pista. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "atp-shanghai-2026-1012-bergs-alcaraz",
@@ -2745,6 +2828,62 @@
       "verifiedAt": "2026-10-11T10:13:28Z"
     },
     {
+      "id": "premier-padel-milano-2026-10-12-barahona-piotto-cassetta-oviedo",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Barahona / Piotto vs. Cassetta / Oviedo",
+      "date": "2026-10-12",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. No antes de las 11:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-vilarino-zamora-sanchez-blasco-gutierrez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Vilariño / Zamora vs. Sánchez Blasco / Gutiérrez",
+      "date": "2026-10-12",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. No antes de las 11:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
       "id": "f724f7eb0af32a8a",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -2774,7 +2913,7 @@
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "4f62ed41b5a1a55e",
@@ -2806,7 +2945,7 @@
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "0763d488bfac7491",
@@ -2841,7 +2980,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "3322fb156f64f5a9",
@@ -2876,7 +3015,7 @@
           "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "f55c6577a2e8751d",
@@ -2965,7 +3104,399 @@
           "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-aragon-roglan-gil-valenzuela",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Aragón / Roglán vs. Gil / Valenzuela",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Pista 1, turno 6; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-borrero-navarro-vano-castillon",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Borrero / Navarro vs. Vano / Castillón",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Final de clasificación femenina. Después del primer cruce de su pista; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-canellas-martinez-lobo-arellano",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Cañellas / Martínez vs. Lobo / Arellano",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Final de clasificación femenina. Después del primer cruce de su pista; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-goenaga-collado-diestro-sintes",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Goenaga / Collado vs. Diestro / Sintes",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Pista 1, turno 3; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-gonzalez-blanco-romera-garcia-aguirre",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · González Blanco / Romera vs. García / Aguirre",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Central, turno 4; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-gonzalez-san-martin-cabeza-melendez-rubio",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · González San Martín / Cabeza vs. Meléndez / Rubio",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Pista 1, turno 7; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-jensen-gala-iacovino-graziotti",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Jensen / Gala vs. Iacovino / Graziotti",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Central, turno 7; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-martinez-hernandez-quesada-deus-deus",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Martínez / Hernández Quesada vs. Deus / Deus",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Pista 1, turno 2; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-ortega-axelsson-cepero-fernandez-lancha",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Ortega / Axelsson vs. Cepero / Fernández Lancha",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Pista 1, turno 4; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-patiniotis-garcia-ayats-sanchez-chamero",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Patiniotis / García vs. Ayats / Sánchez Chamero",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Central, turno 3; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-pineda-dal-bianco-ruiz-gonzalez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Pineda / Dal Bianco vs. Ruiz / González",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina, después de la clasificación femenina en GetFIT; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-sanchez-capra-rodriguez-abbate",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Sánchez / Capra vs. Rodríguez / Abbate",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Central, turno 6; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-santigosa-montiel-castano-hernandez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Santigosa / Montiel vs. Castaño / Hernández",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina. Central, turno 2; después del cruce anterior, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "premier-padel-milano-2026-10-12-solano-pereyra-perino-dominguez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano · Solano / Pereyra vs. Perino / Domínguez",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "GetFIT",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Primera ronda masculina, después de la clasificación femenina en GetFIT; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "atp-shanghai-2026-1012-cabral-tracy-arends-johnson",
@@ -3143,6 +3674,31 @@
       "verifiedAt": "2026-10-11T10:13:28Z"
     },
     {
+      "id": "wta-wuhan-2026-10-12-diane-parry-lanlana-tararudee",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Diane Parry vs. Lanlana Tararudee",
+      "date": "2026-10-12",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. Horario exacto y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "WTA · cuadro principal actualizado",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/MDS.pdf"
+        },
+        {
+          "name": "WTA · jornada oficial del 12/10",
+          "url": "https://www.wtatennis.com/tournaments/1075/wuhan/2026/scores"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
       "id": "wta-wuhan-2026-1012-eala-shi",
       "sport": "Tenis",
       "competition": "WTA 1000",
@@ -3221,7 +3777,7 @@
       "id": "wta-wuhan-2026-1012-jovic-pohankova",
       "sport": "Tenis",
       "competition": "WTA 1000",
-      "title": "Wuhan · Iva Jović vs. Mia Pohánková",
+      "title": "Wuhan · Anna Bondár vs. Mia Pohánková",
       "date": "2026-10-12",
       "time": null,
       "timeType": "pending",
@@ -3229,18 +3785,22 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Primera ronda, después de Alexandrova–Fernández; sin hora fija. TV argentina pendiente.",
+      "note": "Cruce confirmado en el cuadro actualizado. Horario exacto y TV argentina pendientes.",
       "sources": [
         {
-          "name": "WTA · orden oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+          "name": "WTA · cuadro principal actualizado",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/MDS.pdf"
+        },
+        {
+          "name": "WTA · jornada oficial del 12/10",
+          "url": "https://www.wtatennis.com/tournaments/1075/wuhan/2026/scores"
         },
         {
           "name": "ESPN · programación para Argentina",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "wta-wuhan-2026-1012-mihl-nicholls-chan-kato",
@@ -3393,13 +3953,238 @@
       "verifiedAt": "2026-10-11T10:13:28Z"
     },
     {
-      "id": "e077506ba2868a1a",
+      "id": "wta-wuhan-2026-10-13-dayana-yastremska-cristina-bucsa",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Dayana Yastremska vs. Cristina Bucșa",
+      "date": "2026-10-13",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-katerina-siniakova-liudmila-samsonova",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Katerina Siniaková vs. Liudmila Samsonova",
+      "date": "2026-10-13",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-kimberly-birrell-katie-volynets",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Kimberly Birrell vs. Katie Volynets",
+      "date": "2026-10-13",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-perez-schuurs-bouzkova-sorribes-tormo",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Perez / Schuurs vs. Bouzkova / Sorribes Tormo",
+      "date": "2026-10-13",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-stollar-wu-routliffe-sutjiadi",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Stollar / Wu vs. Routliffe / Sutjiadi",
+      "date": "2026-10-13",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-alex-de-minaur-karen-khachanov",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
-      "title": "M1000 Shanghai – Octavos de final",
+      "title": "Shanghai · Alex de Minaur vs. Karen Khachanov",
+      "date": "2026-10-13",
+      "time": "01:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera jornada del turno. TV argentina para este cruce pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-polmans-zielinski-cash-glasspool",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Polmans / Zieliński vs. Cash / Glasspool",
+      "date": "2026-10-13",
+      "time": "01:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles. TV argentina para este cruce pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-mayar-sherif-maja-chwalinska",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Mayar Sherif vs. Maja Chwalińska",
+      "date": "2026-10-13",
+      "time": "01:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, no antes de las 01:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-kalinina-yastremska-eala-sonmez",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Kalinina / Yastremska vs. Eala / Sönmez",
+      "date": "2026-10-13",
+      "time": "04:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles, después de Snigur–Mertens y tras descanso; no antes de las 04:30. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-alexander-zverev-alexander-bublik",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Alexander Zverev vs. Alexander Bublik",
       "date": "2026-10-13",
       "time": "07:00",
-      "timeType": "broadcast",
+      "timeType": "event",
       "channels": [
         "ESPN 2",
         "Disney+ Premium"
@@ -3407,13 +4192,43 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
+      "note": "No antes de las 07:00. Transmisión desde las 07:00.",
       "sources": [
         {
-          "name": "ESPN Argentina",
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-ashlyn-krueger-shuai-zhang",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Ashlyn Krueger vs. Shuai Zhang",
+      "date": "2026-10-13",
+      "time": "08:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, no antes de las 08:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "e1aaa3315515428f",
@@ -3447,7 +4262,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "f07d4d22eb737260",
@@ -3482,7 +4297,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "038660ca57144e98",
@@ -3517,7 +4332,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "26880daad4a99650",
@@ -3551,7 +4366,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "6f2cae2263bc421c",
@@ -3585,7 +4400,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "7a98c28298c31040",
@@ -3620,7 +4435,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "7f7ed3a5a295d260",
@@ -3655,7 +4470,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "c57e3c5a0ebe4709",
@@ -3690,7 +4505,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "ce7cfbfb5356412a",
@@ -3724,7 +4539,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "argentina-femenina-brasil-2026-10-13",
@@ -3741,16 +4556,24 @@
       "local": false,
       "national": true,
       "venue": "Arena Pernambuco",
-      "city": "Recife",
+      "city": "São Lourenço da Mata · área metropolitana de Recife",
       "venueStatus": "confirmed",
       "note": "Segundo amistoso. Partido y LPF Play confirmados por AFA.",
       "sources": [
         {
           "name": "AFA · cronograma y transmisión",
           "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-desde-las-16.30-argentina-se-medira-ante-brasil"
+        },
+        {
+          "name": "AFA · agenda y sede precisa",
+          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
+        },
+        {
+          "name": "Guía TV Argentina · selección",
+          "url": "https://www.futbolenvivoargentina.com/equipo/argentina"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "26b14dbbd177e65a",
@@ -3767,7 +4590,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "venue": "Estadio Alberto J. Armando (La Bombonera)",
+      "venue": "La Bombonera",
       "city": "Buenos Aires",
       "venueStatus": "confirmed",
       "note": "Semifinal · ida. Partido a las 21:30; transmisión desde las 21:00.",
@@ -3789,13 +4612,13 @@
           "url": "https://www.tycsports.com/agenda-deportiva-hoy.html"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
-      "id": "wta-wuhan-2026",
-      "sport": "Tenis",
-      "competition": "WTA 1000",
-      "title": "Wuhan Open · próximas jornadas",
+      "id": "9c45c0c4dd8bb506",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · próximas jornadas",
       "date": "2026-10-13",
       "endDate": "2026-10-18",
       "time": null,
@@ -3804,18 +4627,404 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Programación desde el 13/10. Rivales, horarios y TV argentina por confirmar.",
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Cuadros masculino y femenino desde el 13/10. Próximos cruces y TV argentina pendientes.",
       "sources": [
         {
-          "name": "WTA · torneo oficial",
-          "url": "https://www.wtatennis.com/tournaments/wuhan-open/order-of-play"
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/es/eventos/milano-p1-2026/"
         },
         {
-          "name": "WTA · calendario de la gira asiática",
-          "url": "https://www.wtatennis.com/news/4576359/asian-swing-2026-preview-dates-draws-prize-money-and-everything-you-need-to-know"
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-arribage-olivetti-liutarevich-medvedev",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Arribage / Olivetti vs. Liutarevich / Medvedev",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles, después de Polmans/Zieliński–Cash/Glasspool. Hora y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-arthur-gea-jakub-mensik",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Arthur Gea vs. Jakub Menšík",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Después de De Minaur–Khachanov; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-hubert-hurkacz-alejandro-davidovich-fokina",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Hubert Hurkacz vs. Alejandro Davidovich Fokina",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Después de Zverev–Bublik; sin hora fija. Emisión de este cruce pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "atp-shanghai-2026-10-13-krajicek-mektic-miedler-oberleitner",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Krajicek / Mektić vs. Miedler / Oberleitner",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles, después de Arribage/Olivetti–Liutarevich/Medvedev. Hora y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-ann-li-camila-osorio",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Ann Li vs. Camila Osorio",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Kasatkina–Ostapenko; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-daria-kasatkina-jelena-ostapenko",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Daria Kasatkina vs. Jelena Ostapenko",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Putintseva–Sönmez; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-daria-snigur-elise-mertens",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Daria Snigur vs. Elise Mertens",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Boulter–Shnaider; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-errani-paolini-fernandez-gibson",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Errani / Paolini vs. Fernández / Gibson",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles, después de Stollar/Wu–Routliffe/Sutjiadi; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-hanyu-guo-sorana-cirstea",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Hanyu Guo vs. Sorana Cîrstea",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Siniaková–Samsonova; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-katie-boulter-diana-shnaider",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Katie Boulter vs. Diana Shnaider",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Birrell–Volynets; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-lilli-tagger-nikola-bartunkova",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Lilli Tagger vs. Nikola Bartůňková",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Sherif–Chwalińska; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-marta-kostyuk-maria-sakkari",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Marta Kostyuk vs. Maria Sakkari",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Segunda ronda, después de Guo–Cîrstea; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        },
+        {
+          "name": "WTA · actualización oficial del cuadro",
+          "url": "https://www.wtatennis.com/tournaments/1075/wuhan/2026/scores"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-mcnally-tjen-tang-xu",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · McNally / Tjen vs. Tang / Xu",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Dobles, después de Errani/Paolini–Fernández/Gibson; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-mia-pohankova-rival-por-confirmar",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Mia Pohánková vs. rival por confirmar",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Segunda ronda. Rival: Wang Xiyu o Wang Xinyu; después de Krueger–Zhang, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wta-wuhan-2026-10-13-yulia-putintseva-zeynep-sonmez",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Yulia Putintseva vs. Zeynep Sönmez",
+      "date": "2026-10-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda, después de Yastremska–Bucșa; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "aeabbc0337bc0ef3",
@@ -3849,7 +5058,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "b6d448d62e2bdd60",
@@ -3884,7 +5093,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "22de6e403a2848cf",
@@ -3919,7 +5128,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "46530c1baf1337e5",
@@ -3953,7 +5162,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "596b3c4c739453b8",
@@ -3988,7 +5197,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "5e12ef237acf586d",
@@ -4022,7 +5231,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "6d4baabf89f8c958",
@@ -4056,7 +5265,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "8e04aa821719b7c9",
@@ -4091,7 +5300,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "ccbe43a5b152d765",
@@ -4126,7 +5335,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "89c02becd0658232",
@@ -4165,7 +5374,7 @@
           "url": "https://www.tycsports.com/agenda-deportiva-hoy.html"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "football-arg.1-401841598",
@@ -4190,7 +5399,7 @@
           "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "5d4f8d202f61bfbe",
@@ -4206,7 +5415,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "venue": "Estadio Maracanã",
+      "venue": "Maracaná",
       "city": "Río de Janeiro",
       "venueStatus": "confirmed",
       "note": "Semifinal · ida. Partido a las 21:30; transmisión desde las 21:00. Disney+ Premium confirmado; canal lineal pendiente de programación oficial argentina.",
@@ -4228,7 +5437,37 @@
           "url": "https://www.tycsports.com/agenda-deportiva-hoy.html"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
+    },
+    {
+      "id": "wta-wuhan-2026",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan Open · próximas jornadas",
+      "date": "2026-10-14",
+      "endDate": "2026-10-18",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Próximas jornadas desde el 14/10. Cruces, horarios y TV argentina por confirmar.",
+      "sources": [
+        {
+          "name": "WTA · torneo oficial",
+          "url": "https://www.wtatennis.com/tournaments/1075/wuhan/2026"
+        },
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "b2d6ec578e9d5488",
@@ -4251,7 +5490,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "football-arg.1-401841622",
@@ -4277,7 +5516,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "317c13e828ed83fc",
@@ -4293,7 +5532,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "venue": "Estadio UNO Jorge Luis Hirschi",
+      "venue": "UNO Jorge Luis Hirschi",
       "city": "La Plata",
       "venueStatus": "confirmed",
       "note": "Semifinal · ida. Partido a las 21:30; transmisión desde las 21:00. Disney+ Premium confirmado; canal lineal pendiente de programación oficial argentina.",
@@ -4315,7 +5554,7 @@
           "url": "https://www.tycsports.com/agenda-deportiva-hoy.html"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "87295dc4658358e9",
@@ -4351,7 +5590,7 @@
           "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/6"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "62a179cd2cad72bc",
@@ -4382,7 +5621,7 @@
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:11:50.634315Z"
     },
     {
       "id": "b3aa583898bd75ae",
@@ -4440,7 +5679,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841627",
@@ -4466,7 +5705,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "atp-shanghai-2026-final-days",
@@ -4481,14 +5720,18 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Tramo restante del torneo. Cruces y horarios individuales pendientes de orden de juego.",
+      "note": "Tramo restante del torneo. Cruces, horarios y TV argentina pendientes.",
       "sources": [
         {
-          "name": "ATP · calendario de octubre",
-          "url": "https://www.atptour.com/en/tournaments?month=10"
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "football-eng.1-401878771",
@@ -4545,7 +5788,7 @@
           "url": "https://www.thefa.com/news/2026/oct/08/emirates-fa-cup-fourth-round-qualifying-tv-selection-20260810"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-esp.1-401882843",
@@ -4761,19 +6004,24 @@
       "local": false,
       "national": true,
       "venue": "Complejo de fútbol femenino · Campo 1",
+      "city": "Rabat",
       "venueStatus": "confirmed",
       "note": "Fase de grupos. TV argentina por confirmar.",
       "sources": [
         {
-          "name": "AFA · preparación y fixture",
-          "url": "https://www.afa.com.ar/es/posts/preseleccion-femenina-sub-17-continua-la-preparacion-rumbo-al-mundial"
+          "name": "AFA · horarios de Argentina y campos",
+          "url": "https://www.afa.com.ar/6347/posts/copa-mundial-femenina-sub-17-argentina-competira-con-marruecos-nueva-zelanda-y-alemania"
         },
         {
           "name": "FIFA · calendario oficial y horas locales",
           "url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/articles/u17-womens-world-cup-morocco-2026-match-schedule?searchOverlay=1"
+        },
+        {
+          "name": "AFA · convocatoria y sede Rabat",
+          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "football-eng.1-401878770",
@@ -4888,7 +6136,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-02",
@@ -4910,7 +6158,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-03",
@@ -4932,7 +6180,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-04",
@@ -4954,7 +6202,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-05",
@@ -4976,7 +6224,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-06",
@@ -4998,7 +6246,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-07",
@@ -5020,7 +6268,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-08",
@@ -5042,7 +6290,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-09",
@@ -5064,7 +6312,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-10",
@@ -5086,7 +6334,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-12",
@@ -5108,7 +6356,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-13",
@@ -5130,7 +6378,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-14",
@@ -5152,7 +6400,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-15",
@@ -5174,7 +6422,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-16",
@@ -5196,7 +6444,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-17",
@@ -5218,7 +6466,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-18",
@@ -5240,7 +6488,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-19",
@@ -5262,7 +6510,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-20",
@@ -5284,7 +6532,7 @@
           "url": "https://www.thefa.com/competitions/thefacup/fixtures"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-21",
@@ -5306,7 +6554,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-22",
@@ -5328,7 +6576,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-23",
@@ -5350,7 +6598,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-24",
@@ -5372,7 +6620,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-25",
@@ -5394,7 +6642,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-26",
@@ -5416,7 +6664,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-27",
@@ -5438,7 +6686,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-28",
@@ -5460,7 +6708,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-29",
@@ -5482,7 +6730,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-30",
@@ -5504,7 +6752,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-31",
@@ -5526,7 +6774,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.facup-20261017-4q-32",
@@ -5548,7 +6796,7 @@
           "url": "https://www.thefa.com/Competitions/Fixtures/Fixtures?competitionId=1&page=2"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-esp.1-401882837",
@@ -5703,7 +6951,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "rugby-17fd9ed1e3637182",
@@ -5733,7 +6981,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-5c81756b89bc31a4",
@@ -5763,7 +7011,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-5e4160320fb9a71a",
@@ -5793,7 +7041,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-85016f2ac09f0fa2",
@@ -5823,7 +7071,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-92955dc390ad97b3",
@@ -5853,7 +7101,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-ba222ad99dad06d7",
@@ -5883,7 +7131,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-d98a0f97ddd2c4c9",
@@ -5913,7 +7161,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "football-ita.1-401874935",
@@ -5985,7 +7233,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841621",
@@ -6011,7 +7259,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841614",
@@ -6037,7 +7285,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841616",
@@ -6063,7 +7311,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "rugby-71c383f91eff33a7",
@@ -6089,7 +7337,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-92ccd21f66710106",
@@ -6115,7 +7363,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-95dda675572a6541",
@@ -6141,7 +7389,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-a08d07cdde4401ac",
@@ -6167,7 +7415,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-f5df4024e6d1f0b4",
@@ -6193,7 +7441,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "football-ita.1-401874771",
@@ -6544,7 +7792,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-ita.1-401874765",
@@ -6616,7 +7864,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841624",
@@ -6642,7 +7890,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841628",
@@ -6660,7 +7908,7 @@
       "national": false,
       "city": "Córdoba Capital",
       "venueStatus": "pending",
-      "note": "Sede en conflicto: el club confirma Kempes (10/10); ESPN indica Gigante de Alberdi. Consultá con Belgrano antes de ir.",
+      "note": "Belgrano anuncia el Kempes; ESPN indica el Gigante de Alberdi. Estadio pendiente de resolver.",
       "sources": [
         {
           "name": "ESPN · fixture y hora del partido",
@@ -6679,7 +7927,7 @@
           "url": "https://belgrano.com.ar/2026/10/10/hinchasvsriver/"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-ita.1-401874762",
@@ -6807,7 +8055,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841620",
@@ -6833,7 +8081,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841625",
@@ -6859,7 +8107,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "atp-almaty-2026",
@@ -6874,14 +8122,25 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Calendario del torneo del circuito principal. No es un partido individual: rivales, horarios del orden de juego y transmisión para Argentina pendientes.",
+      "venue": "Almaty Arena",
+      "city": "Almaty",
+      "venueStatus": "confirmed",
+      "note": "Cuadro principal del 19 al 25/10. Jornadas 19–23 desde las 03:30; 24–25 desde las 04:00. Cruces y TV argentina pendientes.",
       "sources": [
         {
-          "name": "ATP · calendario oficial",
+          "name": "ATP · torneo oficial",
           "url": "https://www.atptour.com/en/tournaments/almaty/9410/overview"
+        },
+        {
+          "name": "Almaty · programa oficial",
+          "url": "https://almatyopen.kz/en"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "atp-brussels-2026",
@@ -6896,14 +8155,25 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Calendario del torneo del circuito principal. No es un partido individual: rivales, horarios del orden de juego y transmisión para Argentina pendientes.",
+      "venue": "Brussels Expo",
+      "city": "Bruselas",
+      "venueStatus": "confirmed",
+      "note": "Cuadro principal del 19 al 25/10. Cruces, horarios y TV argentina pendientes.",
       "sources": [
         {
-          "name": "ATP · calendario oficial",
-          "url": "https://www.atptour.com/en/tournaments/antwerp/7485/overview"
+          "name": "ATP · torneo oficial",
+          "url": "https://www.atptour.com/en/tournaments/brussels/7485/overview"
+        },
+        {
+          "name": "Bruselas · organizador oficial",
+          "url": "https://europeanopen.be/tickets/"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "atp-lyon-2026",
@@ -6921,7 +8191,7 @@
       "venue": "LDLC Arena",
       "city": "Décines-Charpieu",
       "venueStatus": "confirmed",
-      "note": "Cuadro principal del torneo. Rivales, horarios y TV argentina por confirmar.",
+      "note": "Cuadro principal del 19 al 25/10. Cruces, horarios y TV argentina pendientes.",
       "sources": [
         {
           "name": "Lyon · calendario oficial",
@@ -6934,9 +8204,13 @@
         {
           "name": "ATP · torneo oficial",
           "url": "https://www.atptour.com/en/tournaments/lyon/496/overview"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "wta-ningbo-2026",
@@ -6951,7 +8225,10 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Cuadro principal del torneo. Rivales, horarios y TV argentina por confirmar.",
+      "venue": "Ningbo Tennis Center",
+      "city": "Ningbo",
+      "venueStatus": "confirmed",
+      "note": "Cuadro principal del 19 al 25/10. Cruces, horarios y TV argentina pendientes.",
       "sources": [
         {
           "name": "WTA · torneo oficial",
@@ -6960,9 +8237,13 @@
         {
           "name": "WTA · calendario de la gira asiática",
           "url": "https://www.wtatennis.com/news/4576359/asian-swing-2026-preview-dates-draws-prize-money-and-everything-you-need-to-know"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "wta-osaka-2026",
@@ -6977,7 +8258,10 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Cuadro principal del torneo. Rivales, horarios y TV argentina por confirmar.",
+      "venue": "Utsubo Tennis Center",
+      "city": "Osaka",
+      "venueStatus": "confirmed",
+      "note": "Cuadro principal del 19 al 25/10. Cruces, horarios y TV argentina pendientes.",
       "sources": [
         {
           "name": "WTA · torneo oficial",
@@ -6986,9 +8270,13 @@
         {
           "name": "WTA · calendario de la gira asiática",
           "url": "https://www.wtatennis.com/news/4576359/asian-swing-2026-preview-dates-draws-prize-money-and-everything-you-need-to-know"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:13:28Z"
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
     },
     {
       "id": "argentina-sub17-femenina-2026-10-20",
@@ -7003,19 +8291,24 @@
       "local": false,
       "national": true,
       "venue": "Complejo de fútbol femenino · Campo 1",
+      "city": "Rabat",
       "venueStatus": "confirmed",
       "note": "Fase de grupos. TV argentina por confirmar.",
       "sources": [
         {
-          "name": "AFA · preparación y fixture",
-          "url": "https://www.afa.com.ar/es/posts/preseleccion-femenina-sub-17-continua-la-preparacion-rumbo-al-mundial"
+          "name": "AFA · horarios de Argentina y campos",
+          "url": "https://www.afa.com.ar/6347/posts/copa-mundial-femenina-sub-17-argentina-competira-con-marruecos-nueva-zelanda-y-alemania"
         },
         {
           "name": "FIFA · calendario oficial y horas locales",
           "url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/articles/u17-womens-world-cup-morocco-2026-match-schedule?searchOverlay=1"
+        },
+        {
+          "name": "AFA · convocatoria y sede Rabat",
+          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "0b5b3c4570f76d79",
@@ -7281,7 +8574,7 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "venue": "Estadio Maracaná",
+      "venue": "Maracaná",
       "city": "Río de Janeiro",
       "venueStatus": "confirmed",
       "note": "Semifinal · vuelta. CONMEBOL confirma Maracaná; TV para Argentina pendiente. La guía anuncia Disney+, DSPORTS y DGO.",
@@ -7693,11 +8986,11 @@
           "url": "https://pgatourmedia.pgatourhq.com/tours/2026/pgatour/butterfieldbermudachampionship"
         },
         {
-          "name": "PGA Tour · calendario",
-          "url": "https://www.pgatour.com/schedule"
+          "name": "PGA Tour · calendario oficial",
+          "url": "https://pgatourmedia.pgatourhq.com/schedule?year=2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:41.503380Z"
     },
     {
       "id": "argentina-sub17-femenina-2026-10-23",
@@ -7712,19 +9005,24 @@
       "local": false,
       "national": true,
       "venue": "Complejo de fútbol femenino · Campo 4",
+      "city": "Rabat",
       "venueStatus": "confirmed",
       "note": "Fase de grupos. TV argentina por confirmar.",
       "sources": [
         {
-          "name": "AFA · preparación y fixture",
-          "url": "https://www.afa.com.ar/es/posts/preseleccion-femenina-sub-17-continua-la-preparacion-rumbo-al-mundial"
+          "name": "AFA · horarios de Argentina y campos",
+          "url": "https://www.afa.com.ar/6347/posts/copa-mundial-femenina-sub-17-argentina-competira-con-marruecos-nueva-zelanda-y-alemania"
         },
         {
           "name": "FIFA · calendario oficial y horas locales",
           "url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/articles/u17-womens-world-cup-morocco-2026-match-schedule?searchOverlay=1"
+        },
+        {
+          "name": "AFA · convocatoria y sede Rabat",
+          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "f1-united-states-2026-practice-1",
@@ -7752,7 +9050,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:01.613007Z"
     },
     {
       "id": "football-ger.1-401884761",
@@ -7858,6 +9156,10 @@
         {
           "name": "ESPN · fixture y hora del partido",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261023"
+        },
+        {
+          "name": "LaLiga · jornada 10 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
@@ -7888,7 +9190,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:01.613007Z"
     },
     {
       "id": "football-arg.1-401841637",
@@ -7914,7 +9216,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841638",
@@ -7940,7 +9242,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841643",
@@ -7966,7 +9268,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-eng.1-401879256",
@@ -8016,6 +9318,10 @@
         {
           "name": "ESPN · fixture y hora del partido",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
+        },
+        {
+          "name": "LaLiga · jornada 10 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
@@ -8304,6 +9610,10 @@
         {
           "name": "ESPN · fixture y hora del partido",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
+        },
+        {
+          "name": "LaLiga · jornada 10 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
@@ -8381,6 +9691,10 @@
         {
           "name": "ESPN · fixture y hora del partido",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
+        },
+        {
+          "name": "LaLiga · jornada 10 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
@@ -8442,7 +9756,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:01.613007Z"
     },
     {
       "id": "football-arg.1-401841641",
@@ -8468,7 +9782,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-ita.1-401874955",
@@ -8512,6 +9826,10 @@
         {
           "name": "ESPN · fixture y hora del partido",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
+        },
+        {
+          "name": "LaLiga · jornada 10 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
@@ -8544,7 +9862,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-10T10:22:46.712Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "f1-united-states-2026-qualifying",
@@ -8572,7 +9890,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:01.613007Z"
     },
     {
       "id": "football-arg.1-401841632",
@@ -8598,7 +9916,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "football-arg.1-401841633",
@@ -8624,7 +9942,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:17:07.760862Z"
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "74286516ebeb91e1",
@@ -8653,7 +9971,7 @@
           "url": "https://fradcba.com.ar/se-modifico-el-calendario-del-cordoba-pista-y-la-ultima-del-provincial-de-karting-en-asfalto/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-2b9307f638da6521",
@@ -8679,7 +9997,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-48cc57e830c74cbf",
@@ -8705,7 +10023,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-6eafc1bec7703da1",
@@ -8731,7 +10049,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-7a619072e9f66ab0",
@@ -8757,7 +10075,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
     },
     {
       "id": "rugby-9f3def21192a40ea",
@@ -8783,7 +10101,416 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:11:55Z"
+      "verifiedAt": "2026-10-12T10:06:50.846406Z"
+    },
+    {
+      "id": "football-ita.1-a046fba9c465",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Inter vs. Fiorentina",
+      "date": "2026-10-25",
+      "time": "08:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-esp.1-401882835",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Athletic Club vs. Getafe",
+      "date": "2026-10-25",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina pendiente de confirmación oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "LaLiga · calendario oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-eng.1-401878765",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Liverpool vs. Brighton & Hove Albion",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora oficial en GMT. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Premier League · calendario oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-eng.1-401878766",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Hull City vs. Brentford",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora oficial en GMT. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Premier League · calendario oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-eng.1-401879252",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Manchester United vs. AFC Bournemouth",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora oficial en GMT. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Premier League · calendario oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-eng.1-401879254",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Crystal Palace vs. Newcastle United",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora oficial en GMT. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Premier League · calendario oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ita.1-10313010f326",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Genoa vs. Venezia",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ita.1-fef3861cc7c2",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Atalanta vs. Frosinone",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ger.1-401884760",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "TSG Hoffenheim vs. Bayer Leverkusen",
+      "date": "2026-10-25",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora UTC oficial. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Bundesliga · calendario oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/7"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-esp.1-401882833",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Celta Vigo vs. Real Betis",
+      "date": "2026-10-25",
+      "time": "12:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina pendiente de confirmación oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "LaLiga · calendario oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-eng.1-401878764",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Sunderland vs. Leeds United",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora oficial en GMT. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Premier League · calendario oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/premier-league"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ger.1-401884759",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "SC Freiburg vs. Bayern Munich",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Hora UTC oficial. La guía argentina indica una hora menos; TV pendiente de respaldo oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Bundesliga · calendario oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/7"
+        },
+        {
+          "name": "Guía argentina · horario en conflicto",
+          "url": "https://www.futbolenvivoargentina.com/competicion/bundesliga"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ita.1-6f22b8e4fb60",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Lecce vs. Juventus",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-esp.1-401882829",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Sociedad vs. Levante",
+      "date": "2026-10-25",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina pendiente de confirmación oficial.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "LaLiga · calendario oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-arg.1-401841629",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Aldosivi vs. Belgrano (Córdoba)",
+      "date": "2026-10-25",
+      "time": "14:45",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Liga Profesional · calendario oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-ita.1-8cd41917bac3",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Udinese vs. Milan",
+      "date": "2026-10-25",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Transmisión para Argentina por confirmar.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "f1-united-states-2026-race",
@@ -8811,7 +10538,167 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-11T10:14:33.238392Z"
+      "verifiedAt": "2026-10-12T10:09:01.613007Z"
+    },
+    {
+      "id": "football-arg.1-401841636",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Independiente vs. Boca Juniors",
+      "date": "2026-10-25",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Liga Profesional · calendario oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-esp.1-401882832",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Barcelona vs. Real Madrid",
+      "date": "2026-10-25",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "El Clásico a las 17:00 según LaLiga y ESPN; guía argentina 16:00. TV argentina por confirmar.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "LaLiga · calendario oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-10"
+        },
+        {
+          "name": "Guía argentina · TV y horario pendientes de contraste",
+          "url": "https://www.futbolenvivoargentina.com/competicion/la-liga"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-arg.1-401841634",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "River Plate vs. Racing Club",
+      "date": "2026-10-25",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Liga Profesional · calendario oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-arg.1-401841639",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Central Córdoba (Santiago del Estero) vs. Vélez Sarsfield",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Liga Profesional · calendario oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-arg.1-401841640",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Barracas Central vs. Estudiantes de Río Cuarto",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Liga Profesional · calendario oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
+    },
+    {
+      "id": "football-arg.2-401844230",
+      "sport": "Fútbol",
+      "competition": "Primera Nacional",
+      "title": "Racing Córdoba vs. All Boys",
+      "date": "2026-10-25",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": true,
+      "national": false,
+      "city": "Córdoba",
+      "venueStatus": "pending",
+      "note": "ESPN indica Córdoba y el Miguel Sancho el 25/10 a las 19:00; horario, estadio y TV oficiales pendientes.",
+      "sources": [
+        {
+          "name": "ESPN · fecha y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.2/scoreboard?dates=20261025"
+        },
+        {
+          "name": "Guía secundaria · programación provisional",
+          "url": "https://www.golmates.com/es/argentina/primera-nacional/2026/resultados/racing-cordoba-vs-all-boys-2026-10-25"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:34.439569Z"
     },
     {
       "id": "2075b741dcff2c1e",
@@ -8861,7 +10748,7 @@
           "url": "https://www.irishrugby.ie/fixture/view/2123"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "39a18b0cee44173d",
@@ -8889,7 +10776,7 @@
           "url": "https://www.federugby.it/accredito-stampa-nations-champioship-2026/"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-19",
@@ -8939,7 +10826,7 @@
           "url": "https://presse.ffr.fr/categories/equipes-de-france/saison-26-27-programme-des-equipes-de-france-a-xv"
         }
       ],
-      "verifiedAt": "2026-10-11T10:12:56.000Z"
+      "verifiedAt": "2026-10-12T10:10:01Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-22",
@@ -9032,22 +10919,27 @@
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
     }
   ],
-  "updatedAt": "2026-10-11T10:24:14.799Z",
-  "coverageThrough": "2026-10-24",
+  "updatedAt": "2026-10-12T10:14:02.458Z",
+  "coverageThrough": "2026-10-25",
   "warnings": [
-    "Golf: salidas verificadas en PGA Media; calendario principal bloqueado y horario exacto de TV argentina pendiente.",
-    "ATP: Almaty, Bruselas y jornadas finales de Shanghái conservan su revisión anterior por bloqueo de fuentes.",
-    "TV pendiente: finales de Pekín y Germany P2 del 11/10; partidos de Shanghái y Wuhan del 12/10.",
-    "CAB no respondió: Argentina–Bahamas y Argentina–Canadá conservan datos y verificaciones anteriores.",
-    "UCR 17 y 24/10: cruces confirmados; horarios, sedes y emisiones pendientes del nuevo PDF semanal.",
-    "URBA Top 14 del 17/10 y Seven de Carlos Paz del 11/10: emisiones argentinas aún sin corroborar.",
-    "Cabalén: APICER actualizó el calendario a doble fecha el 24–25/10; se retiró el 21–22/11 que aún figura en FRAD.",
-    "TV en conflicto: Liverpool–Manchester City, Racing Santander–Valencia y Coventry–Newcastle. Ver cada ficha.",
-    "TV en conflicto: Barracas–Huracán y Lanús–Vélez. Brasil–Argentina femenina del 10/10 sigue la confirmación de AFA.",
+    "GP de Estados Unidos: horarios oficiales confirmados; TV argentina y grilla de salida aún pendientes.",
+    "Bermuda 22–25/10: salidas y TV argentina pendientes; la guía Golf Channel no respondió.",
+    "UCR 17 y 24/10: los diez cruces están confirmados; hora, cancha y TV pendientes.",
+    "URBA 17/10: siete partidos a las 15:30; Disney+ figura en guía, sin respaldo oficial de emisión.",
+    "Cabalén 24–25/10: doble fecha confirmada; cronograma y entradas pendientes. FRAD aún conserva el calendario anterior.",
+    "CAB y FIBA devolvieron 403: se conservan los datos y verificaciones anteriores de Argentina–Bahamas y Argentina–Canadá.",
+    "Mundial Sub-17 femenino y Los Pumas en noviembre: TV argentina aún pendiente.",
+    "FIFA no entregó el calendario Sub-17 masculino: se conservan fechas y rivales AFA; horas, estadios y TV pendientes.",
+    "Guías argentinas del 25/10 omiten el cambio de hora europeo; se conservan los horarios oficiales de Premier, Bundesliga y LaLiga.",
+    "TV de fútbol posterior al 16/10 y FA Cup aún sin respaldo oficial por partido; se conservan los datos anteriores.",
+    "Racing Córdoba–All Boys del 25/10 figura en ESPN; hora, sede y TV oficiales pendientes.",
+    "ESPN tuvo fallos parciales y la TV italiana futura no pudo revalidarse; se conservaron los sellos anteriores.",
+    "Milano y Wuhan: TV argentina por cruce pendiente. Horas «después de» no tienen inicio fijo.",
+    "Wuhan 13/10: rival de Pohánková pendiente del cruce Wang Xiyu–Wang Xinyu.",
+    "ATP bloqueó sus páginas; calendarios recuperados con organizadores y orden oficial. Se conservan sellos de encuentros no revisados.",
+    "Tenis 19–25/10: calendarios confirmados; órdenes de juego y TV argentina aún pendientes.",
     "Belgrano–River: Kempes según el club; Gigante según ESPN. Sede pendiente de reconfirmación.",
-    "TV posterior al 16/10 pendiente para LaLiga, Serie A, Champions del 20–21/10, Sudamericana y GP de Estados Unidos.",
-    "Libertadores: Disney+ Premium confirmado; señal lineal argentina pendiente.",
-    "FA Cup: 32 cruces clasificatorios del 17/10 confirmados; TV argentina pendiente.",
-    "Racing Córdoba–Los Andes del 12/10: LPF Play figura en TyC, sin emisión oficial corroborada."
+    "TV en conflicto: Lanús–Vélez y Coventry–Newcastle. Se conservan las discrepancias indicadas en cada ficha.",
+    "Libertadores: Disney+ Premium confirmado; señal lineal argentina pendiente."
   ]
 }
