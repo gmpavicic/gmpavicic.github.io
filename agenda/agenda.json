@@ -4615,39 +4615,6 @@
       "verifiedAt": "2026-10-13T10:12:21Z"
     },
     {
-      "id": "9c45c0c4dd8bb506",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Milano P1 · próximas jornadas",
-      "date": "2026-10-13",
-      "endDate": "2026-10-18",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Allianz Cloud",
-      "city": "Milano",
-      "venueStatus": "confirmed",
-      "note": "Cuadros masculino y femenino desde el 13/10. Próximos cruces y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "FIP · Milano P1",
-          "url": "https://www.padelfip.com/es/eventos/milano-p1-2026/"
-        },
-        {
-          "name": "FIP · orden oficial",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-12T10:10:04.889720Z"
-    },
-    {
       "id": "atp-shanghai-2026-10-13-arribage-olivetti-liutarevich-medvedev",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
@@ -5601,7 +5568,7 @@
           "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "5d4f8d202f61bfbe",
@@ -5640,6 +5607,134 @@
         }
       ],
       "verifiedAt": "2026-10-13T10:12:21Z"
+    },
+    {
+      "id": "milano-2026-10-14-augsburger-lebron-mourino-quilez",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · Augsburger / Lebrón vs. Mouriño / Quílez",
+      "date": "2026-10-14",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "ALLIANZ CLOUD MILANO",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Segunda ronda. Después de Deus/Deus–Galán/Chingotto; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-14-OCTOBER-2026-1.pdf"
+        },
+        {
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/events/milano-p1-2026/"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "milano-2026-10-14-deus-deus-galan-chingotto",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · Miguel Deus / Nuno Deus vs. Galán / Chingotto",
+      "date": "2026-10-14",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "ALLIANZ CLOUD MILANO",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Segunda ronda. Después de Tello/Arce–Gil/Valenzuela; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-14-OCTOBER-2026-1.pdf"
+        },
+        {
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/events/milano-p1-2026/"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "milano-2026-10-14-solano-pereyra-stupaczuk-sanz",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · Solano / Pereyra vs. Stupaczuk / Sanz",
+      "date": "2026-10-14",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "ALLIANZ CLOUD MILANO",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Segunda ronda. Después de Icardo/Jensen–López/Fassio; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-14-OCTOBER-2026-1.pdf"
+        },
+        {
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/events/milano-p1-2026/"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "milano-2026-10-14-tapia-coello-ayats-sanchez-chamero",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · Tapia / Coello vs. Ayats / Sánchez Chamero",
+      "date": "2026-10-14",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "ALLIANZ CLOUD MILANO",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Segunda ronda. Después de Montes/Barrera–Ortega/Araujo; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-14-OCTOBER-2026-1.pdf"
+        },
+        {
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/events/milano-p1-2026/"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
     },
     {
       "id": "shanghai-2026-10-14-casper-ruud-felix-auger-aliassime",
@@ -5892,13 +5987,113 @@
       "verifiedAt": "2026-10-13T10:12:37Z"
     },
     {
-      "id": "b2d6ec578e9d5488",
+      "id": "wuhan-2026-10-15-karolina-muchova-diana-shnaider",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Karolina Muchová vs. Diana Shnaider",
+      "date": "2026-10-15",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-mia-pohankova-maria-sakkari",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Mia Pohankova vs. Maria Sakkari",
+      "date": "2026-10-15",
+      "time": "00:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-iva-jovic-maja-chwalinska",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Iva Jovic vs. Maja Chwalińska",
+      "date": "2026-10-15",
+      "time": "01:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos, no antes de 01:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "shanghai-2026-10-15-arthur-gea-alejandro-davidovich-fokina",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
-      "title": "M1000 Shanghai – Cuartos de Final",
+      "title": "Shanghai · Arthur Gea vs. Alejandro Davidovich Fokina",
+      "date": "2026-10-15",
+      "time": "03:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Cuartos, no antes de 03:30. TV argentina para este turno pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "shanghai-2026-10-15-alexander-zverev-alex-de-minaur",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "Shanghai · Alexander Zverev vs. Alex de Minaur",
       "date": "2026-10-15",
       "time": "07:00",
-      "timeType": "broadcast",
+      "timeType": "event",
       "channels": [
         "ESPN 2",
         "Disney+ Premium"
@@ -5906,13 +6101,43 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
+      "note": "Cuartos, no antes de 07:00. Transmisión del bloque desde las 07:00.",
       "sources": [
         {
-          "name": "ESPN Argentina",
+          "name": "ATP · orden oficial",
+          "url": "https://www.protennislive.com/posting/2026/5014/op.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-iga-swiatek-rival-por-confirmar",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Iga Świątek vs. rival por confirmar",
+      "date": "2026-10-15",
+      "time": "08:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "No antes de 08:00. Rival: Krueger o Tararudee; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
     },
     {
       "id": "football-arg.1-401841622",
@@ -5938,7 +6163,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "317c13e828ed83fc",
@@ -5979,6 +6204,39 @@
       "verifiedAt": "2026-10-13T10:12:21Z"
     },
     {
+      "id": "9c45c0c4dd8bb506",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Milano P1 · próximas jornadas",
+      "date": "2026-10-15",
+      "endDate": "2026-10-18",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Allianz Cloud",
+      "city": "Milano",
+      "venueStatus": "confirmed",
+      "note": "Próximas jornadas desde el 15/10. Cruces y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "FIP · Milano P1",
+          "url": "https://www.padelfip.com/es/eventos/milano-p1-2026/"
+        },
+        {
+          "name": "FIP · orden oficial",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-MONDAY-12-OCTOBER-2026-2.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
       "id": "wta-wuhan-2026",
       "sport": "Tenis",
       "competition": "WTA 1000",
@@ -5991,7 +6249,7 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Próximas jornadas desde el 15/10. Cruces, horarios y TV argentina pendientes.",
+      "note": "15/10: queda un cruce con ambos rivales pendientes; otros cruces en fichas. Jornadas 16–18 y TV pendientes.",
       "sources": [
         {
           "name": "WTA · torneo oficial",
@@ -6007,6 +6265,81 @@
         }
       ],
       "verifiedAt": "2026-10-12T10:10:04.889720Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-elina-svitolina-rival-por-confirmar",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Elina Svitolina vs. rival por confirmar",
+      "date": "2026-10-15",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Rival: Volynets o Guo. Después de Muchová–Shnaider; hora y TV pendientes.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-janice-tjen-rival-por-confirmar",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Janice Tjen vs. rival por confirmar",
+      "date": "2026-10-15",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Rival: Sabalenka o Li. Después del turno de Świątek; hora y TV pendientes.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
+    },
+    {
+      "id": "wuhan-2026-10-15-jasmine-paolini-sonay-kartal",
+      "sport": "Tenis",
+      "competition": "WTA 1000",
+      "title": "Wuhan · Jasmine Paolini vs. Sonay Kartal",
+      "date": "2026-10-15",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Después de Jovic–Chwalińska; sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "WTA · orden oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1075/OP.pdf"
+        },
+        {
+          "name": "ESPN · programación para Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-9-al-16-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:07:03Z"
     },
     {
       "id": "87295dc4658358e9",
@@ -6131,7 +6464,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841627",
@@ -6157,7 +6490,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "atp-shanghai-2026-final-days",
@@ -6477,7 +6810,7 @@
           "url": "https://www.futbolenvivoargentina.com/equipo/argentina"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "football-eng.1-401878770",
@@ -7407,7 +7740,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "rugby-17fd9ed1e3637182",
@@ -7437,7 +7770,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-5c81756b89bc31a4",
@@ -7467,7 +7800,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-5e4160320fb9a71a",
@@ -7497,7 +7830,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-85016f2ac09f0fa2",
@@ -7527,7 +7860,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-92955dc390ad97b3",
@@ -7557,7 +7890,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-ba222ad99dad06d7",
@@ -7587,7 +7920,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-d98a0f97ddd2c4c9",
@@ -7617,7 +7950,7 @@
           "url": "https://www.futbolenvivoargentina.com/deporte/rugby"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "football-ita.1-401874935",
@@ -7689,7 +8022,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841621",
@@ -7715,7 +8048,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841614",
@@ -7741,7 +8074,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841616",
@@ -7767,7 +8100,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "rugby-71c383f91eff33a7",
@@ -7793,7 +8126,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-92ccd21f66710106",
@@ -7819,7 +8152,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-95dda675572a6541",
@@ -7845,7 +8178,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-a08d07cdde4401ac",
@@ -7871,7 +8204,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-f5df4024e6d1f0b4",
@@ -7897,7 +8230,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "football-ita.1-401874771",
@@ -8095,6 +8428,30 @@
       "verifiedAt": "2026-10-10T10:22:46.712Z"
     },
     {
+      "id": "argentina-rugby-m19-uruguay-2026-10-18",
+      "sport": "Rugby",
+      "competition": "Amistoso · Selección M19",
+      "title": "Argentina M19 vs. Uruguay M19",
+      "date": "2026-10-18",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": true,
+      "national": true,
+      "venue": "Carlos Paz Rugby Club",
+      "city": "Villa Carlos Paz",
+      "venueStatus": "confirmed",
+      "note": "Partido de selecciones confirmado por UAR. TV y condiciones de ingreso pendientes.",
+      "sources": [
+        {
+          "name": "UAR · concentración M19 y partido ante Uruguay",
+          "url": "https://uar.com.ar/concentracion-m19-en-carlos-paz/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:34Z"
+    },
+    {
       "id": "football-esp.1-401882845",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -8248,7 +8605,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-ita.1-401874765",
@@ -8320,7 +8677,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841624",
@@ -8346,7 +8703,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841628",
@@ -8511,7 +8868,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841620",
@@ -8537,7 +8894,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841625",
@@ -8563,7 +8920,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "atp-almaty-2026",
@@ -8764,7 +9121,7 @@
           "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "0b5b3c4570f76d79",
@@ -9478,7 +9835,7 @@
           "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "f1-united-states-2026-practice-1",
@@ -9506,7 +9863,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:02Z"
+      "verifiedAt": "2026-10-14T10:06:33Z"
     },
     {
       "id": "football-ger.1-401884761",
@@ -9646,7 +10003,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:02Z"
+      "verifiedAt": "2026-10-14T10:06:33Z"
     },
     {
       "id": "football-arg.1-401841637",
@@ -9672,7 +10029,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841638",
@@ -9698,7 +10055,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841643",
@@ -9724,7 +10081,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-eng.1-401879256",
@@ -10212,7 +10569,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:02Z"
+      "verifiedAt": "2026-10-14T10:06:33Z"
     },
     {
       "id": "football-arg.1-401841641",
@@ -10238,7 +10595,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-ita.1-401874955",
@@ -10346,7 +10703,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:02Z"
+      "verifiedAt": "2026-10-14T10:06:33Z"
     },
     {
       "id": "football-arg.1-401841632",
@@ -10372,7 +10729,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841633",
@@ -10398,7 +10755,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "74286516ebeb91e1",
@@ -10427,7 +10784,7 @@
           "url": "https://fradcba.com.ar/se-modifico-el-calendario-del-cordoba-pista-y-la-ultima-del-provincial-de-karting-en-asfalto/"
         }
       ],
-      "verifiedAt": "2026-10-12T10:06:50.846406Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-2b9307f638da6521",
@@ -10453,7 +10810,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-48cc57e830c74cbf",
@@ -10479,7 +10836,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-6eafc1bec7703da1",
@@ -10505,7 +10862,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-7a619072e9f66ab0",
@@ -10531,7 +10888,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "rugby-9f3def21192a40ea",
@@ -10557,7 +10914,7 @@
           "url": "https://unioncordobesaderugby.com.ar/category/programacion/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "football-ita.1-a046fba9c465",
@@ -10945,7 +11302,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-ita.1-8cd41917bac3",
@@ -10994,7 +11351,7 @@
           "url": "https://www.formula1.com/en/racing/2026"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:02Z"
+      "verifiedAt": "2026-10-14T10:06:33Z"
     },
     {
       "id": "football-arg.1-401841636",
@@ -11020,7 +11377,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-esp.1-401882832",
@@ -11075,7 +11432,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841639",
@@ -11101,7 +11458,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.1-401841640",
@@ -11127,7 +11484,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-arg.2-401844230",
@@ -11222,7 +11579,7 @@
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-13T10:12:21Z"
+      "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
       "id": "football-1038f53235e346cb",
@@ -11263,7 +11620,7 @@
       "national": false,
       "city": "Basilea",
       "venueStatus": "pending",
-      "note": "Singles del 26/10 al 1/11. Cruces, horarios y TV argentina pendientes.",
+      "note": "Singles del 26/10 al 1/11. Turnos iniciales orientativos: 26/10 09:30; 27/10 10:00. Cruces y TV argentina pendientes.",
       "sources": [
         {
           "name": "Organizador · calendario oficial",
@@ -11292,7 +11649,7 @@
       "venue": "Wiener Stadthalle",
       "city": "Viena",
       "venueStatus": "confirmed",
-      "note": "Singles del 26/10 al 1/11. Cruces, horarios y TV argentina pendientes.",
+      "note": "Singles del 26/10 al 1/11. Jornadas 26–27 desde las 09:30. Cruces y TV argentina pendientes.",
       "sources": [
         {
           "name": "Organizador · calendario oficial",
@@ -11363,6 +11720,679 @@
       "verifiedAt": "2026-10-13T10:12:37Z"
     },
     {
+      "id": "football-2026-10-27-dfb-hamburger-sv-vs-eintracht-frankfurt",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Hamburger SV vs. Eintracht Frankfurt",
+      "date": "2026-10-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-rot-weiss-essen-vs-rb-leipzig",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Rot-Weiss Essen vs. RB Leipzig",
+      "date": "2026-10-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-sonnenhof-gro-aspach-vs-augsburg",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Sonnenhof Großaspach vs. Augsburg",
+      "date": "2026-10-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-vfl-bochum-vs-mainz-05",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "VfL Bochum vs. Mainz 05",
+      "date": "2026-10-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-cd-cuarte-vs-girona",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Cuarte vs. Girona",
+      "date": "2026-10-27",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-serie-sassuolo-vs-lazio",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Sassuolo vs. Lazio",
+      "date": "2026-10-27",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-calamocha-vs-ce-europa",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Calamocha vs. CE Europa",
+      "date": "2026-10-27",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-sestao-river-vs-espanyol",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Sestao River vs. Espanyol",
+      "date": "2026-10-27",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-ud-pinatar-vs-elche",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "UD Pinatar vs. Elche",
+      "date": "2026-10-27",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-ce-manresa-vs-ue-sant-andreu",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CE Manresa vs. UE Sant Andreu",
+      "date": "2026-10-27",
+      "time": "15:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-ud-castellonense-vs-almeria",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "UD Castellonense vs. Almería",
+      "date": "2026-10-27",
+      "time": "15:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-atletico-tordesillas-vs-mirandes",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Atlético Tordesillas vs. Mirandés",
+      "date": "2026-10-27",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-ciudad-de-lucena-vs-rayo-majadahonda",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Ciudad de Lucena vs. Rayo Majadahonda",
+      "date": "2026-10-27",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-gimnastica-segoviana-vs-cultural-leonesa",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Gimnástica Segoviana vs. Cultural Leonesa",
+      "date": "2026-10-27",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-rsd-alcala-vs-las-palmas",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "RSD Alcalá vs. Las Palmas",
+      "date": "2026-10-27",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-ud-llanera-vs-ponferradina",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "UD Llanera vs. Ponferradina",
+      "date": "2026-10-27",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-cd-don-benito-vs-cd-extremadura",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Don Benito vs. CD Extremadura",
+      "date": "2026-10-27",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-borussia-dortmund-vs-werder-bremen",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Borussia Dortmund vs. Werder Bremen",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-borussia-monchengladbach-vs-karlsruher-sc",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Borussia Mönchengladbach vs. Karlsruher SC",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-fc-koln-vs-union-berlin",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "FC Köln vs. Union Berlin",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-dfb-sv-elversberg-vs-darmstadt-98",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "SV Elversberg vs. Darmstadt 98",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "DFB · programación oficial de segunda ronda",
+          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-efl-bradford-city-vs-peterborough-united",
+      "sport": "Fútbol",
+      "competition": "Carabao Cup",
+      "title": "Bradford City vs. Peterborough United",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "EFL · horarios oficiales de cuarta ronda",
+          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-serie-roma-vs-cagliari",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Roma vs. Cagliari",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-serie-torino-vs-como",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Torino vs. Como",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Lega Serie A · fechas y horarios oficiales",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-efl-fleetwood-town-vs-arsenal",
+      "sport": "Fútbol",
+      "competition": "Carabao Cup",
+      "title": "Fleetwood Town vs. Arsenal",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "EFL · horarios oficiales de cuarta ronda",
+          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-arosa-sc-vs-pontevedra",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Arosa SC vs. Pontevedra",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-atletico-paso-vs-cordoba-cf",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Atlético Paso vs. Córdoba CF",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-cd-manacor-vs-villarreal",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Manacor vs. Villarreal",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-cd-tudelano-vs-real-zaragoza",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Tudelano vs. Real Zaragoza",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-recreativo-de-huelva-vs-rayo-vallecano",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Recreativo de Huelva vs. Rayo Vallecano",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-rey-sporting-de-alcazar-vs-malaga",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "Sporting de Alcázar vs. Málaga",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "RFEF · horarios oficiales de Copa del Rey",
+          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
+      "id": "football-2026-10-27-lpf-argentinos-juniors-vs-independiente-rivadavia",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Argentinos Juniors vs. Independiente Rivadavia",
+      "date": "2026-10-27",
+      "time": "19:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · calendario y TV argentina",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-14T10:08:27Z"
+    },
+    {
       "id": "aa32cbdeec404a6a",
       "sport": "Rugby",
       "competition": "Nations Championship",
@@ -11388,7 +12418,7 @@
           "url": "https://www.irishrugby.ie/fixture/view/2123"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "39a18b0cee44173d",
@@ -11416,7 +12446,7 @@
           "url": "https://www.federugby.it/accredito-stampa-nations-champioship-2026/"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-19",
@@ -11466,7 +12496,7 @@
           "url": "https://presse.ffr.fr/categories/equipes-de-france/saison-26-27-programme-des-equipes-de-france-a-xv"
         }
       ],
-      "verifiedAt": "2026-10-12T10:10:01Z"
+      "verifiedAt": "2026-10-14T10:08:34Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-22",
@@ -11559,18 +12589,13 @@
       "verifiedAt": "2026-10-09T13:53:02.649451Z"
     }
   ],
-  "updatedAt": "2026-10-13T10:15:15Z",
-  "coverageThrough": "2026-10-26",
+  "updatedAt": "2026-10-14T10:10:02Z",
+  "coverageThrough": "2026-10-27",
   "warnings": [
     "GP de Estados Unidos: horarios oficiales confirmados; TV argentina y grilla de salida aún pendientes.",
     "Bermuda 22–25/10: salidas y TV pendientes; guía Golf Channel sin respuesta. Korn Ferry terminó el 11/10, sin próximos torneos.",
     "Guías argentinas del 25/10 omiten el cambio de hora europeo; se conservan los horarios oficiales de Premier, Bundesliga y LaLiga.",
-    "TV de fútbol posterior al 16/10 y FA Cup aún sin respaldo oficial por partido; se conservan los datos anteriores.",
     "Racing Córdoba–All Boys del 25/10 figura en ESPN; hora, sede y TV oficiales pendientes.",
-    "ESPN tuvo fallos parciales; TV italiana futura sin revalidar. Se conservaron los sellos anteriores.",
-    "Milano y Wuhan: TV argentina por cruce pendiente. Horas «después de» no tienen inicio fijo.",
-    "Wuhan 13–14/10: algunos rivales pendientes de cruces previos; TV argentina pendiente.",
-    "ATP bloqueó páginas; calendarios recuperados con organizadores. Tenis 19/10–1/11: órdenes de juego y TV pendientes.",
     "Belgrano–River: Kempes según el club; Gigante según ESPN. Sede pendiente de reconfirmación.",
     "TV en conflicto: Lanús–Vélez y Coventry–Newcastle. Se conservan las discrepancias indicadas en cada ficha.",
     "Libertadores: Disney+ Premium confirmado; señal lineal argentina pendiente.",
@@ -11581,11 +12606,16 @@
     "Argentina Sub-17 femenina 17/10: AFA indica 11:00; guía, 12:00. TV pendiente de fuente oficial. Los Pumas: TV aún pendiente.",
     "FIFA no entregó el calendario Sub-17 masculino: fechas y rivales AFA conservados; horas, estadios y TV pendientes.",
     "Kuwait: programa FIP inicia cuadro masculino el 25/10; encabezado indica 26/10.",
-    "Serie A: PDF del 26/10 contradice calendarios de Torino y Monza; no se agregaron cruces dudosos."
+    "Serie A: PDF del 26/10 contradice calendarios de Torino y Monza; no se agregaron cruces dudosos.",
+    "TV argentina desde el 17/10 y copas europeas del 27/10 pendiente; guías sin respaldo primario por partido.",
+    "UEFA: ocho consultas de hoy fallaron; se conservaron sellos. Horas del 20–21/10 reconfirmadas, TV pendiente.",
+    "Milano 14/10: cuatro parejas top confirmadas; inicios «después de» y TV argentina pendientes.",
+    "Wuhan 15/10: cuatro cruces nominales y tres con un rival pendiente; un cruce aún sin ambos rivales. TV argentina pendiente.",
+    "ATP bloqueó páginas; calendarios recuperados con organizadores. Tenis 19/10–1/11: órdenes de juego y TV pendientes."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-10-12",
-    "verifiedAt": "2026-10-13T10:12:37Z",
+    "verifiedAt": "2026-10-14T10:07:03Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual",
