@@ -1,1474 +1,6 @@
 {
   "events": [
     {
-      "id": "ningbo-2026-10-20-bejlek-parks",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Sara Bejlek vs. Alycia Parks",
-      "date": "2026-10-20",
-      "time": "02:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-putintseva-shnaider",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Yulia Putintseva vs. Diana Shnaider",
-      "date": "2026-10-20",
-      "time": "02:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "almaty-2026-10-20-shimabukuro-safiullin",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Sho Shimabukuro vs. Roman Safiullin",
-      "date": "2026-10-20",
-      "time": "03:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "almaty-2026-10-20-atmane-hijikata",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Terence Atmane vs. Rinky Hijikata",
-      "date": "2026-10-20",
-      "time": "03:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "brussels-2026-10-20-navone-cerundolo",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Mariano Navone vs. Juan Manuel Cerúndolo",
-      "date": "2026-10-20",
-      "time": "06:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "brussels-2026-10-20-griekspoor-schoenhaus",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Tallon Griekspoor vs. Max Schoenhaus",
-      "date": "2026-10-20",
-      "time": "06:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-herbert-baez",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Pierre-Hugues Herbert vs. Sebastián Báez",
-      "date": "2026-10-20",
-      "time": "07:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente de respaldo oficial.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-guo-alexandrova",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Hanyu Guo vs. Ekaterina Alexandrova",
-      "date": "2026-10-20",
-      "time": "08:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. No antes de 08:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "lyon-2026-10-20-humbert-moutet",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Ugo Humbert vs. Corentin Moutet",
-      "date": "2026-10-20",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "No antes de 09:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "brussels-2026-10-20-fearnley-gaston",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Jacob Fearnley vs. Hugo Gaston",
-      "date": "2026-10-20",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "No antes de 11:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "almaty-2026-10-20-sakamoto-khachanov",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Rei Sakamoto vs. Karen Khachanov",
-      "date": "2026-10-20",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. No antes de 11:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "argentina-sub17-femenina-2026-10-20",
-      "sport": "Fútbol",
-      "competition": "Mundial Sub-17 femenino",
-      "title": "Argentina vs. Nueva Zelanda Sub-17 femenina",
-      "date": "2026-10-20",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [
-        "TV Pública"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": true,
-      "venue": "Complejo de fútbol femenino · Campo 1",
-      "city": "Rabat",
-      "venueStatus": "confirmed",
-      "note": "Partido a las 12:00 por TV Pública. Campo 1 del complejo de Rabat según AFA.",
-      "sources": [
-        {
-          "name": "AFA · fixture actualizado del 16/10",
-          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-desde-las-12-argentina-enfrenta-a-alemania"
-        },
-        {
-          "name": "AFA · horarios de Argentina y campos",
-          "url": "https://www.afa.com.ar/6347/posts/copa-mundial-femenina-sub-17-argentina-competira-con-marruecos-nueva-zelanda-y-alemania"
-        },
-        {
-          "name": "FIFA · calendario oficial y horas locales",
-          "url": "https://www.fifa.com/en/tournaments/womens/u17womensworldcup/articles/u17-womens-world-cup-morocco-2026-match-schedule?searchOverlay=1"
-        },
-        {
-          "name": "AFA · convocatoria y sede Rabat",
-          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-convocadas-para-disputar-el-mundial-de-marruecos"
-        },
-        {
-          "name": "TV Pública · programación de Argentina Sub-17",
-          "url": "https://www.tvpublica.com.ar/programa/mundial-de-futbol-femenino-sub-17-marruecos-2026/"
-        },
-        {
-          "name": "Guía argentina · programación de hoy",
-          "url": "https://www.futbolenvivoargentina.com/equipo/argentina"
-        }
-      ],
-      "verifiedAt": "2026-10-17T10:02:20Z"
-    },
-    {
-      "id": "brussels-2026-10-20-samuel-bergs",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Toby Samuel vs. Zizou Bergs",
-      "date": "2026-10-20",
-      "time": "13:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "No antes de 13:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "0b5b3c4570f76d79",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Fenerbahce vs. Slavia Prague",
-      "date": "2026-10-20",
-      "time": "13:45",
-      "timeType": "event",
-      "channels": [
-        "ESPN 2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-      "city": "Istanbul",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 13:30.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049595--fenerbahce-vs-slavia-praha/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "d3de942b28ad953d",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Sabah FK vs. Borussia Dortmund",
-      "date": "2026-10-20",
-      "time": "13:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Baku Olympic Stadium",
-      "city": "Baku",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 13:30.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049597--sabah-vs-b-dortmund/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "lyon-2026-10-20-berrettini-jacquet",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Matteo Berrettini vs. Kyrian Jacquet",
-      "date": "2026-10-20",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "No antes de 14:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-alvechurch-spalding-united",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Alvechurch vs. Spalding United",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-anstey-nomads-macclesfield",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Anstey Nomads vs. Macclesfield",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-cray-wanderers-bedford-town",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Cray Wanderers vs. Bedford Town",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-fc-united-of-manchester-altrincham",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "FC United of Manchester vs. Altrincham",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-forest-green-rovers-chesham-united",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Forest Green Rovers vs. Chesham United",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-gloucester-city-barrow-afc",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Gloucester City vs. Barrow AFC",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-harrogate-town-afc-bury",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Harrogate Town AFC vs. Bury",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-stafford-rangers-gateshead",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Stafford Rangers vs. Gateshead",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-tadley-calleva-aldershot-town",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Tadley Calleva vs. Aldershot Town",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-worcester-city-chorley",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Worcester City vs. Chorley",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "football-2026-10-20-facup-replay-yeovil-town-leatherhead",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Yeovil Town vs. Leatherhead",
-      "date": "2026-10-20",
-      "time": "15:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Replay de la cuarta ronda clasificatoria. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixture oficial y replays",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
-      "id": "8c4cefe3563d4417",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "AS Roma vs. Slovan Bratislava",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN 3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Stadio Olimpico",
-      "city": "Rome",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049592--roma-vs-s-bratislava/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "36fd53733c99f994",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "FC Porto vs. PSV Eindhoven",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Estádio do Dragão",
-      "city": "Porto",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049593--porto-vs-psv/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "00770becb0a7af4d",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Liverpool vs. Villarreal",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN 2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Anfield",
-      "city": "Liverpool",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049590--liverpool-vs-villarreal/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "cb3914ccabbfa1a0",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Manchester City vs. AEK Athens",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "City of Manchester Stadium",
-      "city": "Manchester",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049591--man-city-vs-aek-athens/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "ca1ae1e86016c45e",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Napoli vs. Bodo/Glimt",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN 4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Stadio Diego Armando Maradona",
-      "city": "Naples",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049594--napoli-vs-bodo-glimt/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "daaf10f1c1f87c8f",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Paris Saint-Germain vs. Barcelona",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Parc des Princes",
-      "city": "Paris",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049589--paris-vs-barcelona/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "319d86510b7ae897",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "VfB Stuttgart vs. Atlético Madrid",
-      "date": "2026-10-20",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Arena Stuttgart",
-      "city": "Stuttgart",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde las 15:40.",
-      "sources": [
-        {
-          "name": "UEFA · partido oficial (horario y sede)",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049596--stuttgart-vs-atleti/"
-        },
-        {
-          "name": "ESPN · fixture (contraste de horario UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "2a37c2a25242a715",
-      "sport": "Fútbol",
-      "competition": "Copa Sudamericana",
-      "title": "Vasco da Gama vs. Boca Juniors",
-      "date": "2026-10-20",
-      "time": "21:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Maracaná",
-      "city": "Río de Janeiro",
-      "venueStatus": "confirmed",
-      "note": "Semifinal · vuelta. Transmisión desde las 21:00.",
-      "sources": [
-        {
-          "name": "CONMEBOL · semifinales 2026",
-          "url": "https://gol.conmebol.com/sudamericana/es/news/en-busca-de-la-gran-conquista-todo-definido-para-las-semifinales-de-la-conmebol-sudamericana"
-        },
-        {
-          "name": "ESPN · fixture (fecha y hora UTC)",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/conmebol.sudamericana/scoreboard?dates=20261020"
-        },
-        {
-          "name": "Guía argentina · medios aún pendientes de respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/competicion/copa-sudamericana"
-        },
-        {
-          "name": "ESPN Argentina · programación 16–23/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:05:27Z"
-    },
-    {
-      "id": "osaka-2026-10-20-tararudee-krueger",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Osaka · Lanlana Tararudee vs. Ashlyn Krueger",
-      "date": "2026-10-20",
-      "time": "23:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos. Orden del 21/10 en Japón; comienza el 20/10 en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/405/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "osaka-2026-10-20-gibson-kraus",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Osaka · Talia Gibson vs. Sinja Kraus",
-      "date": "2026-10-20",
-      "time": "23:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos. Orden del 21/10 en Japón; comienza el 20/10 en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/405/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "almaty-2026-10-20-marozsan-skatov",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Fabian Marozsan vs. Timofey Skatov",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "almaty-2026-10-20-tsitsipas-kovacevic",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Stefanos Tsitsipas vs. Aleksandar Kovacevic",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "brussels-2026-10-20-vandezandschulp-chidekh",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Botic van de Zandschulp vs. Clement Chidekh",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Griekspoor–Schoenhaus, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "brussels-2026-10-20-struff-giron",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Jan-Lennard Struff vs. Marcos Giron",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Navone–Cerúndolo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "brussels-2026-10-20-basavareddy-collignon",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Nishesh Basavareddy vs. Raphael Collignon",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Samuel–Bergs, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-fery-gojo",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Arthur Fery vs. Borna Gojo",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Herbert–Báez, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-bonzi-norrie",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Benjamin Bonzi vs. Cameron Norrie",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Humbert–Moutet, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-altmaier-droguet",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Daniel Altmaier vs. Titouan Droguet",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Fery–Gojo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-medjedovic-nakashima",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Hamad Medjedovic vs. Brandon Nakashima",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Berrettini–Jacquet, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "lyon-2026-10-20-vanassche-tabur",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Lyon · Luca Van Assche vs. Clement Tabur",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Después de Altmaier–Droguet, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-20T10:04:32Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-bucsa-kudermetova",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Cristina Bucsa vs. Polina Kudermetova",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-paolini-kalinina",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Jasmine Paolini vs. Anhelina Kalinina",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-ostapenko-bencic",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Jelena Ostapenko vs. Belinda Bencic",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
-      "id": "ningbo-2026-10-20-kawa-snigur",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Ningbo · Katarzyna Kawa vs. Daria Snigur",
-      "date": "2026-10-20",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. Después de los cruces previos, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/2092/OP.pdf"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
-        },
-        {
-          "name": "Guía argentina · TV sin respaldo oficial",
-          "url": "https://www.futbolenvivoargentina.com/deporte/tenis"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:15Z"
-    },
-    {
       "id": "osaka-2026-10-21-valentova-tagger",
       "sport": "Tenis",
       "competition": "WTA 250",
@@ -3679,6 +2211,33 @@
       "verifiedAt": "2026-10-23T10:00:48Z"
     },
     {
+      "id": "atp-lyon-2026-10-24-semifinales",
+      "sport": "Tenis",
+      "competition": "ATP 250",
+      "title": "Lyon · Tommy Paul vs. Taylor Fritz",
+      "date": "2026-10-24",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Semifinal; partido y bloque televisivo desde las 09:00.",
+      "sources": [
+        {
+          "name": "ATP · orden de juego oficial Lyon 24/10",
+          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
+        },
+        {
+          "name": "ESPN Press Room · Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-24T10:01:27Z"
+    },
+    {
       "id": "football-esp.1-401882830",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -3708,12 +2267,12 @@
       "verifiedAt": "2026-10-10T10:22:46.712Z"
     },
     {
-      "id": "atp-lyon-2026-10-24-semifinales",
+      "id": "atp-almaty-2026-10-24-sf2",
       "sport": "Tenis",
       "competition": "ATP 250",
-      "title": "Lyon · Tommy Paul vs. Taylor Fritz",
+      "title": "Almaty · Daniil Medvedev vs. Alexander Bublik",
       "date": "2026-10-24",
-      "time": "09:00",
+      "time": "10:00",
       "timeType": "event",
       "channels": [
         "Disney+ Premium (ESPN)"
@@ -3721,11 +2280,11 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Semifinal; partido y bloque televisivo desde las 09:00.",
+      "note": "Semifinal; partido y transmisión desde las 10:00.",
       "sources": [
         {
-          "name": "ATP · orden de juego oficial Lyon 24/10",
-          "url": "https://www.protennislive.com/posting/2026/496/op.pdf"
+          "name": "ATP · orden de juego oficial Almaty 24/10",
+          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
         },
         {
           "name": "ESPN Press Room · Argentina",
@@ -3796,33 +2355,6 @@
         }
       ],
       "verifiedAt": "2026-10-23T10:00:48Z"
-    },
-    {
-      "id": "atp-almaty-2026-10-24-sf2",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Almaty · Daniil Medvedev vs. Alexander Bublik",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal; partido y transmisión desde las 10:00.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Almaty 24/10",
-          "url": "https://www.protennislive.com/posting/2026/9410/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T10:01:27Z"
     },
     {
       "id": "football-ger.1-401884758",
@@ -4016,6 +2548,33 @@
       "verifiedAt": "2026-10-23T10:00:48Z"
     },
     {
+      "id": "atp-brussels-2026-10-24-sf1",
+      "sport": "Tenis",
+      "competition": "ATP 250",
+      "title": "Bruselas · Francisco Cerúndolo vs. Tallon Griekspoor",
+      "date": "2026-10-24",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Semifinal; partido y transmisión desde las 11:00.",
+      "sources": [
+        {
+          "name": "ATP · orden de juego oficial Bruselas 24/10",
+          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
+        },
+        {
+          "name": "ESPN Press Room · Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-24T10:01:27Z"
+    },
+    {
       "id": "football-eng.1-401879255",
       "sport": "Fútbol",
       "competition": "Premier League",
@@ -4084,33 +2643,6 @@
         }
       ],
       "verifiedAt": "2026-10-23T10:00:48Z"
-    },
-    {
-      "id": "atp-brussels-2026-10-24-sf1",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Francisco Cerúndolo vs. Tallon Griekspoor",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal; partido y transmisión desde las 11:00.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Bruselas 24/10",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T10:01:27Z"
     },
     {
       "id": "lyon-2026-10-24-cobolli-musetti",
@@ -4239,6 +2771,33 @@
       "verifiedAt": "2026-10-10T10:22:46.712Z"
     },
     {
+      "id": "atp-brussels-2026-10-24-sf2",
+      "sport": "Tenis",
+      "competition": "ATP 250",
+      "title": "Bruselas · Arthur Fils vs. Jan-Lennard Struff",
+      "date": "2026-10-24",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Semifinal; partido y transmisión desde las 13:30.",
+      "sources": [
+        {
+          "name": "ATP · orden de juego oficial Bruselas 24/10",
+          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
+        },
+        {
+          "name": "ESPN Press Room · Argentina",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
+        }
+      ],
+      "verifiedAt": "2026-10-24T10:01:27Z"
+    },
+    {
       "id": "football-eng.1-401878767",
       "sport": "Fútbol",
       "competition": "Premier League",
@@ -4302,33 +2861,6 @@
         }
       ],
       "verifiedAt": "2026-10-10T10:22:46.712Z"
-    },
-    {
-      "id": "atp-brussels-2026-10-24-sf2",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Bruselas · Arthur Fils vs. Jan-Lennard Struff",
-      "date": "2026-10-24",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal; partido y transmisión desde las 13:30.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Bruselas 24/10",
-          "url": "https://www.protennislive.com/posting/2026/7485/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T10:01:27Z"
     },
     {
       "id": "f1-united-states-2026-practice-3",
@@ -5360,6 +3892,34 @@
       "verifiedAt": "2026-10-23T10:00:48Z"
     },
     {
+      "id": "football-esp.1-401882832",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Barcelona vs. Real Madrid",
+      "date": "2026-10-25",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Spotify Camp Nou",
+      "city": "Barcelona",
+      "venueStatus": "confirmed",
+      "note": "Jornada 10. Partido 17:00 en Spotify Camp Nou; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · ficha oficial del Clásico",
+          "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-fc-barcelona-real-madrid-10"
+        },
+        {
+          "name": "Real Madrid · horario y sede",
+          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/el-barcelona-real-madrid-se-jugara-el-domingo-25-de-octubre-a-las-21-00-h-01-09-2026"
+        }
+      ],
+      "verifiedAt": "2026-10-24T09:59:08Z"
+    },
+    {
       "id": "f1-united-states-2026-race",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de Estados Unidos",
@@ -5406,34 +3966,6 @@
         },
         "verifiedAt": "2026-10-25T10:00:43Z"
       }
-    },
-    {
-      "id": "football-esp.1-401882832",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Barcelona vs. Real Madrid",
-      "date": "2026-10-25",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Spotify Camp Nou",
-      "city": "Barcelona",
-      "venueStatus": "confirmed",
-      "note": "Jornada 10. Partido 17:00 en Spotify Camp Nou; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "LaLiga · ficha oficial del Clásico",
-          "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-fc-barcelona-real-madrid-10"
-        },
-        {
-          "name": "Real Madrid · horario y sede",
-          "url": "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/el-barcelona-real-madrid-se-jugara-el-domingo-25-de-octubre-a-las-21-00-h-01-09-2026"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
       "id": "football-arg.1-401841636",
@@ -5538,43 +4070,6 @@
         }
       ],
       "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "2075b741dcff2c1e",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major",
-      "date": "2026-10-25",
-      "endDate": "2026-10-31",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "THE ARENA KUWAIT",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Main draw 25–31/10; las top 4 tienen bye. Cruces y horarios pendientes.",
-      "sources": [
-        {
-          "name": "FIP · programa y cuadros oficiales Kuwait",
-          "url": "https://www.padelfip.com/events/kuwait-major-2026/"
-        },
-        {
-          "name": "FIP · cuadro masculino oficial",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/KUWAIT-MAJOR_-DRAW-MD.pdf"
-        },
-        {
-          "name": "FIP · noticia oficial del cuadro",
-          "url": "https://www.padelfip.com/2026/10/the-draws-chingotto-and-galan-return-to-kuwait-as-world-champions-josemaria-vs-sanchez-only-possible-in-the-semi-finals/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
     },
     {
       "id": "football-fb9adb81cf7dca1b",
@@ -5851,6 +4346,30 @@
       "verifiedAt": "2026-10-14T10:08:27Z"
     },
     {
+      "id": "kuwait-2026-10-27-coello-tapia-abbate-dal-bianco",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Coello / Tapia vs. Abbate / Dal Bianco",
+      "date": "2026-10-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Segunda ronda; no antes de las 14:00 de Córdoba. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 27/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-TUESDAY-27-OCTOBER-2026-2.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
       "id": "football-2026-10-27-dfb-rot-weiss-essen-vs-rb-leipzig",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
@@ -5912,30 +4431,6 @@
         }
       ],
       "verifiedAt": "2026-10-14T10:08:27Z"
-    },
-    {
-      "id": "kuwait-2026-10-27-coello-tapia-abbate-dal-bianco",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Coello / Tapia vs. Abbate / Dal Bianco",
-      "date": "2026-10-27",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Segunda ronda; no antes de las 14:00 de Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 27/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-TUESDAY-27-OCTOBER-2026-2.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
       "id": "football-2026-10-27-rey-cd-cuarte-vs-girona",
@@ -6554,6 +5049,255 @@
       "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
+      "id": "kuwait-2026-10-28-josemaria-gonzalez-montes-barrera",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Montes / Barrera vs. Josemaría / González",
+      "date": "2026-10-28",
+      "time": "06:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-sanchez-ustero-fassio-virseda",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Sánchez / Ustero vs. Fassio / Virseda",
+      "date": "2026-10-28",
+      "time": "06:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-triay-brea-talavan-saiz",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Triay / Brea vs. Talaván / Saiz",
+      "date": "2026-10-28",
+      "time": "08:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos; no antes de 08:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "vienna-2026-10-28-merida-medvedev",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Daniel Mérida vs. Daniil Medvedev",
+      "date": "2026-10-28",
+      "time": "09:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "vienna-2026-10-28-griekspoor-nakashima",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Tallon Griekspoor vs. Brandon Nakashima",
+      "date": "2026-10-28",
+      "time": "09:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "basel-2026-10-28-borges-ruud",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Nuno Borges vs. Casper Ruud",
+      "date": "2026-10-28",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-stupaczuk-sanz-jofre-esbri",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Stupaczuk / Sanz vs. Jofre / Esbrí",
+      "date": "2026-10-28",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos; no antes de 10:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-augsburger-lebron-libaak-alfonso",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Libaak / Alfonso vs. Augsburger / Lebrón",
+      "date": "2026-10-28",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos; no antes de 12:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-fernandez-calvo-velasco-eugenio",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Velasco / Eugenio vs. Fernández / Calvo",
+      "date": "2026-10-28",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos; no antes de 12:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "vienna-2026-10-28-rodionov-basilashvili",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Jurij Rodionov vs. Nikoloz Basilashvili",
+      "date": "2026-10-28",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; no antes de 13:30. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "basel-2026-10-28-fritz-hijikata",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Taylor Fritz vs. Rinky Hijikata",
+      "date": "2026-10-28",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; no antes de 14:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
       "id": "football-2026-10-28-dfb-dynamo-dresden-vs-schalke-04",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
@@ -6573,6 +5317,30 @@
         }
       ],
       "verifiedAt": "2026-10-15T10:01:09Z"
+    },
+    {
+      "id": "kuwait-2026-10-28-coello-tapia-goenaga-collado",
+      "sport": "Pádel",
+      "competition": "Premier Padel",
+      "title": "Kuwait Major · Coello / Tapia vs. Goenaga / Collado",
+      "date": "2026-10-28",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "The Arena Kuwait",
+      "city": "Kuwait",
+      "venueStatus": "confirmed",
+      "note": "Octavos; no antes de 14:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial del 28/10",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-dfb-sc-freiburg-vs-vfl-wolfsburg",
@@ -6667,7 +5435,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-serie-parma-vs-udinese",
@@ -6698,7 +5466,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-serie-venezia-vs-inter",
@@ -6730,7 +5498,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "argentina-sub17-femenina-2026-10-28",
@@ -7096,6 +5864,27 @@
       "verifiedAt": "2026-10-15T10:01:09Z"
     },
     {
+      "id": "vienna-2026-10-28-tien-de-minaur",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Learner Tien vs. Alex de Miñaur",
+      "date": "2026-10-28",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; no antes de 16:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
       "id": "football-2026-10-28-rey-cd-cieza-vs-granada",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -7183,7 +5972,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-rey-reus-fc-reddis-vs-barakaldo",
@@ -7231,7 +6020,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-dfb-bayer-leverkusen-vs-nurnberg",
@@ -7300,7 +6089,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-serie-genoa-vs-juventus",
@@ -7332,7 +6121,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-dfb-hannover-96-vs-kaiserslautern",
@@ -7405,7 +6194,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-efl-sunderland-vs-brentford",
@@ -7475,7 +6264,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-28-rey-salamanca-cf-uds-vs-celta-vigo",
@@ -7569,6 +6358,203 @@
       "verifiedAt": "2026-10-15T10:01:09Z"
     },
     {
+      "id": "tokyo-2026-10-28-parks-birrell",
+      "sport": "Tenis",
+      "competition": "WTA 500",
+      "title": "Tokio · Alycia Parks vs. Kimberly Birrell",
+      "date": "2026-10-28",
+      "time": "22:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos de singles. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "tokyo-2026-10-28-fernandez-mertens",
+      "sport": "Tenis",
+      "competition": "WTA 500",
+      "title": "Tokio · Leylah Fernández vs. Elise Mertens",
+      "date": "2026-10-28",
+      "time": "23:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; no antes de 23:30. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "vienna-2026-10-28-musetti-tiafoe",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Lorenzo Musetti vs. Frances Tiafoe",
+      "date": "2026-10-28",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "vienna-2026-10-28-mensik-mannarino",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Viena · Jakub Mensik vs. Adrian Mannarino",
+      "date": "2026-10-28",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "basel-2026-10-28-djokovic-humbert",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Novak Djokovic vs. Ugo Humbert",
+      "date": "2026-10-28",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "basel-2026-10-28-hurkacz-rune",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Hubert Hurkacz vs. Holger Rune",
+      "date": "2026-10-28",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "tokyo-2026-10-29-osaka-pohankova",
+      "sport": "Tenis",
+      "competition": "WTA 500",
+      "title": "Tokio · Naomi Osaka vs. Mia Pohankova",
+      "date": "2026-10-29",
+      "time": "02:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; no antes de 02:30. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "tokyo-2026-10-29-rybakina-putintseva",
+      "sport": "Tenis",
+      "competition": "WTA 500",
+      "title": "Tokio · Elena Rybakina vs. Yulia Putintseva",
+      "date": "2026-10-29",
+      "time": "05:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; no antes de 05:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Orden de juego oficial",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
+      "id": "pga-vidantaworld-mexico-open-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "VidantaWorld Mexico Open",
+      "date": "2026-10-29",
+      "endDate": "2026-11-01",
+      "time": "10:05",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Vidanta Vallarta",
+      "city": "Vallarta, México",
+      "venueStatus": "confirmed",
+      "note": "Primera salida 10:05; Alejandro Tosti sale 16:13. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "PGA Tour · tee-times oficiales",
+          "url": "https://www.pgatour.com/es/tournaments/2026/vidantaworld-mexico-open/R2026540/tee-times"
+        },
+        {
+          "name": "PGA Tour · cómo seguir el torneo",
+          "url": "https://www.pgatour.com/es/article/news/latest/2026/10/27/how-to-watch-vidantaworld-mexico-open-fedexcup-fall-tv-times-live-scores-leaderboard-coverage-details"
+        }
+      ],
+      "verifiedAt": "2026-10-28T10:08:30Z"
+    },
+    {
       "id": "football-2026-10-29-serie-frosinone-vs-lecce",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -7594,7 +6580,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-29-rey-atletico-baleares-vs-eldense",
@@ -7832,7 +6818,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-29-serie-fiorentina-vs-atalanta",
@@ -7860,7 +6846,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-2026-10-29-rey-ae-prat-vs-athletic-club",
@@ -7945,35 +6931,6 @@
         }
       ],
       "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "pga-vidantaworld-mexico-open-2026",
-      "sport": "Golf",
-      "competition": "PGA Tour",
-      "title": "VidantaWorld Mexico Open",
-      "date": "2026-10-29",
-      "endDate": "2026-11-01",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Vidanta Vallarta",
-      "city": "Vallarta, México",
-      "venueStatus": "confirmed",
-      "note": "Field oficial publicado; horario de salidas y transmisión en Argentina por confirmar.",
-      "sources": [
-        {
-          "name": "PGA Tour Media · fechas, sede y field",
-          "url": "https://pgatourmedia.pgatourhq.com/tours/2026/pgatour/vidantaworldmexicoopen"
-        },
-        {
-          "name": "PGA Tour · field oficial",
-          "url": "https://www.pgatour.com/article/news/inside-the-field/2026/10/23/how-the-field-qualified-for-vidantaworld-mexico-open-fedexcup-fall"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:43Z"
     },
     {
       "id": "atp-vienna-basel-2026-10-30-cuartos-tv",
@@ -8085,6 +7042,28 @@
       "verifiedAt": "2026-10-17T10:01:48Z"
     },
     {
+      "id": "football-arg.1-401841655",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Estudiantes de Río Cuarto vs. Gimnasia La Plata",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "LPF · programación oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-24T09:59:08Z"
+    },
+    {
       "id": "f1-mexico-2026-practice-2",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -8114,28 +7093,6 @@
         }
       ],
       "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "football-arg.1-401841655",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Estudiantes de Río Cuarto vs. Gimnasia La Plata",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
       "id": "football-arg.1-401841653",
@@ -8620,6 +7577,31 @@
       "verifiedAt": "2026-10-18T10:02:00Z"
     },
     {
+      "id": "football-ger.1-401884754",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Bayern Múnich vs. Borussia Dortmund",
+      "date": "2026-10-31",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
+        }
+      ],
+      "verifiedAt": "2026-10-18T10:02:00Z"
+    },
+    {
       "id": "f1-mexico-2026-practice-3",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -8646,31 +7628,6 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:00:43Z"
-    },
-    {
-      "id": "football-ger.1-401884754",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Bayern Múnich vs. Borussia Dortmund",
-      "date": "2026-10-31",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
     },
     {
       "id": "football-esp.1-401882825",
@@ -9327,6 +8284,31 @@
       "verifiedAt": "2026-10-19T10:08:29Z"
     },
     {
+      "id": "football-esp.1-401882826",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Athletic Club vs. Real Sociedad",
+      "date": "2026-11-01",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "LaLiga · programación oficial",
+          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101"
+        }
+      ],
+      "verifiedAt": "2026-10-19T10:08:29Z"
+    },
+    {
       "id": "f1-mexico-2026-race",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -9353,31 +8335,6 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:00:43Z"
-    },
-    {
-      "id": "football-esp.1-401882826",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Athletic Club vs. Real Sociedad",
-      "date": "2026-11-01",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "LaLiga · programación oficial",
-          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:29Z"
     },
     {
       "id": "football-arg.1-401841645",
@@ -9729,7 +8686,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
+      "verifiedAt": "2026-10-28T10:08:30Z"
     },
     {
       "id": "football-ucl-2049614",
@@ -10057,31 +9014,6 @@
       "verifiedAt": "2026-10-23T10:00:48Z"
     },
     {
-      "id": "football-ucl-2049618",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "PSV Eindhoven vs. Club Brugge",
-      "date": "2026-11-04",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049618--psv-vs-club-brugge/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
-    },
-    {
       "id": "football-ucl-2049617",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
@@ -10098,6 +9030,31 @@
         {
           "name": "UEFA · partido",
           "url": "https://www.uefa.com/uefachampionsleague/match/2049617--porto-vs-napoli/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        }
+      ],
+      "verifiedAt": "2026-10-23T10:00:48Z"
+    },
+    {
+      "id": "football-ucl-2049618",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "PSV Eindhoven vs. Club Brugge",
+      "date": "2026-11-04",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049618--psv-vs-club-brugge/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -10266,27 +9223,6 @@
       "verifiedAt": "2026-10-25T10:00:10Z"
     },
     {
-      "id": "fa-cup-2026-r1-tie-34",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Oxford City vs. Leicester City",
-      "date": "2026-11-06",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
       "id": "argentina-xv-inglaterra-a-2026-11-06",
       "sport": "Rugby",
       "competition": "Amistoso · Argentina XV",
@@ -10317,6 +9253,27 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:01:20Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-34",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Oxford City vs. Leicester City",
+      "date": "2026-11-06",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
       "id": "football-eng.1-401879242",
@@ -11397,6 +10354,27 @@
       "verifiedAt": "2026-10-25T10:00:10Z"
     },
     {
+      "id": "fa-cup-2026-r1-tie-37",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Altrincham vs. Notts County",
+      "date": "2026-11-07",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
       "id": "f1-sao-paulo-2026-practice-3",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de São Paulo",
@@ -11423,27 +10401,6 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:00:43Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-37",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Altrincham vs. Notts County",
-      "date": "2026-11-07",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
       "id": "football-eng.1-401878757",
@@ -12490,8 +11447,8 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     }
   ],
-  "updatedAt": "2026-10-27T10:07:42Z",
-  "coverageThrough": "2026-11-09",
+  "updatedAt": "2026-10-28T10:08:30Z",
+  "coverageThrough": "2026-11-10",
   "warnings": [
     "Guías argentinas del 25/10 omiten el cambio de hora europeo; se conservan los horarios oficiales de Premier, Bundesliga y LaLiga.",
     "TV en conflicto: Lanús–Vélez y Coventry–Newcastle. Se conservan las discrepancias indicadas en cada ficha.",
@@ -12499,34 +11456,30 @@
     "TV en conflicto: tres partidos LPF y Manchester City–Ipswich (ESPN4 oficial; ESPN en la guía). Ver cada ficha.",
     "LaLiga: horarios oficiales revisados; DSPORTS de las guías aún sin confirmación primaria. Copas nacionales: TV pendiente.",
     "Argentina mayor 13 y 17/11: estadios, horarios y TV pendientes.",
-    "Copa Davis: la Final 8 oficial 2026 no incluye a Argentina; se elimina el cruce erróneo con Alemania.",
-    "Kuwait: Coello/Tapia y Lebrón/Augsburger juegan el 27/10; TV argentina pendiente.",
-    "Cabalén: actividad oficial 23–25/10; horarios detallados y entradas sin publicación oficial accesible.",
-    "URBA: semifinales 30–31/10 por ESPN/Disney+; Press Room precisa ESPN4 para Newman–Alumni. Final 7/11 sin rivales.",
+    "Copa Davis: la Final 8 oficial 2026 no incluye a Argentina.",
+    "Kuwait: siete cruces con parejas top 4 confirmados para el 28/10; TV argentina pendiente.",
+    "Cabalén 23–25/10: horarios detallados y entradas sin publicación oficial accesible.",
+    "URBA: semifinales 30–31/10 por ESPN/Disney+; ESPN4 para Newman–Alumni. Final 7/11 sin rivales.",
     "CAB: Argentina–Bahamas y Argentina–Canadá mantienen fecha y ciudad; horarios y TV pendientes. Rugby de selecciones sin TV argentina.",
-    "Fútbol: TV 31/10–9/11, Champions y los 40 cruces de FA Cup pendientes de confirmación argentina.",
+    "Fútbol: TV 31/10–10/11, Champions y los 40 cruces de FA Cup pendientes de confirmación argentina.",
     "Liga argentina: no hay partidos de Primera confirmados después del 2/11; próxima fase pendiente.",
-    "Tenis: calendarios revisados hasta 9/11; Stockholm y WTA Finals sin orden de juego ni TV argentina confirmados.",
-    "UCR: el sitio aún no publicó el PDF del 29/10–1/11; cuartos del 31/10 y semifinales del 7/11 siguen con rivales, hora, cancha y TV pendientes.",
+    "Tenis: OOP de singles del 28/10 incorporados; Stockholm y WTA Finals siguen sin cruces ni TV argentina confirmados.",
+    "UCR: sigue sin publicarse el PDF del 29/10–1/11; cuartos del 31/10 y semifinales del 7/11 continúan pendientes.",
     "Cabalén: Córdoba Pista confirmó la fecha del 21–22/11; cronograma, entradas y TV pendientes.",
-    "PGA: Bermuda va por Golf Channel, con hora en conflicto (12:00 feed PGA / 13:00 guía argentina). Vidanta sin salidas/TV; WWT por Golf Channel LatAm.",
+    "PGA: Vidanta publica tee-times; TV argentina sigue pendiente. WWT conserva Golf Channel LatAm.",
     "F1: México P1/P2 confirmadas por ESPN3/ESPN2 y Disney+; resto de México y São Paulo con TV pendiente."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-10-26",
-    "verifiedAt": "2026-10-27T10:07:42Z",
+    "verifiedAt": "2026-10-28T10:08:30Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual 26/10",
         "url": "https://www.padelfip.com/fip-rankings/"
       },
       {
-        "name": "FIP · cuadro masculino Kuwait Major",
-        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/KUWAIT-MAJOR_-DRAW-MD.pdf"
-      },
-      {
-        "name": "FIP · cuadro femenino Kuwait Major",
-        "url": "https://www.padelfip.com/2026/10/the-draws-chingotto-and-galan-return-to-kuwait-as-world-champions-josemaria-vs-sanchez-only-possible-in-the-semi-finals/"
+        "name": "FIP · orden de juego Kuwait 28/10",
+        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
       }
     ],
     "pairs": [
