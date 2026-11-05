@@ -1,1441 +1,6 @@
 {
   "events": [
     {
-      "id": "kuwait-2026-10-28-josemaria-gonzalez-montes-barrera",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Montes / Barrera vs. Josemaría / González",
-      "date": "2026-10-28",
-      "time": "06:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-sanchez-ustero-fassio-virseda",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Sánchez / Ustero vs. Fassio / Virseda",
-      "date": "2026-10-28",
-      "time": "06:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-triay-brea-talavan-saiz",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Triay / Brea vs. Talaván / Saiz",
-      "date": "2026-10-28",
-      "time": "08:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos; no antes de 08:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-28-griekspoor-nakashima",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Tallon Griekspoor vs. Brandon Nakashima",
-      "date": "2026-10-28",
-      "time": "09:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-28-merida-medvedev",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Daniel Mérida vs. Daniil Medvedev",
-      "date": "2026-10-28",
-      "time": "09:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "basel-2026-10-28-borges-ruud",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Nuno Borges vs. Casper Ruud",
-      "date": "2026-10-28",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-stupaczuk-sanz-jofre-esbri",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Stupaczuk / Sanz vs. Jofre / Esbrí",
-      "date": "2026-10-28",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos; no antes de 10:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-augsburger-lebron-libaak-alfonso",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Libaak / Alfonso vs. Augsburger / Lebrón",
-      "date": "2026-10-28",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos; no antes de 12:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-fernandez-calvo-velasco-eugenio",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Velasco / Eugenio vs. Fernández / Calvo",
-      "date": "2026-10-28",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos; no antes de 12:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-28-rodionov-basilashvili",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Jurij Rodionov vs. Nikoloz Basilashvili",
-      "date": "2026-10-28",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; no antes de 13:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "basel-2026-10-28-fritz-hijikata",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Taylor Fritz vs. Rinky Hijikata",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; no antes de 14:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-dynamo-dresden-vs-schalke-04",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "Dynamo Dresden vs. Schalke 04",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-sc-freiburg-vs-vfl-wolfsburg",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "SC Freiburg vs. VfL Wolfsburg",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-sc-paderborn-07-vs-stuttgart",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "SC Paderborn 07 vs. Stuttgart",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-ssv-jeddeloh-ii-vs-hertha-bsc",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "SSV Jeddeloh II vs. Hertha BSC",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "kuwait-2026-10-28-coello-tapia-goenaga-collado",
-      "sport": "Pádel",
-      "competition": "Premier Padel",
-      "title": "Kuwait Major · Coello / Tapia vs. Goenaga / Collado",
-      "date": "2026-10-28",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "The Arena Kuwait",
-      "city": "Kuwait",
-      "venueStatus": "confirmed",
-      "note": "Octavos; no antes de 14:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 28/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-WEDNESDAY-28-OCTOBER-2026-3.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-serie-milan-vs-bologna",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Milan vs. Bologna",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN 3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 14:20.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "Torino FC · calendario oficial fecha 9",
-          "url": "https://www.torinofc.it/calendario/2026-2027/prima-squadra/9"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-serie-parma-vs-udinese",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Parma vs. Udinese",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 14:20.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "Torino FC · calendario oficial fecha 9",
-          "url": "https://www.torinofc.it/calendario/2026-2027/prima-squadra/9"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-serie-venezia-vs-inter",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Venezia vs. Inter",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 14:20.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "Torino FC · calendario oficial fecha 9",
-          "url": "https://www.torinofc.it/calendario/2026-2027/prima-squadra/9"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "argentina-sub17-femenina-2026-10-28",
-      "sport": "Fútbol",
-      "competition": "Mundial Sub-17 femenino",
-      "title": "Argentina vs. Ghana Sub-17 femenina",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [
-        "DSports",
-        "TV Pública"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": true,
-      "venue": "Complejo Mohammed VI",
-      "city": "Rabat",
-      "venueStatus": "confirmed",
-      "note": "Octavos de final. Miércoles 28/10 a las 15:00 por DSports y TV Pública.",
-      "sources": [
-        {
-          "name": "AFA · Argentina–Ghana, horario, sede y TV",
-          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-sub-17-argentina-enfrenta-a-ghana-en-octavos-de-final"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:01:20Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-anaitasuna-vs-deportivo-alaves",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Anaitasuna vs. Deportivo Alavés",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-pamplona-vs-sd-eibar",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Pamplona vs. SD Eibar",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-tarancon-vs-levante",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Tarancón vs. Levante",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-club-portugalete-vs-real-union",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Club Portugalete vs. Real Unión",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-coruxo-fc-vs-zamora-cf",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Coruxo FC vs. Zamora CF",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-pena-sport-vs-sd-huesca",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Peña Sport vs. SD Huesca",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-ud-poblense-vs-ad-ceuta",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "UD Poblense vs. AD Ceuta",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-utebo-fc-vs-ce-sabadell",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Utebo FC vs. CE Sabadell",
-      "date": "2026-10-28",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-alcoyano-vs-mallorca",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Alcoyano vs. Mallorca",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-badajoz-vs-tenerife",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Badajoz vs. Tenerife",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-covadonga-vs-real-valladolid",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Covadonga vs. Real Valladolid",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-numancia-vs-real-oviedo",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Numancia vs. Real Oviedo",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cp-mijas-las-lagunas-vs-real-jaen",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CP Mijas Las Lagunas vs. Real Jaén",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cs-puertollano-vs-albacete",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CS Puertollano vs. Albacete",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-sd-amorebieta-vs-ud-logrones",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "SD Amorebieta vs. UD Logroñés",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-trival-valderas-vs-leganes",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Trival Valderas vs. Leganés",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "vienna-2026-10-28-tien-de-minaur",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Learner Tien vs. Alex de Miñaur",
-      "date": "2026-10-28",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; no antes de 16:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-efl-manchester-city-vs-brighton-hove-albion",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "Manchester City vs. Brighton & Hove Albion",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:20.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-cieza-vs-granada",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Cieza vs. Granada",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cd-minera-vs-fc-cartagena",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Minera vs. FC Cartagena",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-gimnastica-torrelavega-vs-ud-ourense",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Gimnástica Torrelavega vs. UD Ourense",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-reus-fc-reddis-vs-barakaldo",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Reus FC Reddis vs. Barakaldo",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-bayer-leverkusen-vs-nurnberg",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "Bayer Leverkusen vs. Nürnberg",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-bayern-munich-vs-magdeburg",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "Bayern Munich vs. Magdeburg",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-hannover-96-vs-kaiserslautern",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "Hannover 96 vs. Kaiserslautern",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-dfb-holstein-kiel-vs-tsg-hoffenheim",
-      "sport": "Fútbol",
-      "competition": "DFB-Pokal",
-      "title": "Holstein Kiel vs. TSG Hoffenheim",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "DFB · segunda ronda",
-          "url": "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-zweiten-pokalrunde"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-efl-afc-bournemouth-vs-aston-villa",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "AFC Bournemouth vs. Aston Villa",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-efl-fulham-vs-crystal-palace",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "Fulham vs. Crystal Palace",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-efl-sunderland-vs-brentford",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "Sunderland vs. Brentford",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-serie-genoa-vs-juventus",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Genoa vs. Juventus",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "ESPN 3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "Torino FC · calendario oficial fecha 9",
-          "url": "https://www.torinofc.it/calendario/2026-2027/prima-squadra/9"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-serie-monza-vs-napoli",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Monza vs. Napoli",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "Torino FC · calendario oficial fecha 9",
-          "url": "https://www.torinofc.it/calendario/2026-2027/prima-squadra/9"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-efl-liverpool-vs-chelsea",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "Liverpool vs. Chelsea",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:45; partido 17:00.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-cda-navalcarnero-vs-real-betis",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CDA Navalcarnero vs. Real Betis",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-salamanca-cf-uds-vs-celta-vigo",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Salamanca CF UDS vs. Celta Vigo",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-tavernes-de-la-valldigna-vs-valencia",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Tavernes de la Valldigna vs. Valencia",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-rey-xerez-cd-vs-cadiz",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Xerez CD vs. Cádiz",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "football-2026-10-28-afa-atletico-tucuman-vs-platense",
-      "sport": "Fútbol",
-      "competition": "Copa Argentina",
-      "title": "Atlético Tucumán vs. Platense",
-      "date": "2026-10-28",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Estadio Padre Ernesto Martearena",
-      "city": "Salta",
-      "venueStatus": "confirmed",
-      "note": "Semifinal. TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "AFA · programación oficial",
-          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
-        },
-        {
-          "name": "Copa Argentina · semifinal oficial",
-          "url": "https://www.copaargentina.org/es/news/11991_Fecha-confirmada-para-Atletico-Tucuman-Platense.html"
-        }
-      ],
-      "verifiedAt": "2026-10-15T10:01:09Z"
-    },
-    {
-      "id": "tokyo-2026-10-28-parks-birrell",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Alycia Parks vs. Kimberly Birrell",
-      "date": "2026-10-28",
-      "time": "22:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos de singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "tokyo-2026-10-28-fernandez-mertens",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Leylah Fernández vs. Elise Mertens",
-      "date": "2026-10-28",
-      "time": "23:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 23:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "basel-2026-10-28-djokovic-humbert",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Novak Djokovic vs. Ugo Humbert",
-      "date": "2026-10-28",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "basel-2026-10-28-hurkacz-rune",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Hubert Hurkacz vs. Holger Rune",
-      "date": "2026-10-28",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-28-mensik-mannarino",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Jakub Mensik vs. Adrian Mannarino",
-      "date": "2026-10-28",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-28-musetti-tiafoe",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Lorenzo Musetti vs. Frances Tiafoe",
-      "date": "2026-10-28",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; sigue al partido previo, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
       "id": "tokyo-2026-10-29-osaka-pohankova",
       "sport": "Tenis",
       "competition": "WTA 500",
@@ -4842,22 +3407,22 @@
       "national": false,
       "city": "París",
       "venueStatus": "pending",
-      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
+      "note": "Singles del 2 al 8/11. Octavos confirmados; ESPN2 y Disney+ anuncian el bloque del 5/11 desde las 07:00.",
       "sources": [
         {
-          "name": "Calendario oficial del torneo",
-          "url": "https://www.atptour.com/en/tournaments/atp-masters-1000-paris/352/overview"
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
         },
         {
-          "name": "Organizador · sesión oficial del 2 de noviembre",
-          "url": "https://tickets.rolexparismasters.com/en/product/750"
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
         },
         {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-16-al-23-de-octubre/"
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
       "id": "tennis-paris-2026-11-02-cerundolo-ruud",
@@ -6248,6 +4813,64 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
+      "id": "tennis-paris-2026-11-05-halys-paul",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Quentin Halys vs. Tommy Paul",
+      "date": "2026-11-05",
+      "time": "07:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Abre la cancha central a las 07:00. ESPN2 inicia el bloque de octavos a esa hora. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-hijikata-etcheverry",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Rinky Hijikata vs. Tomás Martín Etcheverry",
+      "date": "2026-11-05",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "No antes de las 10:00 en cancha 1. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-05-cd-tarancon-levante-ud",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -6267,6 +4890,35 @@
         }
       ],
       "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-alcaraz-berrettini",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Carlos Alcaraz vs. Matteo Berrettini",
+      "date": "2026-11-05",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "No antes de las 15:00 en la sesión nocturna de la cancha central. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
       "id": "copa-del-rey-2026-11-05-cd-alcoyano-rcd-mallorca",
@@ -6318,6 +4970,151 @@
         }
       ],
       "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-borges-buse",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Nuno Borges vs. Ignacio Buse",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Turno posterior en cancha 1; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-fils-fritz",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Arthur Fils vs. Taylor Fritz",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Último turno de la cancha central; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-rinderknech-shelton",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Arthur Rinderknech vs. Ben Shelton",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Segundo turno de la cancha central; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-struff-ruud",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Jan-Lennard Struff vs. Casper Ruud",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Turno posterior en cancha 1; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-05-van-assche-musetti",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Luca Van Assche vs. Lorenzo Musetti",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Tercer turno de la cancha central; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
       "id": "dpwt-abu-dhabi-2026-r2",
@@ -9050,8 +7847,8 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     }
   ],
-  "updatedAt": "2026-11-04T10:06:36.752Z",
-  "coverageThrough": "2026-11-17",
+  "updatedAt": "2026-11-05T10:01:20.408Z",
+  "coverageThrough": "2026-11-18",
   "warnings": [
     "ESPN Argentina publicó su programación hasta el 6/11; TV posterior continúa pendiente.",
     "UCR: semifinales 6–7/11 en Tala RC; la final será el 14/11.",
