@@ -4526,34 +4526,6 @@
       "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
-      "id": "paris-2026-11-06-borges-ruud",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000 París",
-      "title": "París · Nuno Borges vs. Casper Ruud",
-      "date": "2026-11-06",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Singles; ESPN transmite los bloques desde 10:00 y 15:00.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · orden de juego oficial",
-          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
-    },
-    {
       "id": "argentina-xv-inglaterra-a-2026-11-06",
       "sport": "Rugby",
       "competition": "Amistoso · Argentina XV",
@@ -4896,34 +4868,6 @@
         {
           "name": "Liga Profesional · fecha 16 y TV oficial",
           "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
-        }
-      ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
-    },
-    {
-      "id": "paris-2026-11-06-van-assche-hijikata",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000 París",
-      "title": "París · Luca Van Assche vs. Rinky Hijikata",
-      "date": "2026-11-06",
-      "time": null,
-      "timeType": "pending",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Singles; comienza al finalizar Shelton–Paul.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · orden de juego oficial",
-          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
       "verifiedAt": "2026-11-06T10:12:00Z"
