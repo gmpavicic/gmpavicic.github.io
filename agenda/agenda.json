@@ -1,875 +1,6 @@
 {
   "events": [
     {
-      "id": "tokyo-2026-10-29-osaka-pohankova",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Naomi Osaka vs. Mia Pohankova",
-      "date": "2026-10-29",
-      "time": "02:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 02:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "tokyo-2026-10-29-rybakina-putintseva",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Elena Rybakina vs. Yulia Putintseva",
-      "date": "2026-10-29",
-      "time": "05:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 05:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Orden de juego oficial",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-sanchez-ustero-icardo-jensen",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Sánchez / Ustero vs. Icardo / Jensen",
-      "date": "2026-10-29",
-      "time": "08:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-vacherot-jodar",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Valentin Vacherot vs. Rafael Jodar",
-      "date": "2026-10-29",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "vienna-2026-10-29-norrie-medvedev",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Cameron Norrie vs. Daniil Medvedev",
-      "date": "2026-10-29",
-      "time": "09:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "vienna-2026-10-29-paul-darderi",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Tommy Paul vs. Luciano Darderi",
-      "date": "2026-10-29",
-      "time": "09:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-michelsen-fils",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Alex Michelsen vs. Arthur Fils",
-      "date": "2026-10-29",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 10:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-josemaria-gonzalez-rufo-iglesias",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Rufo / Iglesias vs. Josemaría / González",
-      "date": "2026-10-29",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 10:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-stupaczuk-sanz-alonso-goni",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Stupaczuk / Sanz vs. Alonso / Goñi",
-      "date": "2026-10-29",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 10:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "pga-vidantaworld-mexico-open-2026",
-      "sport": "Golf",
-      "competition": "PGA Tour",
-      "title": "VidantaWorld Mexico Open",
-      "date": "2026-10-29",
-      "endDate": "2026-11-01",
-      "time": "10:05",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Vidanta Vallarta",
-      "city": "Vallarta, México",
-      "venueStatus": "confirmed",
-      "note": "Primera salida 10:05; Alejandro Tosti sale 16:13. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "PGA Tour · tee-times oficiales",
-          "url": "https://www.pgatour.com/es/tournaments/2026/vidantaworld-mexico-open/R2026540/tee-times"
-        },
-        {
-          "name": "PGA Tour · cómo seguir el torneo",
-          "url": "https://www.pgatour.com/es/article/news/latest/2026/10/27/how-to-watch-vidantaworld-mexico-open-fedexcup-fall-tv-times-live-scores-leaderboard-coverage-details"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "vienna-2026-10-29-basilashvili-alcaraz",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Nikoloz Basilashvili vs. Carlos Alcaraz",
-      "date": "2026-10-29",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 11:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-altmaier-lehecka",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Daniel Altmaier vs. Jiri Lehecka",
-      "date": "2026-10-29",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 12:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-fernandez-calvo-ortega-araujo",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Ortega / Araújo vs. Fernández / Calvo",
-      "date": "2026-10-29",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 12:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "vienna-2026-10-29-fery-musetti",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Arthur Fery vs. Lorenzo Musetti",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 13:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "vienna-2026-10-29-zverev-griekspoor",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Alexander Zverev vs. Tallon Griekspoor",
-      "date": "2026-10-29",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 13:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-djokovic-struff",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Novak Djokovic vs. Jan-Lennard Struff",
-      "date": "2026-10-29",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 14:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-coello-tapia-bautista-bergamini",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Coello / Tapia vs. Bautista / Bergamini",
-      "date": "2026-10-29",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 14:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "football-2026-10-29-serie-frosinone-vs-lecce",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Frosinone vs. Lecce",
-      "date": "2026-10-29",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN 2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 14:20.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-atletico-baleares-vs-eldense",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Atlético Baleares vs. Eldense",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-atletico-calatayud-vs-osasuna",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Atlético Calatayud vs. Osasuna",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-ub-lebrijana-vs-getafe",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "UB Lebrijana vs. Getafe",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-ud-sanse-vs-cd-coria",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "UD Sanse vs. CD Coria",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-antequera-vs-aguilas",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Antequera vs. Águilas",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-cd-guijuelo-vs-sporting-gijon",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Guijuelo vs. Sporting Gijón",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-cd-laredo-vs-burgos",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Laredo vs. Burgos",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-cd-varea-vs-fc-andorra",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Varea vs. FC Andorra",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-real-avila-vs-unionistas-de-salamanca",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Real Ávila vs. Unionistas de Salamanca",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-ub-conquense-vs-castellon",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "UB Conquense vs. Castellón",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "vienna-2026-10-29-cobolli-berrettini",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Flavio Cobolli vs. Matteo Berrettini",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; no antes de 16:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Viena",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "football-2026-10-29-efl-everton-vs-newcastle-united",
-      "sport": "Fútbol",
-      "competition": "Carabao Cup",
-      "title": "Everton vs. Newcastle United",
-      "date": "2026-10-29",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "EFL · cuarta ronda",
-          "url": "https://www.efl.com/news/2026/september/18/carabao-cup-round-four-schedule-confirmed/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-29-serie-fiorentina-vs-atalanta",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Fiorentina vs. Atalanta",
-      "date": "2026-10-29",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "ESPN 2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:30.",
-      "sources": [
-        {
-          "name": "Lega Serie A · horarios oficiales",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-28T10:08:30Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-ae-prat-vs-athletic-club",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "AE Prat vs. Athletic Club",
-      "date": "2026-10-29",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-auriense-ca-vs-deportivo-la-coruna",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Auriense CA vs. Deportivo La Coruña",
-      "date": "2026-10-29",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-ribadesella-vs-racing-de-santander",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Ribadesella vs. Racing de Santander",
-      "date": "2026-10-29",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "football-2026-10-29-rey-sporting-hortaleza-vs-sevilla",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "Sporting Hortaleza vs. Sevilla",
-      "date": "2026-10-29",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "RFEF · horarios oficiales",
-          "url": "https://rfef.es/es/noticias/56-eliminatorias-emplazadas-para-vivir-la-fiesta-de-la-copa"
-        }
-      ],
-      "verifiedAt": "2026-10-16T10:03:34Z"
-    },
-    {
-      "id": "tokyo-2026-10-30-rakhimova-joint",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Kamilla Rakhimova vs. Maya Joint",
-      "date": "2026-10-29",
-      "time": "22:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; el 30/10 en Japón, 29/10 22:30 en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego oficial de Tokio",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "tokyo-2026-10-30-pohankova-parks",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Mia Pohankova vs. Alycia Parks",
-      "date": "2026-10-29",
-      "time": "23:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; el 30/10 en Japón, 29/10 23:30 en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego oficial de Tokio",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-fritz-shapovalov",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Taylor Fritz vs. Denis Shapovalov",
-      "date": "2026-10-29",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; tercer turno, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "basel-2026-10-29-shelton-kym",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Ben Shelton vs. Jerome Kym",
-      "date": "2026-10-29",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; último turno, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial de Basilea",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-29-triay-brea-rodriguez-dalpozzo",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Triay / Brea vs. Rodríguez / Dal Pozzo",
-      "date": "2026-10-29",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; tercer turno, sin hora fija. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Kuwait 29/10",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-29-OCTOBER-2026-4.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
       "id": "tokyo-2026-10-30-rybakina-fernandez",
       "sport": "Tenis",
       "competition": "WTA 500",
@@ -1260,6 +391,28 @@
       "verifiedAt": "2026-10-17T10:01:48Z"
     },
     {
+      "id": "football-arg.1-401841655",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Estudiantes de Río Cuarto vs. Gimnasia La Plata",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "LPF · programación oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        }
+      ],
+      "verifiedAt": "2026-10-24T09:59:08Z"
+    },
+    {
       "id": "f1-mexico-2026-practice-2",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -1320,28 +473,6 @@
       "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
-      "id": "football-arg.1-401841655",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Estudiantes de Río Cuarto vs. Gimnasia La Plata",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
       "id": "urba-top14-2026-10-30-semifinal-1",
       "sport": "Rugby",
       "competition": "URBA Top 14",
@@ -1380,28 +511,6 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-arg.1-401841647",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Sarmiento vs. Rosario Central",
-      "date": "2026-10-30",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
       "id": "football-arg.1-401841648",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
@@ -1424,29 +533,26 @@
       "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
-      "id": "basel-2026-10-30-fritz-fils",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Taylor Fritz vs. Arthur Fils",
+      "id": "football-arg.1-401841647",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Sarmiento vs. Rosario Central",
       "date": "2026-10-30",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "time": "21:15",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Cuartos; a continuación de Rune–Vacherot, sin hora fija. TV por partido pendiente.",
       "sources": [
         {
-          "name": "ATP · orden de juego oficial Basilea 30/10",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "LPF · programación oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
         }
       ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
+      "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
       "id": "basel-2026-10-30-struff-borges",
@@ -1461,6 +567,31 @@
       "local": false,
       "national": false,
       "note": "Cuartos; a continuación de Kym–Lehecka, sin hora fija. TV por partido pendiente.",
+      "sources": [
+        {
+          "name": "ATP · orden de juego oficial Basilea 30/10",
+          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "basel-2026-10-30-fritz-fils",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Taylor Fritz vs. Arthur Fils",
+      "date": "2026-10-30",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Cuartos; a continuación de Rune–Vacherot, sin hora fija. TV por partido pendiente.",
       "sources": [
         {
           "name": "ATP · orden de juego oficial Basilea 30/10",
@@ -1527,31 +658,6 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-esp.1-401882820",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Levante vs. Atlético Madrid",
-      "date": "2026-10-31",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "LaLiga · programación oficial",
-          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
       "id": "premier-padel-kuwait-2026-10-31-final-women",
       "sport": "Pádel",
       "competition": "Premier Padel · Kuwait Major",
@@ -1577,6 +683,31 @@
         }
       ],
       "verifiedAt": "2026-10-31T10:03:34.936Z"
+    },
+    {
+      "id": "football-esp.1-401882820",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Levante vs. Atlético Madrid",
+      "date": "2026-10-31",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "LaLiga · programación oficial",
+          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+        }
+      ],
+      "verifiedAt": "2026-10-18T10:02:00Z"
     },
     {
       "id": "basel-2026-10-31-vacherot-fritz",
@@ -1661,93 +792,6 @@
       "verifiedAt": "2026-10-31T10:03:34.936Z"
     },
     {
-      "id": "football-ger.1-401884747",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Schalke 04 vs. RB Leipzig",
-      "date": "2026-10-31",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 11:30 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-ger.1-401884748",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Werder Bremen vs. Hoffenheim",
-      "date": "2026-10-31",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 11:30 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-ger.1-401884749",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Borussia Mönchengladbach vs. SC Paderborn 07",
-      "date": "2026-10-31",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
-        }
-      ],
-      "verifiedAt": "2026-10-18T10:02:00Z"
-    },
-    {
       "id": "football-ger.1-401884751",
       "sport": "Fútbol",
       "competition": "Bundesliga",
@@ -1811,12 +855,37 @@
       "verifiedAt": "2026-10-31T10:03:34.936Z"
     },
     {
-      "id": "football-eng.1-401878763",
+      "id": "football-ger.1-401884749",
       "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Hull City vs. Ipswich Town",
+      "competition": "Bundesliga",
+      "title": "Borussia Mönchengladbach vs. SC Paderborn 07",
       "date": "2026-10-31",
-      "time": "12:00",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
+        }
+      ],
+      "verifiedAt": "2026-10-18T10:02:00Z"
+    },
+    {
+      "id": "football-ger.1-401884747",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Schalke 04 vs. RB Leipzig",
+      "date": "2026-10-31",
+      "time": "11:30",
       "timeType": "event",
       "channels": [
         "Disney+ Premium (ESPN)"
@@ -1824,15 +893,15 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 12:00 por Disney+ Premium (ESPN).",
+      "note": "Partido 11:30 por Disney+ Premium (ESPN).",
       "sources": [
         {
-          "name": "Premier League · programación oficial",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
         },
         {
           "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -1842,29 +911,28 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-eng.1-401879245",
+      "id": "football-ger.1-401884748",
       "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Manchester City vs. Brighton",
+      "competition": "Bundesliga",
+      "title": "Werder Bremen vs. Hoffenheim",
       "date": "2026-10-31",
-      "time": "12:00",
+      "time": "11:30",
       "timeType": "event",
       "channels": [
-        "ESPN",
-        "Disney+ Premium"
+        "Disney+ Premium (ESPN)"
       ],
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 12:00 por ESPN y Disney+ Premium.",
+      "note": "Partido 11:30 por Disney+ Premium (ESPN).",
       "sources": [
         {
-          "name": "Premier League · programación oficial",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
         },
         {
           "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -1874,10 +942,10 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-eng.1-401879247",
+      "id": "football-eng.1-401879251",
       "sport": "Fútbol",
       "competition": "Premier League",
-      "title": "Coventry City vs. Sunderland",
+      "title": "Bournemouth vs. Leeds United",
       "date": "2026-10-31",
       "time": "12:00",
       "timeType": "event",
@@ -1936,10 +1004,10 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-eng.1-401879251",
+      "id": "football-eng.1-401879247",
       "sport": "Fútbol",
       "competition": "Premier League",
-      "title": "Bournemouth vs. Leeds United",
+      "title": "Coventry City vs. Sunderland",
       "date": "2026-10-31",
       "time": "12:00",
       "timeType": "event",
@@ -1950,6 +1018,69 @@
       "local": false,
       "national": false,
       "note": "Partido 12:00 por Disney+ Premium (ESPN).",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "football-eng.1-401878763",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Hull City vs. Ipswich Town",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 12:00 por Disney+ Premium (ESPN).",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "football-eng.1-401879245",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Manchester City vs. Brighton",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 12:00 por ESPN y Disney+ Premium.",
       "sources": [
         {
           "name": "Premier League · programación oficial",
@@ -2069,6 +1200,34 @@
       "verifiedAt": "2026-10-31T10:03:34.936Z"
     },
     {
+      "id": "ucr-primera-2026-10-31-cuarto-1",
+      "sport": "Rugby",
+      "competition": "UCR · Primera división",
+      "title": "Jockey Club Córdoba vs. San Martín RC",
+      "date": "2026-10-31",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": true,
+      "national": false,
+      "venue": "Jockey Club Córdoba",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Cuarto de final del Top 10. TV y condiciones de ingreso pendientes.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial 28/10–1/11",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-28-Octubre-al-1-Noviembre-de-2026-1.pdf"
+        },
+        {
+          "name": "UCR · fixture oficial Top 10 A 2026",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/01/TOP-10-A-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-31T10:03:34.936Z"
+    },
+    {
       "id": "football-ita.1-401874990",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -2101,29 +1260,33 @@
       "verifiedAt": "2026-10-31T10:03:34.936Z"
     },
     {
-      "id": "ucr-primera-2026-10-31-cuarto-1",
-      "sport": "Rugby",
-      "competition": "UCR · Primera división",
-      "title": "Jockey Club Córdoba vs. San Martín RC",
+      "id": "football-ger.1-401884754",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Bayern Múnich vs. Borussia Dortmund",
       "date": "2026-10-31",
-      "time": "14:00",
+      "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
       "national": false,
-      "venue": "Jockey Club Córdoba",
-      "city": "Córdoba Capital",
-      "venueStatus": "confirmed",
-      "note": "Cuarto de final del Top 10. TV y condiciones de ingreso pendientes.",
+      "note": "Partido 14:30 por ESPN y Disney+ Premium.",
       "sources": [
         {
-          "name": "UCR · programación oficial 28/10–1/11",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-28-Octubre-al-1-Noviembre-de-2026-1.pdf"
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
         },
         {
-          "name": "UCR · fixture oficial Top 10 A 2026",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/01/TOP-10-A-2026.pdf"
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
         }
       ],
       "verifiedAt": "2026-10-31T10:03:34.936Z"
@@ -2163,38 +1326,6 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-eng.1-401878761",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Tottenham vs. Crystal Palace",
-      "date": "2026-10-31",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 14:30 por ESPN2 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "Premier League · programación oficial",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-31T10:03:34.936Z"
-    },
-    {
       "id": "football-esp.1-401882825",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -2220,29 +1351,29 @@
       "verifiedAt": "2026-10-18T10:02:00Z"
     },
     {
-      "id": "football-ger.1-401884754",
+      "id": "football-eng.1-401878761",
       "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Bayern Múnich vs. Borussia Dortmund",
+      "competition": "Premier League",
+      "title": "Tottenham vs. Crystal Palace",
       "date": "2026-10-31",
       "time": "14:30",
       "timeType": "event",
       "channels": [
-        "ESPN2",
+        "ESPN",
         "Disney+ Premium"
       ],
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 14:30 por ESPN y Disney+ Premium.",
+      "note": "Partido 14:30 por ESPN2 y Disney+ Premium.",
       "sources": [
         {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
+          "name": "Premier League · programación oficial",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
         },
         {
           "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031"
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261031"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -2282,32 +1413,6 @@
         }
       ],
       "verifiedAt": "2026-10-31T10:03:34.936Z"
-    },
-    {
-      "id": "football-arg.1-401841656",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Deportivo Riestra vs. Talleres",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "Liga Profesional · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261031"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
       "id": "football-eng.1-401879250",
@@ -2373,6 +1478,32 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "football-arg.1-401841656",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Deportivo Riestra vs. Talleres",
+      "date": "2026-10-31",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · programación oficial",
+          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261031"
+        }
+      ],
+      "verifiedAt": "2026-10-24T09:59:08Z"
+    },
+    {
       "id": "urba-top14-2026-10-31-semifinal-2",
       "sport": "Rugby",
       "competition": "URBA Top 14",
@@ -2411,6 +1542,34 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "ucr-primera-2026-10-31-cuarto-2",
+      "sport": "Rugby",
+      "competition": "UCR · Primera división",
+      "title": "Córdoba Athletic vs. Universitario Córdoba",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": true,
+      "national": false,
+      "venue": "Córdoba Athletic Club · Sede",
+      "city": "Córdoba Capital",
+      "venueStatus": "confirmed",
+      "note": "Cuarto de final del Top 10. TV y condiciones de ingreso pendientes.",
+      "sources": [
+        {
+          "name": "UCR · programación oficial 28/10–1/11",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-28-Octubre-al-1-Noviembre-de-2026-1.pdf"
+        },
+        {
+          "name": "UCR · fixture oficial Top 10 A 2026",
+          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/01/TOP-10-A-2026.pdf"
+        }
+      ],
+      "verifiedAt": "2026-10-31T10:03:34.936Z"
+    },
+    {
       "id": "f1-mexico-2026-qualifying",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -2443,34 +1602,6 @@
         }
       ],
       "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "ucr-primera-2026-10-31-cuarto-2",
-      "sport": "Rugby",
-      "competition": "UCR · Primera división",
-      "title": "Córdoba Athletic vs. Universitario Córdoba",
-      "date": "2026-10-31",
-      "time": "18:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "Córdoba Athletic Club · Sede",
-      "city": "Córdoba Capital",
-      "venueStatus": "confirmed",
-      "note": "Cuarto de final del Top 10. TV y condiciones de ingreso pendientes.",
-      "sources": [
-        {
-          "name": "UCR · programación oficial 28/10–1/11",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/10/Programacion-28-Octubre-al-1-Noviembre-de-2026-1.pdf"
-        },
-        {
-          "name": "UCR · fixture oficial Top 10 A 2026",
-          "url": "https://unioncordobesaderugby.com.ar/wp-content/uploads/2026/01/TOP-10-A-2026.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-31T10:03:34.936Z"
     },
     {
       "id": "football-arg.1-401841657",
@@ -2756,6 +1887,34 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "tennis-basel-2026-11-01-lehecka-vacherot",
+      "sport": "Tenis",
+      "competition": "ATP 500",
+      "title": "Basilea · Jiri Lehecka vs. Valentin Vacherot",
+      "date": "2026-11-01",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Final de singles; partido y transmisión a las 11:30.",
+      "sources": [
+        {
+          "name": "Swiss Indoors Basel · programa oficial",
+          "url": "https://www.swissindoorsbasel.ch/en/tournament/match-schedule/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-01T10:00:50.764Z"
+    },
+    {
       "id": "football-ger.1-401884750",
       "sport": "Fútbol",
       "competition": "Bundesliga",
@@ -2788,34 +1947,6 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "tennis-basel-2026-11-01-lehecka-vacherot",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Jiri Lehecka vs. Valentin Vacherot",
-      "date": "2026-11-01",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Final de singles; partido y transmisión a las 11:30.",
-      "sources": [
-        {
-          "name": "Swiss Indoors Basel · programa oficial",
-          "url": "https://www.swissindoorsbasel.ch/en/tournament/match-schedule/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-01T10:00:50.764Z"
-    },
-    {
       "id": "football-esp.1-401882819",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -2841,6 +1972,37 @@
       "verifiedAt": "2026-10-19T10:08:29Z"
     },
     {
+      "id": "football-ger.1-401884752",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Eintracht Frankfurt vs. Hamburgo",
+      "date": "2026-11-01",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 13:30 por Disney+ Premium (ESPN).",
+      "sources": [
+        {
+          "name": "Bundesliga · programación oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
       "id": "football-eng.1-401879246",
       "sport": "Fútbol",
       "competition": "Premier League",
@@ -2864,37 +2026,6 @@
         {
           "name": "ESPN · contraste horario UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261101"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-ger.1-401884752",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Eintracht Frankfurt vs. Hamburgo",
-      "date": "2026-11-01",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 13:30 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "Bundesliga · programación oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -3026,6 +2157,31 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "football-esp.1-401882826",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Athletic Club vs. Real Sociedad",
+      "date": "2026-11-01",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "LaLiga · programación oficial",
+          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101"
+        }
+      ],
+      "verifiedAt": "2026-10-19T10:08:29Z"
+    },
+    {
       "id": "f1-mexico-2026-race",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de México",
@@ -3068,31 +2224,6 @@
         },
         "verifiedAt": "2026-11-02T10:02:23.161Z"
       }
-    },
-    {
-      "id": "football-esp.1-401882826",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Athletic Club vs. Real Sociedad",
-      "date": "2026-11-01",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "LaLiga · programación oficial",
-          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261101"
-        }
-      ],
-      "verifiedAt": "2026-10-19T10:08:29Z"
     },
     {
       "id": "football-arg.1-401841645",
@@ -3251,38 +2382,6 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "football-eng.1-401878762",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Newcastle United vs. Everton",
-      "date": "2026-11-02",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00 por ESPN3 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261102"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
       "id": "football-esp.1-401882824",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -3306,6 +2405,38 @@
         {
           "name": "ESPN · contraste horario UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "football-eng.1-401878762",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Newcastle United vs. Everton",
+      "date": "2026-11-02",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 17:00 por ESPN3 y Disney+ Premium.",
+      "sources": [
+        {
+          "name": "Programación oficial de la competición",
+          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261102"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -3393,10 +2524,10 @@
       "verifiedAt": "2026-10-24T09:59:08Z"
     },
     {
-      "id": "atp-paris-2026",
+      "id": "wta-chennai-2026",
       "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "Rolex Paris Masters · singles",
+      "competition": "WTA 250",
+      "title": "Chennai Open · singles",
       "date": "2026-11-02",
       "endDate": "2026-11-08",
       "time": null,
@@ -3405,24 +2536,41 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "city": "París",
-      "venueStatus": "pending",
-      "note": "Singles del 2 al 8/11. Octavos confirmados; ESPN2 y Disney+ anuncian el bloque del 5/11 desde las 07:00.",
+      "venue": "SDAT Tennis Stadium",
+      "city": "Chennai",
+      "venueStatus": "confirmed",
+      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
       "sources": [
         {
-          "name": "Rolex Paris Masters · programa oficial 5/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
-        },
-        {
-          "name": "Rolex Paris Masters · orden y resultados 5/11",
-          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "WTA · calendario oficial",
+          "url": "https://www.wtatennis.com/tournaments/1148/chennai/2026"
         }
       ],
-      "verifiedAt": "2026-11-05T10:01:20.408Z"
+      "verifiedAt": "2026-10-25T10:00:35Z"
+    },
+    {
+      "id": "wta-hong-kong-2026",
+      "sport": "Tenis",
+      "competition": "WTA 250",
+      "title": "Hong Kong Open · singles",
+      "date": "2026-11-02",
+      "endDate": "2026-11-08",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "city": "Hong Kong",
+      "venueStatus": "pending",
+      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "WTA · calendario oficial",
+          "url": "https://www.wtatennis.com/tournaments/1074/hong-kong/2026"
+        }
+      ],
+      "verifiedAt": "2026-10-25T10:00:35Z"
     },
     {
       "id": "tennis-paris-2026-11-02-cerundolo-ruud",
@@ -3483,82 +2631,36 @@
       "verifiedAt": "2026-11-02T10:02:23.161Z"
     },
     {
-      "id": "wta-chennai-2026",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Chennai Open · singles",
-      "date": "2026-11-02",
-      "endDate": "2026-11-08",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "SDAT Tennis Stadium",
-      "city": "Chennai",
-      "venueStatus": "confirmed",
-      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · calendario oficial",
-          "url": "https://www.wtatennis.com/tournaments/1148/chennai/2026"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
-    },
-    {
-      "id": "wta-hong-kong-2026",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Hong Kong Open · singles",
-      "date": "2026-11-02",
-      "endDate": "2026-11-08",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "city": "Hong Kong",
-      "venueStatus": "pending",
-      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · calendario oficial",
-          "url": "https://www.wtatennis.com/tournaments/1074/hong-kong/2026"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
-    },
-    {
-      "id": "tennis-paris-2026-11-03-rinderknech-f-cerundolo",
+      "id": "atp-paris-2026",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
-      "title": "París · Arthur Rinderknech vs. Francisco Cerúndolo",
-      "date": "2026-11-03",
-      "time": "07:00",
-      "timeType": "event",
+      "title": "Rolex Paris Masters · singles",
+      "date": "2026-11-02",
+      "endDate": "2026-11-08",
+      "time": null,
+      "timeType": "pending",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Singles. ESPN2 inicia el bloque del torneo a las 07:00, sin asignar señal a este partido.",
+      "city": "París",
+      "venueStatus": "pending",
+      "note": "Singles del 2 al 8/11. Octavos confirmados; ESPN2 y Disney+ anuncian el bloque del 5/11 desde las 07:00.",
       "sources": [
         {
-          "name": "Rolex Paris Masters · orden de juego 3/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/first-second-round-schedule-tuesday-november-3-kouame-vacherot-djokovic"
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
         },
         {
-          "name": "ATP · ranking oficial de Argentina",
-          "url": "https://www.atptour.com/en/rankings/singles?RankRange=0-5000&Region=ARG"
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
       "id": "tennis-paris-2026-11-03-rublev-etcheverry",
@@ -3590,29 +2692,26 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
-      "id": "football-ucl-2049613",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Shakhtar Donetsk vs. Sporting CP",
+      "id": "tennis-paris-2026-11-03-rinderknech-f-cerundolo",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Arthur Rinderknech vs. Francisco Cerúndolo",
       "date": "2026-11-03",
-      "time": "14:45",
+      "time": "07:00",
       "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
+      "channels": [],
+      "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Partido 14:45; transmisión desde 14:30 por ESPN3 y Disney+ Premium.",
+      "note": "Singles. ESPN2 inicia el bloque del torneo a las 07:00, sin asignar señal a este partido.",
       "sources": [
         {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049613--shakhtar-vs-sporting-cp/"
+          "name": "Rolex Paris Masters · orden de juego 3/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/first-second-round-schedule-tuesday-november-3-kouame-vacherot-djokovic"
         },
         {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+          "name": "ATP · ranking oficial de Argentina",
+          "url": "https://www.atptour.com/en/rankings/singles?RankRange=0-5000&Region=ARG"
         },
         {
           "name": "ESPN Press Room · Argentina 30/10–6/11",
@@ -3640,6 +2739,38 @@
         {
           "name": "UEFA · partido",
           "url": "https://www.uefa.com/uefachampionsleague/match/2049614--galatasaray-vs-stuttgart/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-03T10:04:32.248Z"
+    },
+    {
+      "id": "football-ucl-2049613",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Shakhtar Donetsk vs. Sporting CP",
+      "date": "2026-11-03",
+      "time": "14:45",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 14:45; transmisión desde 14:30 por ESPN3 y Disney+ Premium.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049613--shakhtar-vs-sporting-cp/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -3724,38 +2855,6 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
-      "id": "football-ucl-2049607",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Barcelona vs. Aston Villa",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00; transmisión desde 16:30 por ESPN y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049607--barcelona-vs-aston-villa/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
-    },
-    {
       "id": "football-ucl-2049608",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
@@ -3787,56 +2886,25 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
-      "id": "football-ucl-2049609",
+      "id": "football-ucl-2049607",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
-      "title": "Manchester United vs. Roma",
+      "title": "Barcelona vs. Aston Villa",
       "date": "2026-11-03",
       "time": "17:00",
       "timeType": "event",
       "channels": [
-        "ESPN2",
+        "ESPN",
         "Disney+ Premium"
       ],
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 17:00; transmisión desde 16:30 por ESPN2 y Disney+ Premium.",
+      "note": "Partido 17:00; transmisión desde 16:30 por ESPN y Disney+ Premium.",
       "sources": [
         {
           "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049609--man-utd-vs-roma/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
-    },
-    {
-      "id": "football-ucl-2049610",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Feyenoord vs. Internazionale",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00; transmisión desde 16:30 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049610--feyenoord-vs-inter/"
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049607--barcelona-vs-aston-villa/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -3882,25 +2950,24 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
-      "id": "football-ucl-2049612",
+      "id": "football-ucl-2049610",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
-      "title": "Villarreal vs. Paris Saint-Germain",
+      "title": "Feyenoord vs. Internazionale",
       "date": "2026-11-03",
       "time": "17:00",
       "timeType": "event",
       "channels": [
-        "ESPN3",
-        "Disney+ Premium"
+        "Disney+ Premium (ESPN)"
       ],
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 17:00; transmisión desde 16:30 por ESPN3 y Disney+ Premium.",
+      "note": "Partido 17:00; transmisión desde 16:30 por Disney+ Premium (ESPN).",
       "sources": [
         {
           "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049612--villarreal-vs-paris/"
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049610--feyenoord-vs-inter/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -3932,6 +2999,70 @@
         {
           "name": "UEFA · partido",
           "url": "https://www.uefa.com/uefachampionsleague/match/2049615--lask-vs-s-bratislava/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-03T10:04:32.248Z"
+    },
+    {
+      "id": "football-ucl-2049609",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Manchester United vs. Roma",
+      "date": "2026-11-03",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 17:00; transmisión desde 16:30 por ESPN2 y Disney+ Premium.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049609--man-utd-vs-roma/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-03T10:04:32.248Z"
+    },
+    {
+      "id": "football-ucl-2049612",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Villarreal vs. Paris Saint-Germain",
+      "date": "2026-11-03",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 17:00; transmisión desde 16:30 por ESPN3 y Disney+ Premium.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049612--villarreal-vs-paris/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -4090,6 +3221,37 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
+      "id": "football-ucl-2049622",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "AEK Athens vs. Real Madrid",
+      "date": "2026-11-04",
+      "time": "14:45",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 14:45; transmisión desde 14:30 por Disney+ Premium (ESPN).",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049622--aek-athens-vs-real-madrid/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
       "id": "football-ucl-2049620",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
@@ -4109,37 +3271,6 @@
         {
           "name": "UEFA · partido",
           "url": "https://www.uefa.com/uefachampionsleague/match/2049620--fenerbahce-vs-liverpool/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
-    },
-    {
-      "id": "football-ucl-2049622",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "AEK Athens vs. Real Madrid",
-      "date": "2026-11-04",
-      "time": "14:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 14:45; transmisión desde 14:30 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049622--aek-athens-vs-real-madrid/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -4245,6 +3376,35 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "tennis-paris-2026-11-04-fils-machac",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Arthur Fils vs. Tomáš Macháč",
+      "date": "2026-11-04",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "No antes de las 16:30. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 4/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
+        },
+        {
+          "name": "Tennis Majors · orden de juego completo 4/11",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-04-reus-fc-reddis-barakaldo-cf",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -4287,62 +3447,12 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
-      "id": "tennis-paris-2026-11-04-fils-machac",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Arthur Fils vs. Tomáš Macháč",
-      "date": "2026-11-04",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "No antes de las 16:30. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · programa oficial 4/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
-        },
-        {
-          "name": "Tennis Majors · orden de juego completo 4/11",
-          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
-    },
-    {
       "id": "copa-del-rey-2026-11-04-cs-puertollano-albacete-balompie",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
       "title": "CS Puertollano vs. Albacete Balompié",
       "date": "2026-11-04",
       "time": "16:45",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · reprogramación oficial de primera eliminatoria",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-04-cd-badajoz-cd-tenerife",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Badajoz vs. CD Tenerife",
-      "date": "2026-11-04",
-      "time": "17:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
@@ -4376,6 +3486,59 @@
         {
           "name": "UEFA · partido",
           "url": "https://www.uefa.com/uefachampionsleague/match/2049616--b-dortmund-vs-real-betis/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
+      "id": "copa-del-rey-2026-11-04-cd-badajoz-cd-tenerife",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Badajoz vs. CD Tenerife",
+      "date": "2026-11-04",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "RFEF · reprogramación oficial de primera eliminatoria",
+          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
+        }
+      ],
+      "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "football-ucl-2049623",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Lens vs. Como",
+      "date": "2026-11-04",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Partido 17:00; transmisión desde 16:30 por ESPN2 y Disney+ Premium.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049623--lens-vs-como/"
         },
         {
           "name": "UEFA · calendario completo",
@@ -4516,38 +3679,6 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
-      "id": "football-ucl-2049623",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Lens vs. Como",
-      "date": "2026-11-04",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00; transmisión desde 16:30 por ESPN2 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049623--lens-vs-como/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
-    },
-    {
       "id": "football-ucl-2049624",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
@@ -4579,10 +3710,10 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
-      "id": "tennis-paris-2026-11-04-berrettini-humbert",
+      "id": "tennis-paris-2026-11-04-molcan-fritz",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
-      "title": "París · Matteo Berrettini vs. Ugo Humbert",
+      "title": "París · Alex Molčan vs. Taylor Fritz",
       "date": "2026-11-04",
       "time": null,
       "timeType": "pending",
@@ -4637,68 +3768,68 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
+      "id": "tennis-paris-2026-11-04-van-assche-tien",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Luca Van Assche vs. Learner Tien",
+      "date": "2026-11-04",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "A continuación; sin hora fija. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 4/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
+        },
+        {
+          "name": "Tennis Majors · orden de juego completo 4/11",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
+      "id": "tennis-paris-2026-11-04-berrettini-humbert",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Matteo Berrettini vs. Ugo Humbert",
+      "date": "2026-11-04",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "A continuación; sin hora fija. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 4/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
+        },
+        {
+          "name": "Tennis Majors · orden de juego completo 4/11",
+          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-04T10:06:36.752Z"
+    },
+    {
       "id": "tennis-paris-2026-11-04-djokovic-hijikata",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
       "title": "París · Novak Djokovic vs. Rinky Hijikata",
-      "date": "2026-11-04",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "A continuación; sin hora fija. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · programa oficial 4/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
-        },
-        {
-          "name": "Tennis Majors · orden de juego completo 4/11",
-          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
-    },
-    {
-      "id": "tennis-paris-2026-11-04-etcheverry-de-minaur",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Tomás Martín Etcheverry vs. Alex de Minaur",
-      "date": "2026-11-04",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "A continuación; sin hora fija. ESPN2 inicia el bloque a las 07:00, sin asignación individual.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · programa oficial 4/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/second-round-schedule-wednesday-4-november-zverev-djokovic-alcaraz-fils"
-        },
-        {
-          "name": "Tennis Majors · orden de juego completo 4/11",
-          "url": "https://www.tennismajors.com/atp/rolex-paris-masters-1000-atp/rolex-paris-masters-order-of-play-wednesday-alcaraz-and-fils-headline-super-wednesday-865408.html"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
-    },
-    {
-      "id": "tennis-paris-2026-11-04-molcan-fritz",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Alex Molčan vs. Taylor Fritz",
       "date": "2026-11-04",
       "time": null,
       "timeType": "pending",
@@ -4753,10 +3884,10 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
-      "id": "tennis-paris-2026-11-04-van-assche-tien",
+      "id": "tennis-paris-2026-11-04-etcheverry-de-minaur",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
-      "title": "París · Luca Van Assche vs. Learner Tien",
+      "title": "París · Tomás Martín Etcheverry vs. Alex de Minaur",
       "date": "2026-11-04",
       "time": null,
       "timeType": "pending",
@@ -4871,6 +4002,29 @@
       "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
+      "id": "liga-profesional-2026-f16-aldosivi-river",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Aldosivi vs. River Plate",
+      "date": "2026-11-05",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium",
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-05-cd-tarancon-levante-ud",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -4972,33 +4126,26 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
-      "id": "tennis-paris-2026-11-05-borges-buse",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Nuno Borges vs. Ignacio Buse",
+      "id": "liga-profesional-2026-f16-gimnasia-belgrano",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Gimnasia La Plata vs. Belgrano",
       "date": "2026-11-05",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Turno posterior en cancha 1; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
       "sources": [
         {
-          "name": "Rolex Paris Masters · programa oficial 5/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
-        },
-        {
-          "name": "Rolex Paris Masters · orden y resultados 5/11",
-          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
         }
       ],
-      "verifiedAt": "2026-11-05T10:01:20.408Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "tennis-paris-2026-11-05-fils-fritz",
@@ -5117,6 +4264,35 @@
       "verifiedAt": "2026-11-05T10:01:20.408Z"
     },
     {
+      "id": "tennis-paris-2026-11-05-borges-buse",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000",
+      "title": "París · Nuno Borges vs. Ignacio Buse",
+      "date": "2026-11-05",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Turno posterior en cancha 1; hora individual pendiente. ESPN2/Disney+ anuncian el bloque, sin asignación individual.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · programa oficial 5/11",
+          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
+        },
+        {
+          "name": "Rolex Paris Masters · orden y resultados 5/11",
+          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
+        },
+        {
+          "name": "ESPN Press Room · Argentina 30/10–6/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-05T10:01:20.408Z"
+    },
+    {
       "id": "dpwt-abu-dhabi-2026-r2",
       "sport": "Golf",
       "competition": "DP World Tour",
@@ -5148,6 +4324,34 @@
       "verifiedAt": "2026-11-03T10:04:32.248Z"
     },
     {
+      "id": "paris-2026-11-06-shelton-paul",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Ben Shelton vs. Tommy Paul",
+      "date": "2026-11-06",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Singles; ESPN transmite los bloques desde 10:00 y 15:00.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · orden de juego oficial",
+          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
       "id": "f1-sao-paulo-2026-practice-1",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de São Paulo",
@@ -5164,7 +4368,7 @@
       "venue": "Autódromo José Carlos Pace (Interlagos)",
       "city": "São Paulo, Brasil",
       "venueStatus": "confirmed",
-      "note": "Sesión a las 12:30 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 12:25.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de São Paulo",
@@ -5175,11 +4379,61 @@
           "url": "https://www.formula1.com/en/racing/2026/brazil"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-barracas-racing",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Barracas Central vs. Racing Club",
+      "date": "2026-11-06",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "paris-2026-11-06-fritz-alcaraz",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Taylor Fritz vs. Carlos Alcaraz",
+      "date": "2026-11-06",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Singles; ESPN transmite los bloques desde 10:00 y 15:00.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · orden de juego oficial",
+          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "f1-sao-paulo-2026-practice-2",
@@ -5198,7 +4452,7 @@
       "venue": "Autódromo José Carlos Pace (Interlagos)",
       "city": "São Paulo, Brasil",
       "venueStatus": "confirmed",
-      "note": "Sesión a las 16:00 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 15:55.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de São Paulo",
@@ -5209,11 +4463,11 @@
           "url": "https://www.formula1.com/en/racing/2026/brazil"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "fa-cup-2026-r1-tie-05",
@@ -5254,7 +4508,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido y transmisión a las 16:30 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 16:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 9 oficial",
@@ -5265,11 +4519,39 @@
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261106"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "paris-2026-11-06-borges-ruud",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Nuno Borges vs. Casper Ruud",
+      "date": "2026-11-06",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Singles; ESPN transmite los bloques desde 10:00 y 15:00.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · orden de juego oficial",
+          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "argentina-xv-inglaterra-a-2026-11-06",
@@ -5333,7 +4615,7 @@
       "time": "16:45",
       "timeType": "event",
       "channels": [
-        "ESPN4",
+        "ESPN2",
         "Disney+ Premium"
       ],
       "broadcastStatus": "confirmed",
@@ -5342,7 +4624,7 @@
       "venue": "Stadio Pier Luigi Penzo",
       "city": "Venecia, Italia",
       "venueStatus": "confirmed",
-      "note": "Partido 16:45; transmisión desde 16:30 por ESPN4 y Disney+ Premium.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · fecha 11 oficial",
@@ -5353,11 +4635,11 @@
           "url": "https://www.veneziafc.it/news/serie-a-enilive-26-27-la-prevendita-per-venezia-udinese"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-eng.1-401879242",
@@ -5373,7 +4655,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido y transmisión a las 17:00 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 16:50.",
       "sources": [
         {
           "name": "Premier League · programación de noviembre",
@@ -5384,11 +4666,11 @@
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261106"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-esp.1-401882809",
@@ -5463,7 +4745,7 @@
       "venue": "Aviva Stadium",
       "city": "Dublín",
       "venueStatus": "confirmed",
-      "note": "Partido 17:10; transmisión desde 16:30 por ESPN y Disney+ Premium.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "UAR · calendario de Los Pumas",
@@ -5474,11 +4756,77 @@
           "url": "https://www.irishrugby.ie/fixture/view/2123"
         },
         {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-03T10:04:32.248Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-independiente-riestra",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Independiente vs. Deportivo Riestra",
+      "date": "2026-11-06",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-san-lorenzo-platense",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "San Lorenzo vs. Platense",
+      "date": "2026-11-06",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-union-velez",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Unión vs. Vélez Sarsfield",
+      "date": "2026-11-06",
+      "time": "19:15",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "ucr-top10a-2026-11-06-semi-1",
@@ -5509,6 +4857,105 @@
       "verifiedAt": "2026-11-02T10:02:23.161Z"
     },
     {
+      "id": "liga-profesional-2026-f16-banfield-atletico-tucuman",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Banfield vs. Atlético Tucumán",
+      "date": "2026-11-06",
+      "time": "22:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-tigre-sarmiento",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Tigre vs. Sarmiento",
+      "date": "2026-11-06",
+      "time": "22:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "paris-2026-11-06-van-assche-hijikata",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Luca Van Assche vs. Rinky Hijikata",
+      "date": "2026-11-06",
+      "time": null,
+      "timeType": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Singles; comienza al finalizar Shelton–Paul.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · orden de juego oficial",
+          "url": "https://www.rolexparismasters.com/en/news/article/quarter-finals-schedule-singles-doubles-wheelchair-tennis-shelton-van-assche-alcaraz"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "dpwt-abu-dhabi-2026-r3",
+      "sport": "Golf",
+      "competition": "DP World Tour · Abu Dhabi Aldar Championship",
+      "title": "Abu Dhabi Aldar Championship · Tercera ronda",
+      "date": "2026-11-07",
+      "time": "04:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DP World Tour · calendario oficial 2026",
+          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
       "id": "football-eng.1-401878758",
       "sport": "Fútbol",
       "competition": "Premier League",
@@ -5516,11 +4963,14 @@
       "date": "2026-11-07",
       "time": "09:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 10. TV argentina pendiente.",
+      "note": "Transmisión desde 09:20.",
       "sources": [
         {
           "name": "Premier League · programación oficial de noviembre",
@@ -5529,9 +4979,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-esp.1-401882812",
@@ -5566,11 +5020,13 @@
       "date": "2026-11-07",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 11. TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
@@ -5579,9 +5035,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ita.1-401874811",
@@ -5591,11 +5051,13 @@
       "date": "2026-11-07",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 11. TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
@@ -5604,9 +5066,45 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "football-ger.1-401884745",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Borussia Dortmund vs. SV Elversberg",
+      "date": "2026-11-07",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 11:25.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 9 oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
+        },
+        {
+          "name": "ESPN · fixture y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "f1-sao-paulo-2026-practice-3",
@@ -5616,14 +5114,16 @@
       "date": "2026-11-07",
       "time": "11:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
       "venue": "Autódromo José Carlos Pace (Interlagos)",
       "city": "São Paulo, Brasil",
       "venueStatus": "confirmed",
-      "note": "Transmisión para Argentina pendiente de programación oficial.",
+      "note": "Transmisión desde 11:25.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de São Paulo",
@@ -5632,9 +5132,75 @@
         {
           "name": "Fórmula 1 · calendario oficial de São Paulo",
           "url": "https://www.formula1.com/en/racing/2026/brazil"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "football-ger.1-401884740",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Mainz 05 vs. Bayern Munich",
+      "date": "2026-11-07",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 11:20.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 9 oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
+        },
+        {
+          "name": "ESPN · fixture y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "football-ger.1-401884744",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "RB Leipzig vs. Augsburg",
+      "date": "2026-11-07",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 11:20.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 9 oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
+        },
+        {
+          "name": "ESPN · fixture y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ger.1-401884737",
@@ -5662,79 +5228,288 @@
       "verifiedAt": "2026-10-25T10:00:10Z"
     },
     {
-      "id": "football-ger.1-401884740",
+      "id": "fa-cup-2026-r1-tie-09",
       "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Mainz 05 vs. Bayern Munich",
+      "competition": "FA Cup",
+      "title": "Accrington Stanley vs. Wycombe Wanderers",
       "date": "2026-11-07",
-      "time": "11:30",
+      "time": "12:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Fecha 9. TV argentina pendiente.",
+      "note": "Primera ronda. TV argentina pendiente.",
       "sources": [
         {
-          "name": "Bundesliga · fecha 9 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
-        },
-        {
-          "name": "ESPN · fixture y hora UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "football-ger.1-401884744",
+      "id": "football-eng.1-401878760",
       "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "RB Leipzig vs. Augsburg",
+      "competition": "Premier League",
+      "title": "Arsenal vs. Hull City",
       "date": "2026-11-07",
-      "time": "11:30",
+      "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 9. TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
-          "name": "Bundesliga · fecha 9 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
+          "name": "Premier League · programación oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
         },
         {
           "name": "ESPN · fixture y hora UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
-      "id": "football-ger.1-401884745",
+      "id": "fa-cup-2026-r1-tie-13",
       "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Borussia Dortmund vs. SV Elversberg",
+      "competition": "FA Cup",
+      "title": "Barnet vs. Tranmere Rovers",
       "date": "2026-11-07",
-      "time": "11:30",
+      "time": "12:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Fecha 9. TV argentina pendiente.",
+      "note": "Primera ronda. TV argentina pendiente.",
       "sources": [
         {
-          "name": "Bundesliga · fecha 9 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9"
-        },
-        {
-          "name": "ESPN · fixture y hora UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-15",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Barnsley vs. Aldershot Town",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-38",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Boreham Wood vs. Wigan Athletic",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-35",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Bradford City vs. Marine",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-12",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Bromley vs. Rotherham United",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-22",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Burton Albion vs. AFC Rushden & Diamonds",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-39",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Carlisle United AFC vs. Salford City",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-25",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Cheltenham Town vs. FC Halifax Town",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-17",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Chesterfield vs. Yeovil Town",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-26",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Colchester United vs. Worcester City",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-20",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Crewe Alexandra vs. AFC Wimbledon",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
       "id": "fa-cup-2026-r1-tie-01",
@@ -5758,10 +5533,146 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "fa-cup-2026-r1-tie-02",
+      "id": "fa-cup-2026-r1-tie-27",
       "sport": "Fútbol",
       "competition": "FA Cup",
-      "title": "Mansfield Town vs. Macclesfield",
+      "title": "Eastleigh vs. Shrewsbury Town",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-14",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Fleetwood Town vs. Rochdale AFC",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "football-eng.1-401879241",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Fulham vs. Newcastle United",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 11:50.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
+        },
+        {
+          "name": "ESPN · fixture y hora UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-18",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Gillingham vs. Barrow AFC",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-32",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Guiseley AFC vs. Sutton United",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-19",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Harrogate Town AFC vs. AFC Fylde",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-31",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Hornchurch vs. Blackpool",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -5783,27 +5694,6 @@
       "sport": "Fútbol",
       "competition": "FA Cup",
       "title": "Huddersfield Town vs. Exeter City",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-04",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Luton Town vs. Forest Green Rovers",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -5863,10 +5753,31 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "fa-cup-2026-r1-tie-09",
+      "id": "fa-cup-2026-r1-tie-04",
       "sport": "Fútbol",
       "competition": "FA Cup",
-      "title": "Accrington Stanley vs. Wycombe Wanderers",
+      "title": "Luton Town vs. Forest Green Rovers",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera ronda. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
+        }
+      ],
+      "verifiedAt": "2026-10-27T10:07:42Z"
+    },
+    {
+      "id": "fa-cup-2026-r1-tie-02",
+      "sport": "Fútbol",
+      "competition": "FA Cup",
+      "title": "Mansfield Town vs. Macclesfield",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -5926,283 +5837,10 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "fa-cup-2026-r1-tie-12",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Bromley vs. Rotherham United",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-13",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Barnet vs. Tranmere Rovers",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-14",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Fleetwood Town vs. Rochdale AFC",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-15",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Barnsley vs. Aldershot Town",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-17",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Chesterfield vs. Yeovil Town",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-18",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Gillingham vs. Barrow AFC",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-19",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Harrogate Town AFC vs. AFC Fylde",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-20",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Crewe Alexandra vs. AFC Wimbledon",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
       "id": "fa-cup-2026-r1-tie-21",
       "sport": "Fútbol",
       "competition": "FA Cup",
       "title": "Oxford United vs. Stevenage",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-22",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Burton Albion vs. AFC Rushden & Diamonds",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-24",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Port Vale vs. Scunthorpe United",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-25",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Cheltenham Town vs. FC Halifax Town",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-26",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Colchester United vs. Worcester City",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-27",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Eastleigh vs. Shrewsbury Town",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -6241,115 +5879,10 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "fa-cup-2026-r1-tie-31",
+      "id": "fa-cup-2026-r1-tie-24",
       "sport": "Fútbol",
       "competition": "FA Cup",
-      "title": "Hornchurch vs. Blackpool",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-32",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Guiseley AFC vs. Sutton United",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-35",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Bradford City vs. Marine",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-36",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "York City vs. Northampton Town",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-38",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Boreham Wood vs. Wigan Athletic",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera ronda. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "The FA · fixtures oficiales de primera ronda",
-          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "fa-cup-2026-r1-tie-39",
-      "sport": "Fútbol",
-      "competition": "FA Cup",
-      "title": "Carlisle United AFC vs. Salford City",
+      "title": "Port Vale vs. Scunthorpe United",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -6388,10 +5921,10 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
-      "id": "football-eng.1-401878760",
+      "id": "fa-cup-2026-r1-tie-36",
       "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Arsenal vs. Hull City",
+      "competition": "FA Cup",
+      "title": "York City vs. Northampton Town",
       "date": "2026-11-07",
       "time": "12:00",
       "timeType": "event",
@@ -6399,43 +5932,14 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Fecha 10. TV argentina pendiente.",
+      "note": "Primera ronda. TV argentina pendiente.",
       "sources": [
         {
-          "name": "Premier League · programación oficial de noviembre",
-          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
-        },
-        {
-          "name": "ESPN · fixture y hora UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
+          "name": "The FA · fixtures oficiales de primera ronda",
+          "url": "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
-    },
-    {
-      "id": "football-eng.1-401879241",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Fulham vs. Newcastle United",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Fecha 10. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Premier League · programación oficial de noviembre",
-          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
-        },
-        {
-          "name": "ESPN · fixture y hora UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
       "id": "football-esp.1-401882813",
@@ -6470,11 +5974,13 @@
       "date": "2026-11-07",
       "time": "14:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 11. TV argentina pendiente.",
+      "note": "Transmisión desde 13:50.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
@@ -6483,9 +5989,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "fa-cup-2026-r1-tie-37",
@@ -6516,11 +6026,14 @@
       "date": "2026-11-07",
       "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 10. TV argentina pendiente.",
+      "note": "Transmisión desde 14:20.",
       "sources": [
         {
           "name": "Premier League · programación oficial de noviembre",
@@ -6529,9 +6042,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-esp.1-401882811",
@@ -6541,11 +6058,14 @@
       "date": "2026-11-07",
       "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Jornada 12. TV argentina pendiente.",
+      "note": "Transmisión desde 14:20.",
       "sources": [
         {
           "name": "LaLiga · horarios oficiales de la jornada 12",
@@ -6554,9 +6074,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ger.1-401884743",
@@ -6566,11 +6090,13 @@
       "date": "2026-11-07",
       "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 9. TV argentina pendiente.",
+      "note": "Transmisión desde 14:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 9 oficial",
@@ -6579,9 +6105,35 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-gimnasia-mendoza-independiente-rivadavia",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Gimnasia Mendoza vs. Independiente Rivadavia",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "f1-sao-paulo-2026-qualifying",
@@ -6591,14 +6143,16 @@
       "date": "2026-11-07",
       "time": "15:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
       "venue": "Autódromo José Carlos Pace (Interlagos)",
       "city": "São Paulo, Brasil",
       "venueStatus": "confirmed",
-      "note": "Transmisión para Argentina pendiente de programación oficial.",
+      "note": "Transmisión desde 14:55.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de São Paulo",
@@ -6607,9 +6161,41 @@
         {
           "name": "Fórmula 1 · calendario oficial de São Paulo",
           "url": "https://www.formula1.com/en/racing/2026/brazil"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-talleres-estudiantes",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Talleres vs. Estudiantes de La Plata",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": true,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        },
+        {
+          "name": "Talleres · información de servicio",
+          "url": "https://www.clubtalleres.com.ar/info-de-servicio-para-talleres-vs-estudiantes-en-el-kempes/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z",
+      "venue": "Estadio Mario Alberto Kempes",
+      "city": "Córdoba"
     },
     {
       "id": "football-ita.1-401874803",
@@ -6619,11 +6205,14 @@
       "date": "2026-11-07",
       "time": "16:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 11. TV argentina pendiente.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · partido oficial",
@@ -6632,9 +6221,13 @@
         {
           "name": "ESPN · fixture y hora UTC",
           "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:00:10Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "fa-cup-2026-r1-tie-28",
@@ -6721,8 +6314,8 @@
       "time": "17:10",
       "timeType": "event",
       "channels": [
-        "ESPN",
-        "Disney+"
+        "ESPN3",
+        "Disney+ Premium"
       ],
       "broadcastStatus": "confirmed",
       "local": false,
@@ -6730,7 +6323,7 @@
       "venue": "Club Atlético San Isidro",
       "city": "San Isidro",
       "venueStatus": "confirmed",
-      "note": "Final del Top 14, en vivo por ESPN y Disney+.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "URBA · Hindú finalista ante Newman",
@@ -6739,9 +6332,80 @@
         {
           "name": "URBA · lanzamiento de las finales",
           "url": "https://urba.org.ar/noticias/lanzamiento-de-las-finales-del-urba-top-14-copa-macro-presentada-por-zurich"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-01T10:00:50.764Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-argentinos-huracan",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Argentinos Juniors vs. Huracán",
+      "date": "2026-11-07",
+      "time": "17:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-boca-defensa",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Boca Juniors vs. Defensa y Justicia",
+      "date": "2026-11-07",
+      "time": "17:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium",
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-rosario-central-estudiantes-rio-cuarto",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Rosario Central vs. Estudiantes de Río Cuarto",
+      "date": "2026-11-07",
+      "time": "17:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "ucr-top10a-2026-11-07-semi-2",
@@ -6770,6 +6434,61 @@
         }
       ],
       "verifiedAt": "2026-11-02T10:02:23.161Z"
+    },
+    {
+      "id": "liga-profesional-2026-f16-instituto-newells",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Instituto vs. Newell’s",
+      "date": "2026-11-07",
+      "time": "22:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": true,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        },
+        {
+          "name": "Instituto · información de servicio",
+          "url": "https://institutoacc.com.ar/index.php/instituto-cierra-la-fase-regular-del-clausura-ante-newells-la-info-de-servicio/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z",
+      "venue": "Estadio Monumental Presidente Perón",
+      "city": "Córdoba"
+    },
+    {
+      "id": "dpwt-abu-dhabi-2026-r4",
+      "sport": "Golf",
+      "competition": "DP World Tour · Abu Dhabi Aldar Championship",
+      "title": "Abu Dhabi Aldar Championship · Ronda final",
+      "date": "2026-11-08",
+      "time": "04:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DP World Tour · calendario oficial 2026",
+          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ita.1-401874810",
@@ -6843,35 +6562,10 @@
       "verifiedAt": "2026-10-26T10:05:03Z"
     },
     {
-      "id": "football-eng.1-401878759",
+      "id": "football-eng.1-401879244",
       "sport": "Fútbol",
       "competition": "Premier League",
-      "title": "Ipswich Town vs. AFC Bournemouth",
-      "date": "2026-11-08",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261108"
-        }
-      ],
-      "verifiedAt": "2026-10-26T10:05:03Z"
-    },
-    {
-      "id": "football-eng.1-401879239",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Sunderland vs. Chelsea",
+      "title": "Brighton & Hove Albion vs. Brentford",
       "date": "2026-11-08",
       "time": "11:00",
       "timeType": "event",
@@ -6918,10 +6612,35 @@
       "verifiedAt": "2026-10-26T10:05:03Z"
     },
     {
-      "id": "football-eng.1-401879244",
+      "id": "football-ita.1-401875018",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Genoa vs. AC Milan",
+      "date": "2026-11-08",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Programación oficial de la competición",
+          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108"
+        }
+      ],
+      "verifiedAt": "2026-10-26T10:05:03Z"
+    },
+    {
+      "id": "football-eng.1-401878759",
       "sport": "Fútbol",
       "competition": "Premier League",
-      "title": "Brighton & Hove Albion vs. Brentford",
+      "title": "Ipswich Town vs. AFC Bournemouth",
       "date": "2026-11-08",
       "time": "11:00",
       "timeType": "event",
@@ -6968,10 +6687,10 @@
       "verifiedAt": "2026-10-26T10:05:03Z"
     },
     {
-      "id": "football-ita.1-401875018",
+      "id": "football-eng.1-401879239",
       "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Genoa vs. AC Milan",
+      "competition": "Premier League",
+      "title": "Sunderland vs. Chelsea",
       "date": "2026-11-08",
       "time": "11:00",
       "timeType": "event",
@@ -6983,11 +6702,11 @@
       "sources": [
         {
           "name": "Programación oficial de la competición",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+          "url": "https://www.premierleague.com/en/news/4725574/fixture-amendments-for-premier-league-matches-in-november"
         },
         {
           "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108"
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261108"
         }
       ],
       "verifiedAt": "2026-10-26T10:05:03Z"
@@ -7142,14 +6861,16 @@
       "date": "2026-11-08",
       "time": "14:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
       "venue": "Autódromo José Carlos Pace (Interlagos)",
       "city": "São Paulo, Brasil",
       "venueStatus": "confirmed",
-      "note": "Carrera a 71 vueltas. TV argentina pendiente.",
+      "note": "Transmisión desde 13:55.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de São Paulo",
@@ -7158,9 +6879,13 @@
         {
           "name": "Fórmula 1 · calendario oficial",
           "url": "https://www.formula1.com/en/racing/2026/brazil"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-04T10:06:36.752Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ita.1-401874808",
@@ -7209,6 +6934,31 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
+      "id": "football-esp.1-401882815",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Celta Vigo vs. Levante",
+      "date": "2026-11-08",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente de confirmación.",
+      "sources": [
+        {
+          "name": "Programación oficial de la competición",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12"
+        },
+        {
+          "name": "ESPN · contraste horario UTC",
+          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261108"
+        }
+      ],
+      "verifiedAt": "2026-10-26T10:05:03Z"
+    },
+    {
       "id": "football-esp.1-401882807",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -7234,29 +6984,33 @@
       "verifiedAt": "2026-10-26T10:05:03Z"
     },
     {
-      "id": "football-esp.1-401882815",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Celta Vigo vs. Levante",
+      "id": "wta-finals-indian-wells-2026",
+      "sport": "Tenis",
+      "competition": "WTA Finals",
+      "title": "WTA Finals · Indian Wells · singles",
       "date": "2026-11-08",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "endDate": "2026-11-15",
+      "time": "15:25",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente de confirmación.",
+      "note": "Singles; transmisión del día 1 desde 15:25. Cruces pendientes.",
       "sources": [
         {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12"
+          "name": "WTA · Finals 2026",
+          "url": "https://www.wtatennis.com/tournaments/808/wta-finals/2026"
         },
         {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261108"
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-26T10:05:03Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ger.1-401884742",
@@ -7364,6 +7118,28 @@
       "verifiedAt": "2026-11-04T10:06:36.752Z"
     },
     {
+      "id": "liga-profesional-2026-f16-central-cordoba-lanus",
+      "sport": "Fútbol",
+      "competition": "Liga Profesional",
+      "title": "Central Córdoba vs. Lanús",
+      "date": "2026-11-08",
+      "time": "19:30",
+      "timeType": "event",
+      "channels": [
+        "TNT Sports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "Liga Profesional · fecha 16 y TV oficial",
+          "url": "https://www.ligaprofesional.ar/notas/arbitraje/2026/11/03/autoridades-de-la-fecha-16-5/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
       "id": "atp-stockholm-2026",
       "sport": "Tenis",
       "competition": "ATP 250",
@@ -7381,28 +7157,6 @@
         {
           "name": "ATP Tour · calendario 2026",
           "url": "https://www.atptour.com/en/tournaments/"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "wta-finals-indian-wells-2026",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Indian Wells · singles",
-      "date": "2026-11-08",
-      "endDate": "2026-11-15",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Torneo de singles 8–15/11; cruces y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · calendario oficial de las Finals",
-          "url": "https://www.wtatennis.com/tournaments/808/wta-finals/2026"
         }
       ],
       "verifiedAt": "2026-10-27T10:07:42Z"
@@ -7471,6 +7225,33 @@
       "verifiedAt": "2026-10-30T09:58:46Z"
     },
     {
+      "id": "dpwt-championship-2026-r1",
+      "sport": "Golf",
+      "competition": "DP World Tour Championship",
+      "title": "DP World Tour Championship · Primera ronda",
+      "date": "2026-11-12",
+      "time": "04:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DP World Tour · calendario oficial 2026",
+          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-12-cda-navalcarnero-real-betis",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -7499,21 +7280,28 @@
       "date": "2026-11-12",
       "time": "20:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": true,
       "national": false,
       "venue": "Belgrano (Córdoba)",
       "city": "Córdoba",
       "venueStatus": "confirmed",
-      "note": "AFA anunció TV, pero todavía no publicó la señal exacta para Argentina.",
+      "note": "Transmisión desde 19:45; partido 20:00.",
       "sources": [
         {
           "name": "AFA · agenda oficial",
           "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-01T10:00:50.764Z"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "pga-austin-championship-2026",
@@ -7539,6 +7327,33 @@
         }
       ],
       "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "id": "dpwt-championship-2026-r2",
+      "sport": "Golf",
+      "competition": "DP World Tour Championship",
+      "title": "DP World Tour Championship · Segunda ronda",
+      "date": "2026-11-13",
+      "time": "04:00",
+      "timeType": "broadcast",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "sources": [
+        {
+          "name": "DP World Tour · calendario oficial 2026",
+          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "argentina-mayor-uruguay-2026-11-13",
@@ -7847,18 +7662,15 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     }
   ],
-  "updatedAt": "2026-11-05T10:01:20.408Z",
-  "coverageThrough": "2026-11-18",
+  "updatedAt": "2026-11-06T10:12:00Z",
+  "coverageThrough": "2026-11-19",
   "warnings": [
-    "ESPN Argentina publicó su programación hasta el 6/11; TV posterior continúa pendiente.",
-    "UCR: semifinales 6–7/11 en Tala RC; la final será el 14/11.",
-    "F1 São Paulo: horarios oficiales reconfirmados; TV desde el 7/11 y grilla siguen pendientes.",
-    "Dubai P1 comienza el 8/11; el cuadro nominal todavía no está disponible.",
-    "Liga argentina: no hay nuevos partidos de Primera confirmados en la ventana.",
-    "FA Cup: 40 cruces confirmados; TV argentina pendiente.",
-    "Argentina–Uruguay y Argentina–Costa Rica: horarios y TV pendientes.",
-    "Cabalén: Córdoba Pista confirmó 21–22/11; cronograma y entradas pendientes.",
-    "Korn Ferry Tour terminó el 11/10; no tiene eventos en la ventana."
+    "ESPN Argentina publicó programación del 6 al 13/11; las señales no anunciadas siguen pendientes.",
+    "F1 São Paulo: horarios y TV confirmados; la grilla de Colapinto se revisará tras la clasificación oficial.",
+    "Premier Padel Dubai P1: cuadro y orden de juego nominal pendientes.",
+    "UCR: semifinales confirmadas; la final del 14/11 conserva hora pendiente.",
+    "Cabalén: no hay una próxima fecha confirmada dentro de 90 días.",
+    "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-11-02",
