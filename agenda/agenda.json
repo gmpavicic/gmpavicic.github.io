@@ -1,610 +1,6 @@
 {
   "events": [
     {
-      "id": "tokyo-2026-10-30-rybakina-fernandez",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Elena Rybakina vs. Leylah Fernandez",
-      "date": "2026-10-30",
-      "time": "02:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 02:30. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego oficial de Tokio",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "tokyo-2026-10-30-eala-shnaider",
-      "sport": "Tenis",
-      "competition": "WTA 500",
-      "title": "Tokio · Alexandra Eala vs. Diana Shnaider",
-      "date": "2026-10-30",
-      "time": "05:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; no antes de 05:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego oficial de Tokio",
-          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/1056/OP.pdf"
-        }
-      ],
-      "verifiedAt": "2026-10-29T09:59:53Z"
-    },
-    {
-      "id": "kuwait-2026-10-30-sanchez-ustero-josemaria-gonzalez",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Sánchez / Ustero vs. Josemaría / González",
-      "date": "2026-10-30",
-      "time": "08:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal femenina.",
-      "sources": [
-        {
-          "name": "Premier Padel · semifinales Kuwait 30/10",
-          "url": "https://premierpadel.com/en/news/alfonso-libaak-goi-alonso-y-tello-arce-rompen-barreras-para-acceder-a-las-semifinales-del-kuwait-major"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "vienna-2026-10-30-mannarino-medvedev",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Adrian Mannarino vs. Daniil Medvedev",
-      "date": "2026-10-30",
-      "time": "09:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. TV argentina por partido pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Viena 30/10",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "basel-2026-10-30-rune-vacherot",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Holger Rune vs. Valentin Vacherot",
-      "date": "2026-10-30",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. TV argentina por partido pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Basilea 30/10",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "kuwait-2026-10-30-alonso-goni-tello-arce",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Alonso / Goñi vs. Tello / Arce",
-      "date": "2026-10-30",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal masculina.",
-      "sources": [
-        {
-          "name": "Premier Padel · semifinales Kuwait 30/10",
-          "url": "https://premierpadel.com/en/news/alfonso-libaak-goi-alonso-y-tello-arce-rompen-barreras-para-acceder-a-las-semifinales-del-kuwait-major"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "vienna-2026-10-30-paul-alcaraz",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Tommy Paul vs. Carlos Alcaraz",
-      "date": "2026-10-30",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. TV argentina por partido pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Viena 30/10",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "kuwait-2026-10-30-triay-brea-calvo-fernandez",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Triay / Brea vs. Calvo / Fernández",
-      "date": "2026-10-30",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal femenina.",
-      "sources": [
-        {
-          "name": "Premier Padel · semifinales Kuwait 30/10",
-          "url": "https://premierpadel.com/en/news/alfonso-libaak-goi-alonso-y-tello-arce-rompen-barreras-para-acceder-a-las-semifinales-del-kuwait-major"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "vienna-2026-10-30-zverev-fery",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Alexander Zverev vs. Arthur Fery",
-      "date": "2026-10-30",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. ESPN anuncia bloque conjunto desde 13:30, sin asignar partido.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Viena 30/10",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "basel-2026-10-30-kym-lehecka",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Jerome Kym vs. Jiri Lehecka",
-      "date": "2026-10-30",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. ESPN anuncia bloque conjunto, sin asignar partido.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Basilea 30/10",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "kuwait-2026-10-30-coello-tapia-libaak-alfonso",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Kuwait Major",
-      "title": "Kuwait Major · Coello / Tapia vs. Libaak / Alfonso",
-      "date": "2026-10-30",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Semifinal masculina.",
-      "sources": [
-        {
-          "name": "Premier Padel · semifinales Kuwait 30/10",
-          "url": "https://premierpadel.com/en/news/alfonso-libaak-goi-alonso-y-tello-arce-rompen-barreras-para-acceder-a-las-semifinales-del-kuwait-major"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "f1-mexico-2026-practice-1",
-      "sport": "Fórmula 1",
-      "competition": "Fórmula 1 · GP de México",
-      "title": "GP de México · Práctica libre 1",
-      "date": "2026-10-30",
-      "time": "15:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Autódromo Hermanos Rodríguez",
-      "city": "Ciudad de México",
-      "venueStatus": "confirmed",
-      "note": "Transmisión por Disney+ Premium (ESPN) desde las 15:25.",
-      "sources": [
-        {
-          "name": "Fórmula 1 · horario oficial de México",
-          "url": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "vienna-2026-10-30-berrettini-de-minaur",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Viena · Matteo Berrettini vs. Alex de Minaur",
-      "date": "2026-10-30",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos. ESPN anuncia bloque conjunto, sin asignar partido.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Viena 30/10",
-          "url": "https://www.protennislive.com/posting/2026/337/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-ger.1-401884746",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "SV Elversberg vs. Mainz 05",
-      "date": "2026-10-30",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 16:20.",
-      "sources": [
-        {
-          "name": "Bundesliga · jornada 8 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-23T10:00:48Z"
-    },
-    {
-      "id": "football-esp.1-401882817",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Villarreal vs. Espanyol",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Estadio de la Cerámica",
-      "city": "Villarreal",
-      "venueStatus": "confirmed",
-      "note": "TV argentina pendiente de confirmación.",
-      "sources": [
-        {
-          "name": "LaLiga · jornada 11 oficial",
-          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
-        },
-        {
-          "name": "Espanyol · calendario y sede oficiales",
-          "url": "https://www.rcdespanyol.com/es/proximos-partidos"
-        }
-      ],
-      "verifiedAt": "2026-10-17T10:01:48Z"
-    },
-    {
-      "id": "football-arg.1-401841655",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Estudiantes de Río Cuarto vs. Gimnasia La Plata",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "f1-mexico-2026-practice-2",
-      "sport": "Fórmula 1",
-      "competition": "Fórmula 1 · GP de México",
-      "title": "GP de México · Práctica libre 2",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Autódromo Hermanos Rodríguez",
-      "city": "Ciudad de México",
-      "venueStatus": "confirmed",
-      "note": "Transmisión por Disney+ Premium (ESPN) desde las 18:55.",
-      "sources": [
-        {
-          "name": "Fórmula 1 · horario oficial de México",
-          "url": "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
-        },
-        {
-          "name": "ESPN · programación para Argentina",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-27T10:07:42Z"
-    },
-    {
-      "id": "football-arg.1-401841653",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Huracán vs. Tigre",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN Premium",
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Transmisión desde 18:45; partido 19:00.",
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "urba-top14-2026-10-30-semifinal-1",
-      "sport": "Rugby",
-      "competition": "URBA Top 14",
-      "title": "Newman vs. Alumni · Semifinal 1",
-      "date": "2026-10-30",
-      "time": "20:10",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Club CASI",
-      "venueStatus": "confirmed",
-      "note": "Partido 20:10; transmisión desde 20:00 por ESPN4 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "URBA · semifinales confirmadas",
-          "url": "https://urba.org.ar/noticias/casi-hindu-y-newman-alumni-semifinalistas-del-urba-top-14-copa-macro-presentada-por-zurich"
-        },
-        {
-          "name": "ESPN Press Room · programación ARGENTINA 23–30/10",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-23-al-30-de-octubre/"
-        },
-        {
-          "name": "URBA · lanzamiento de las finales",
-          "url": "https://urba.org.ar/noticias/lanzamiento-de-las-finales-del-urba-top-14-copa-macro-presentada-por-zurich"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-arg.1-401841648",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Racing Club vs. Aldosivi",
-      "date": "2026-10-30",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [
-        "ESPN Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "football-arg.1-401841647",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Sarmiento vs. Rosario Central",
-      "date": "2026-10-30",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "LPF · programación oficial",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "basel-2026-10-30-struff-borges",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Jan-Lennard Struff vs. Nuno Borges",
-      "date": "2026-10-30",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; a continuación de Kym–Lehecka, sin hora fija. TV por partido pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Basilea 30/10",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "basel-2026-10-30-fritz-fils",
-      "sport": "Tenis",
-      "competition": "ATP 500",
-      "title": "Basilea · Taylor Fritz vs. Arthur Fils",
-      "date": "2026-10-30",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuartos; a continuación de Rune–Vacherot, sin hora fija. TV por partido pendiente.",
-      "sources": [
-        {
-          "name": "ATP · orden de juego oficial Basilea 30/10",
-          "url": "https://www.protennislive.com/posting/2026/328/op.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
       "id": "tokyo-2026-10-31-fernandez-rakhimova",
       "sport": "Tenis",
       "competition": "WTA 500",
@@ -4957,6 +4353,37 @@
       "verifiedAt": "2026-10-25T10:00:10Z"
     },
     {
+      "id": "paris-2026-11-07-van-assche-shelton",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Luca Van Assche vs. Ben Shelton",
+      "date": "2026-11-07",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Plenitude Arena",
+      "city": "París, Francia",
+      "venueStatus": "confirmed",
+      "note": "Semifinal de singles.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · semifinales",
+          "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-singles-doubles-wheelchair-tennis-schedule-van-assche-shelton-alcaraz-ruud"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-07T10:00:09Z"
+    },
+    {
       "id": "football-ita.1-401874791",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -5911,6 +5338,30 @@
       "verifiedAt": "2026-10-25T10:00:10Z"
     },
     {
+      "id": "paris-2026-11-07-alcaraz-ruud",
+      "sport": "Tenis",
+      "competition": "ATP Masters 1000 París",
+      "title": "París · Carlos Alcaraz vs. Casper Ruud",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Plenitude Arena",
+      "city": "París, Francia",
+      "venueStatus": "confirmed",
+      "note": "Semifinal; no antes de 13:00. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Rolex Paris Masters · semifinales",
+          "url": "https://www.rolexparismasters.com/en/news/article/semi-finals-singles-doubles-wheelchair-tennis-schedule-van-assche-shelton-alcaraz-ruud"
+        }
+      ],
+      "verifiedAt": "2026-11-07T10:00:09Z"
+    },
+    {
       "id": "football-ita.1-401874974",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -6127,6 +5578,8 @@
       "broadcastStatus": "confirmed",
       "local": true,
       "national": false,
+      "venue": "Estadio Mario Alberto Kempes",
+      "city": "Córdoba",
       "sources": [
         {
           "name": "Liga Profesional · fecha 16 y TV oficial",
@@ -6137,9 +5590,7 @@
           "url": "https://www.clubtalleres.com.ar/info-de-servicio-para-talleres-vs-estudiantes-en-el-kempes/"
         }
       ],
-      "verifiedAt": "2026-11-06T10:12:00Z",
-      "venue": "Estadio Mario Alberto Kempes",
-      "city": "Córdoba"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "football-ita.1-401874803",
@@ -6393,6 +5844,8 @@
       "broadcastStatus": "confirmed",
       "local": true,
       "national": false,
+      "venue": "Estadio Monumental Presidente Perón",
+      "city": "Córdoba",
       "sources": [
         {
           "name": "Liga Profesional · fecha 16 y TV oficial",
@@ -6403,9 +5856,7 @@
           "url": "https://institutoacc.com.ar/index.php/instituto-cierra-la-fase-regular-del-clausura-ante-newells-la-info-de-servicio/"
         }
       ],
-      "verifiedAt": "2026-11-06T10:12:00Z",
-      "venue": "Estadio Monumental Presidente Perón",
-      "city": "Córdoba"
+      "verifiedAt": "2026-11-06T10:12:00Z"
     },
     {
       "id": "dpwt-abu-dhabi-2026-r4",
@@ -6829,7 +6280,17 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-brasil-en-el-historico-circuito-de-interlagos/"
         }
       ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
+      "verifiedAt": "2026-11-06T10:12:00Z",
+      "f1Grid": {
+        "driver": "Franco Colapinto",
+        "startingPosition": null,
+        "status": "pending",
+        "source": {
+          "name": "FIA · lista oficial de participantes de São Paulo",
+          "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_entry_list.pdf"
+        },
+        "verifiedAt": "2026-11-07T10:00:09Z"
+      }
     },
     {
       "id": "football-ita.1-401874808",
@@ -7127,6 +6588,68 @@
       "verifiedAt": "2026-10-27T10:07:42Z"
     },
     {
+      "id": "wta-finals-2026-11-09-sabalenka-muchova",
+      "sport": "Tenis",
+      "competition": "WTA Finals",
+      "title": "WTA Finals · Aryna Sabalenka vs. Karolina Muchova",
+      "date": "2026-11-09",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Indian Wells Tennis Garden",
+      "city": "Indian Wells, Estados Unidos",
+      "venueStatus": "confirmed",
+      "note": "Singles; transmisión de la jornada desde 15:00.",
+      "sources": [
+        {
+          "name": "WTA · orden de juego oficial del 9/11",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/808/OP.pdf"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-07T10:00:09Z"
+    },
+    {
+      "id": "wta-finals-2026-11-09-andreeva-svitolina",
+      "sport": "Tenis",
+      "competition": "WTA Finals",
+      "title": "WTA Finals · Mirra Andreeva vs. Elina Svitolina",
+      "date": "2026-11-09",
+      "time": null,
+      "timeType": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Indian Wells Tennis Garden",
+      "city": "Indian Wells, Estados Unidos",
+      "venueStatus": "confirmed",
+      "note": "Singles; comienza al finalizar Sabalenka–Muchova.",
+      "sources": [
+        {
+          "name": "WTA · orden de juego oficial del 9/11",
+          "url": "https://wtafiles.wtatennis.com/pdf/draws/2026/808/OP.pdf"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-07T10:00:09Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-10-cf-trival-valderas-alcorcon-cd-leganes",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -7193,7 +6716,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
+      "verifiedAt": "2026-11-07T10:00:09Z"
     },
     {
       "id": "copa-del-rey-2026-11-12-cda-navalcarnero-real-betis",
@@ -7297,7 +6820,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
+      "verifiedAt": "2026-11-07T10:00:09Z"
     },
     {
       "id": "argentina-mayor-uruguay-2026-11-13",
@@ -7354,6 +6877,34 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:01:20Z"
+    },
+    {
+      "id": "ucr-top10a-2026-11-14-final",
+      "sport": "Rugby",
+      "competition": "UCR · Primera división",
+      "title": "Final UCR Top 10 A",
+      "date": "2026-11-14",
+      "time": "18:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": true,
+      "national": false,
+      "venue": "Tala Rugby Club",
+      "city": "Villa Warcalde, Córdoba",
+      "venueStatus": "confirmed",
+      "note": "La Tablada es finalista; rival por definir. TV o streaming pendiente.",
+      "sources": [
+        {
+          "name": "UCR · presentación oficial de las finales",
+          "url": "https://unioncordobesaderugby.com.ar/presentacion-de-las-finales-del-top10-a-y-super-9b/"
+        },
+        {
+          "name": "Córdoba XV · programación de las finales",
+          "url": "https://cordobaxv.com.ar/rugby-cordobes-presentaron-las-semifinales-del-top-10-a-que-se-jugaran-en-tala-rugby-club/"
+        }
+      ],
+      "verifiedAt": "2026-11-07T10:00:09Z"
     },
     {
       "id": "copa-argentina-2026-11-14-banfield-boca",
@@ -7606,14 +7157,14 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     }
   ],
-  "updatedAt": "2026-11-06T10:12:00Z",
-  "coverageThrough": "2026-11-19",
+  "updatedAt": "2026-11-07T10:00:09Z",
+  "coverageThrough": "2026-11-20",
   "warnings": [
     "ESPN Argentina publicó programación del 6 al 13/11; las señales no anunciadas siguen pendientes.",
-    "F1 São Paulo: horarios y TV confirmados; la grilla de Colapinto se revisará tras la clasificación oficial.",
+    "F1 São Paulo: Colapinto figura en la lista oficial; su grilla se confirmará tras la clasificación.",
     "Premier Padel Dubai P1: cuadro y orden de juego nominal pendientes.",
-    "UCR: semifinales confirmadas; la final del 14/11 conserva hora pendiente.",
-    "Cabalén: no hay una próxima fecha confirmada dentro de 90 días.",
+    "UCR: final del 14/11 a las 18:45; rival y transmisión pendientes.",
+    "Cabalén: Córdoba Pista confirmó 21–22/11; cronograma, entradas y TV pendientes.",
     "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
   "padelTopPairs": {
