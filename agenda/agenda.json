@@ -1,358 +1,6 @@
 {
   "events": [
     {
-      "id": "football-ita.1-401874963",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Sassuolo vs. Fiorentina",
-      "date": "2026-11-02",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN5",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 14:30 por ESPN5 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261102"
-        },
-        {
-          "name": "Lega Serie A · horarios oficiales, jornada 10",
-          "url": "https://images.legaseriea.it/image/private/fl_attachment/prd/emzdipx98pkg0lgeqgrt.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-ita.1-401874971",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Atalanta vs. Parma",
-      "date": "2026-11-02",
-      "time": "16:45",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 16:45 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261102"
-        },
-        {
-          "name": "Lega Serie A · horarios oficiales, jornada 10",
-          "url": "https://images.legaseriea.it/image/private/fl_attachment/prd/emzdipx98pkg0lgeqgrt.pdf"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-eng.1-401878762",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Newcastle United vs. Everton",
-      "date": "2026-11-02",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00 por ESPN3 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.premierleague.com/en/news/4688862/fixture-amendments-for-premier-league-matches-in-october-and-november"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261102"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-esp.1-401882824",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Deportivo La Coruña vs. Osasuna",
-      "date": "2026-11-02",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 17:00 por ESPN4 y Disney+ Premium.",
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://iaas-public-front-pro.laliga.com/noticias/horarios-de-la-undecima-jornada-de-laliga-ea-sports-2026-27"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-10-30T09:58:46Z"
-    },
-    {
-      "id": "football-arg.1-401841649",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Platense vs. Central Córdoba",
-      "date": "2026-11-02",
-      "time": "19:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261102"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "football-arg.1-401841644",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Atlético Tucumán vs. Argentinos Juniors",
-      "date": "2026-11-02",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [
-        "ESPN Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261102"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "football-arg.1-401841652",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Independiente Rivadavia vs. Banfield",
-      "date": "2026-11-02",
-      "time": "21:15",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "Programación oficial de la competición",
-          "url": "https://www.ligaprofesional.ar/notas/primera/2026/10/07/agenda-de-la-13-a-la-15/"
-        },
-        {
-          "name": "ESPN · contraste horario UTC",
-          "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/arg.1/scoreboard?dates=20261102"
-        }
-      ],
-      "verifiedAt": "2026-10-24T09:59:08Z"
-    },
-    {
-      "id": "atp-paris-2026",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "Rolex Paris Masters · singles",
-      "date": "2026-11-02",
-      "endDate": "2026-11-08",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "city": "París",
-      "venueStatus": "pending",
-      "note": "Singles del 2 al 8/11. Octavos confirmados; ESPN2 y Disney+ anuncian el bloque del 5/11 desde las 07:00.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · programa oficial 5/11",
-          "url": "https://www.rolexparismasters.com/en/news/article/round-of-16-schedule-singles-doubles-france-usa-shelton-alcaraz-fils"
-        },
-        {
-          "name": "Rolex Paris Masters · orden y resultados 5/11",
-          "url": "https://www.rolexparismasters.com/en/schedule-and-results"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-05T10:01:20.408Z"
-    },
-    {
-      "id": "tennis-paris-2026-11-02-cerundolo-ruud",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Juan Manuel Cerúndolo vs. Casper Ruud",
-      "date": "2026-11-02",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; a continuación en la Central, sin hora fija. ESPN inicia su bloque a las 07:00 sin asignar partido.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · orden de juego 2/11",
-          "url": "https://www.rolexparismasters.com/en/scores/order-of-play"
-        },
-        {
-          "name": "ATP · ranking oficial de Argentina",
-          "url": "https://www.atptour.com/en/rankings/singles?RankRange=0-5000&Region=ARG"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-02T10:02:23.161Z"
-    },
-    {
-      "id": "tennis-paris-2026-11-02-navone-van-assche",
-      "sport": "Tenis",
-      "competition": "ATP Masters 1000",
-      "title": "París · Mariano Navone vs. Luca Van Assche",
-      "date": "2026-11-02",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; a continuación en la cancha 1, sin hora fija. ESPN inicia su bloque a las 07:00 sin asignar partido.",
-      "sources": [
-        {
-          "name": "Rolex Paris Masters · orden de juego 2/11",
-          "url": "https://www.rolexparismasters.com/en/scores/order-of-play"
-        },
-        {
-          "name": "ATP · ranking oficial de Argentina",
-          "url": "https://www.atptour.com/en/rankings/singles?RankRange=0-5000&Region=ARG"
-        },
-        {
-          "name": "ESPN Press Room · Argentina 30/10–6/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/10/programacion-destacada-del-30-de-octubre-al-6-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-02T10:02:23.161Z"
-    },
-    {
-      "id": "wta-chennai-2026",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Chennai Open · singles",
-      "date": "2026-11-02",
-      "endDate": "2026-11-08",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "SDAT Tennis Stadium",
-      "city": "Chennai",
-      "venueStatus": "confirmed",
-      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · calendario oficial",
-          "url": "https://www.wtatennis.com/tournaments/1148/chennai/2026"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
-    },
-    {
-      "id": "wta-hong-kong-2026",
-      "sport": "Tenis",
-      "competition": "WTA 250",
-      "title": "Hong Kong Open · singles",
-      "date": "2026-11-02",
-      "endDate": "2026-11-08",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "city": "Hong Kong",
-      "venueStatus": "pending",
-      "note": "Calendario de singles del 2 al 8/11; no es un cruce individual. Rivales, horarios y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · calendario oficial",
-          "url": "https://www.wtatennis.com/tournaments/1074/hong-kong/2026"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:00:35Z"
-    },
-    {
       "id": "tennis-paris-2026-11-03-rinderknech-f-cerundolo",
       "sport": "Tenis",
       "competition": "ATP Masters 1000",
@@ -5128,6 +4776,102 @@
       "verifiedAt": "2026-11-09T10:11:42Z"
     },
     {
+      "id": "stockholm-2026-11-10-mannarino-shevchenko",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Adrian Mannarino vs. Aleksandr Shevchenko",
+      "date": "2026-11-10",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "stockholm-2026-11-10-michelsen-cerundolo",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Alex Michelsen vs. Juan Manuel Cerúndolo",
+      "date": "2026-11-10",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "stockholm-2026-11-10-etcheverry-tirante",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Tomás Martín Etcheverry vs. Thiago Agustín Tirante",
+      "date": "2026-11-10",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "stockholm-2026-11-10-rune-bergs",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Holger Rune vs. Zizou Bergs",
+      "date": "2026-11-10",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-10-cf-trival-valderas-alcorcon-cd-leganes",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -5168,6 +4912,140 @@
         }
       ],
       "verifiedAt": "2026-10-30T09:58:46Z"
+    },
+    {
+      "sport": "Tenis",
+      "competition": "WTA Finals",
+      "date": "2026-11-10",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Indian Wells Tennis Garden",
+      "city": "Indian Wells, Estados Unidos",
+      "venueStatus": "confirmed",
+      "sources": [
+        {
+          "name": "WTA · orden de juego del Día 3",
+          "url": "https://www.wtatennis.com/news/4606909/fage-wta-finals-day-2-preview-will-linda-noskova-or-coco-gauff-advance-to-semis"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 6–13/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z",
+      "id": "wta-finals-2026-11-10-kostyuk-pegula",
+      "title": "WTA Finals · Marta Kostyuk vs. Jessica Pegula",
+      "time": "17:00",
+      "timeType": "event",
+      "note": "Singles; transmisión desde 17:00."
+    },
+    {
+      "id": "stockholm-2026-11-10-musetti-samuel",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Lorenzo Musetti vs. Toby Samuel",
+      "date": "2026-11-10",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; sigue a Rune–Bergs. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "stockholm-2026-11-10-rinderknech-kecmanovic",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Arthur Rinderknech vs. Miomir Kecmanović",
+      "date": "2026-11-10",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; horario sujeto a partidos previos. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "stockholm-2026-11-10-sonego-halys",
+      "sport": "Tenis",
+      "competition": "ATP 250 · Estocolmo",
+      "title": "Estocolmo · Lorenzo Sonego vs. Quentin Halys",
+      "date": "2026-11-10",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Kungliga Tennishallen",
+      "city": "Estocolmo, Suecia",
+      "venueStatus": "confirmed",
+      "note": "Singles; horario sujeto al partido previo. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Stockholm Open · orden de juego oficial del 10/11",
+          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "sport": "Tenis",
+      "competition": "WTA Finals",
+      "date": "2026-11-10",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Indian Wells Tennis Garden",
+      "city": "Indian Wells, Estados Unidos",
+      "venueStatus": "confirmed",
+      "sources": [
+        {
+          "name": "WTA · orden de juego del Día 3",
+          "url": "https://www.wtatennis.com/news/4606909/fage-wta-finals-day-2-preview-will-linda-noskova-or-coco-gauff-advance-to-semis"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 6–13/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z",
+      "id": "wta-finals-2026-11-10-gauff-noskova",
+      "title": "WTA Finals · Coco Gauff vs. Linda Noskova",
+      "time": null,
+      "timeType": "pending",
+      "note": "Singles; comienza al finalizar Kostyuk–Pegula."
     },
     {
       "id": "dpwt-championship-2026-r1",
@@ -5264,14 +5142,18 @@
       "venue": "Omni Barton Creek Resort & Spa · Fazio Canyons",
       "city": "Austin, Texas",
       "venueStatus": "confirmed",
-      "note": "Torneo 12–15/11; ventanas de salida publicadas. TV argentina pendiente.",
+      "note": "Torneo 12–15/11; ventanas de salida y field publicados. TV argentina pendiente.",
       "sources": [
         {
           "name": "Austin Championship · cronograma oficial",
           "url": "https://www.austinchampionship.com/about/schedule-of-events/"
+        },
+        {
+          "name": "PGA Tour · field oficial",
+          "url": "https://www.pgatour.com/tournaments/2026/austin-championship-presented-by-compliance-solutions/R2026558/field"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-10T10:05:16Z"
     },
     {
       "id": "dpwt-championship-2026-r2",
@@ -5552,6 +5434,35 @@
         }
       ],
       "verifiedAt": "2026-10-25T10:01:20Z"
+    },
+    {
+      "id": "pga-rsm-classic-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "The RSM Classic",
+      "date": "2026-11-19",
+      "endDate": "2026-11-22",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Sea Island Golf Club · Seaside y Plantation",
+      "city": "St. Simons Island, Georgia",
+      "venueStatus": "confirmed",
+      "note": "Torneo 19–22/11; tee-times y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "PGA Tour · ficha oficial",
+          "url": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overview"
+        },
+        {
+          "name": "RSM Classic · cronograma oficial",
+          "url": "https://rsmclassic.com/spectator-info/all/"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
     },
     {
       "id": "f1-las-vegas-2026-fp2",
@@ -6509,6 +6420,69 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     },
     {
+      "id": "serie-a-2026-11-23-monza-fiorentina",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Monza vs. Fiorentina",
+      "date": "2026-11-23",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · jornada 12 oficial",
+          "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "laliga-2026-11-23-levante-elche",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Levante vs. Elche",
+      "date": "2026-11-23",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LALIGA · jornada 13 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
+      "id": "premier-league-2026-11-23-brentford-everton",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Brentford vs. Everton",
+      "date": "2026-11-23",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4725574"
+        }
+      ],
+      "verifiedAt": "2026-11-10T10:05:16Z"
+    },
+    {
       "id": "argentina-sub17-masculina-2026-11-25",
       "sport": "Fútbol",
       "competition": "Mundial Sub-17 masculino",
@@ -6577,14 +6551,14 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     }
   ],
-  "updatedAt": "2026-11-09T10:11:42Z",
-  "coverageThrough": "2026-11-22",
+  "updatedAt": "2026-11-10T10:05:16Z",
+  "coverageThrough": "2026-11-23",
   "warnings": [
     "ESPN Argentina publicó programación del 6 al 13/11; las señales no anunciadas siguen pendientes.",
-    "WTA Finals: orden de juego nominal desde el 10/11 aún pendiente.",
-    "Dubai P1: cuadro principal publicado; parejas top 4 con bye o sin cruce nominal para hoy.",
+    "WTA Finals: orden de juego nominal desde el 11/11 aún pendiente.",
+    "Dubai P1: el 10/11 no tiene cruces con una pareja top 4 completa.",
     "F1 Las Vegas: horarios oficiales confirmados; TV argentina y lista de participantes pendientes.",
-    "Liga Profesional: la próxima fase todavía no tiene cruces confirmados.",
+    "Liga Profesional: la próxima fase todavía no tiene cruces confirmados para 2026.",
     "Cabalén: Córdoba Pista confirmó 21–22/11; cronograma, entradas y TV pendientes.",
     "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
