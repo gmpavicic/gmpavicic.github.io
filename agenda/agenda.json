@@ -1,362 +1,6 @@
 {
   "events": [
     {
-      "id": "stockholm-2026-11-10-mannarino-shevchenko",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Adrian Mannarino vs. Aleksandr Shevchenko",
-      "date": "2026-11-10",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-michelsen-cerundolo",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Alex Michelsen vs. Juan Manuel Cerúndolo",
-      "date": "2026-11-10",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-etcheverry-tirante",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Tomás Martín Etcheverry vs. Thiago Agustín Tirante",
-      "date": "2026-11-10",
-      "time": "10:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-rune-bergs",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Holger Rune vs. Zizou Bergs",
-      "date": "2026-11-10",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-03-cd-anaitasuna-deportivo-alaves",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Anaitasuna vs. Deportivo Alavés",
-      "date": "2026-11-10",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-03-cd-pamplona-sd-eibar",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Pamplona vs. SD Eibar",
-      "date": "2026-11-10",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-10-cf-trival-valderas-alcorcon-cd-leganes",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CF Trival Valderas Alcorcón vs. CD Leganés",
-      "date": "2026-11-10",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-10-cp-mijas-las-lagunas-real-jaen",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CP Mijas Las Lagunas vs. Real Jaén",
-      "date": "2026-11-10",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-04-sd-amorebieta-ud-logrones",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "SD Amorebieta vs. UD Logroñés",
-      "date": "2026-11-10",
-      "time": "16:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-10-cfue-tavernes-valencia-cf",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CFUE Tavernes vs. Valencia CF",
-      "date": "2026-11-10",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "wta-finals-2026-11-10-kostyuk-pegula",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Marta Kostyuk vs. Jessica Pegula",
-      "date": "2026-11-10",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Indian Wells Tennis Garden",
-      "city": "Indian Wells, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Singles; transmisión desde 17:00.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego del Día 3",
-          "url": "https://www.wtatennis.com/news/4606909/fage-wta-finals-day-2-preview-will-linda-noskova-or-coco-gauff-advance-to-semis"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 6–13/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-rinderknech-kecmanovic",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Arthur Rinderknech vs. Miomir Kecmanović",
-      "date": "2026-11-10",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; horario sujeto a partidos previos. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-musetti-samuel",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Lorenzo Musetti vs. Toby Samuel",
-      "date": "2026-11-10",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; sigue a Rune–Bergs. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "stockholm-2026-11-10-sonego-halys",
-      "sport": "Tenis",
-      "competition": "ATP 250 · Estocolmo",
-      "title": "Estocolmo · Lorenzo Sonego vs. Quentin Halys",
-      "date": "2026-11-10",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Kungliga Tennishallen",
-      "city": "Estocolmo, Suecia",
-      "venueStatus": "confirmed",
-      "note": "Singles; horario sujeto al partido previo. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego oficial del 10/11",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
-      "id": "wta-finals-2026-11-10-gauff-noskova",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Coco Gauff vs. Linda Noskova",
-      "date": "2026-11-10",
-      "time": null,
-      "timeType": "pending",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Indian Wells Tennis Garden",
-      "city": "Indian Wells, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Singles; comienza al finalizar Kostyuk–Pegula.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego del Día 3",
-          "url": "https://www.wtatennis.com/news/4606909/fage-wta-finals-day-2-preview-will-linda-noskova-or-coco-gauff-advance-to-semis"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 6–13/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
-    },
-    {
       "id": "tennis-stockholm-2026-11-11-sonego-tabilo",
       "sport": "Tenis",
       "competition": "ATP 250",
@@ -2039,6 +1683,37 @@
       "verifiedAt": "2026-11-17T10:08:19Z"
     },
     {
+      "id": "atp-finals-2026-11-18-alcaraz-medvedev",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "Carlos Alcaraz vs. Daniil Medvedev",
+      "date": "2026-11-18",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Round robin; horario no antes de las 10:00.",
+      "sources": [
+        {
+          "name": "ATP Finals · orden de juego del 18/11",
+          "url": "https://www.nittoatpfinals.com/en/"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-04-club-portugalete-real-union",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -2123,6 +1798,37 @@
       "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
+      "id": "atp-finals-2026-11-18-cobolli-tiafoe",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "Flavio Cobolli vs. Frances Tiafoe",
+      "date": "2026-11-18",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Partido no antes de 16:30; transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "ATP Finals · orden de juego del 18/11",
+          "url": "https://www.nittoatpfinals.com/en/"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
       "id": "copa-del-rey-2026-11-04-reus-fc-reddis-barakaldo-cf",
       "sport": "Fútbol",
       "competition": "Copa del Rey",
@@ -2144,29 +1850,29 @@
       "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
-      "id": "atp-finals-turin-2026",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "Nitto ATP Finals · Turín · singles",
-      "date": "2026-11-18",
+      "id": "pga-rsm-classic-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "The RSM Classic",
+      "date": "2026-11-19",
       "endDate": "2026-11-22",
-      "time": null,
-      "timeType": "pending",
+      "time": "10:30",
+      "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
+      "venue": "Sea Island Golf Club · Seaside y Plantation",
+      "city": "St. Simons Island, Georgia",
       "venueStatus": "confirmed",
-      "note": "Singles del 18–22/11; cruces diarios pendientes.",
+      "note": "Primera salida del 19/11 a las 10:30; TV argentina pendiente.",
       "sources": [
         {
-          "name": "ATP Finals · formato y calendario 2026",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-history-draw-schedule"
+          "name": "PGA Tour · tee-times oficiales",
+          "url": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/tee-times"
         }
       ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "f1-las-vegas-2026-fp1",
@@ -2221,10 +1927,10 @@
       "verifiedAt": "2026-10-25T10:01:20Z"
     },
     {
-      "id": "pga-rsm-classic-2026",
-      "sport": "Golf",
-      "competition": "PGA Tour",
-      "title": "The RSM Classic",
+      "id": "atp-finals-turin-2026",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "Nitto ATP Finals · Turín · singles",
       "date": "2026-11-19",
       "endDate": "2026-11-22",
       "time": null,
@@ -2233,21 +1939,17 @@
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "venue": "Sea Island Golf Club · Seaside y Plantation",
-      "city": "St. Simons Island, Georgia",
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
       "venueStatus": "confirmed",
-      "note": "Torneo 19–22/11; tee-times y TV argentina pendientes.",
+      "note": "Singles del 19–22/11; cruces diarios pendientes.",
       "sources": [
         {
-          "name": "PGA Tour · ficha oficial",
-          "url": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overview"
-        },
-        {
-          "name": "RSM Classic · cronograma oficial",
-          "url": "https://rsmclassic.com/spectator-info/all/"
+          "name": "ATP Finals · formato y calendario 2026",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-history-draw-schedule"
         }
       ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "f1-las-vegas-2026-fp2",
@@ -2991,21 +2693,27 @@
       "date": "2026-11-22",
       "time": "01:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
       "venue": "Las Vegas Strip Circuit",
       "city": "Las Vegas, Estados Unidos",
       "venueStatus": "confirmed",
-      "note": "Carrera a 50 vueltas; TV argentina pendiente.",
+      "note": "Transmisión desde 00:55; carrera 01:00.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de Las Vegas",
           "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
+        },
+        {
+          "name": "ESPN Argentina · GP de Las Vegas",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
         }
       ],
-      "verifiedAt": "2026-11-16T10:43:08Z"
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "serie-a-2026-11-22-juventus-venezia",
@@ -3926,21 +3634,24 @@
       "date": "2026-11-26",
       "time": "21:40",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "TyC Sports",
+        "DSports"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": true,
       "venue": "Espacio DAM",
       "city": "Zárate",
       "venueStatus": "confirmed",
-      "note": "Horario y sede confirmados por la CAB. TV argentina pendiente.",
+      "note": "Horario, sede y TV argentina confirmados por la CAB.",
       "sources": [
         {
-          "name": "CAB · Quinta Ventana",
-          "url": "https://argentina.basketball/mayor-masculina/noticia/36277/argentina-recibira-a-bahamas-y-canada-en-zarate-por-la-quinta-ventana-de-clasificatorios-fiba"
+          "name": "CAB · Quinta Ventana y TV",
+          "url": "https://argentina.basketball/portada/noticia/36333/rumbo-a-qatar-2027-la-preseleccion-para-los-partidos-ante-bahamas-y-canada-en-zarate"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "bundesliga-2026-11-27-bremen-monchengladbach",
@@ -4025,6 +3736,31 @@
         }
       ],
       "verifiedAt": "2026-11-14T10:01:01Z"
+    },
+    {
+      "id": "los-pumas-finals-weekend-2026",
+      "sport": "Rugby",
+      "competition": "Nations Championship · Selección argentina",
+      "title": "Los Pumas · Fin de semana de Finales",
+      "date": "2026-11-27",
+      "endDate": "2026-11-29",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Twickenham Stadium",
+      "city": "Londres, Inglaterra",
+      "venueStatus": "confirmed",
+      "note": "Rival, día exacto, hora y TV pendientes.",
+      "sources": [
+        {
+          "name": "UAR · cierre del Nations Championship",
+          "url": "https://uar.com.ar/los-pumas-ya-tienen-plantel-para-el-cierre-del-nations-championship/"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "laliga-2026-11-28-betis-rayo",
@@ -4755,21 +4491,52 @@
       "date": "2026-11-29",
       "time": "18:10",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "TyC Sports",
+        "DSports"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": true,
       "venue": "Espacio DAM",
       "city": "Zárate",
       "venueStatus": "confirmed",
-      "note": "Horario y sede confirmados por la CAB. TV argentina pendiente.",
+      "note": "Horario, sede y TV argentina confirmados por la CAB.",
       "sources": [
         {
-          "name": "CAB · Quinta Ventana",
-          "url": "https://argentina.basketball/mayor-masculina/noticia/36277/argentina-recibira-a-bahamas-y-canada-en-zarate-por-la-quinta-ventana-de-clasificatorios-fiba"
+          "name": "CAB · Quinta Ventana y TV",
+          "url": "https://argentina.basketball/portada/noticia/36333/rumbo-a-qatar-2027-la-preseleccion-para-los-partidos-ante-bahamas-y-canada-en-zarate"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "argentina-femenina-alemania-2026-11-29",
+      "sport": "Fútbol",
+      "competition": "Amistoso · Selección argentina femenina",
+      "title": "Argentina vs. Alemania",
+      "date": "2026-11-29",
+      "time": "20:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Estadio Único Diego Armando Maradona",
+      "city": "La Plata",
+      "venueStatus": "confirmed",
+      "note": "Amistoso internacional; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "AFA · amistoso confirmado",
+          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-amistoso-confirmado-en-el-pais"
+        },
+        {
+          "name": "DFB · horario y sede oficiales",
+          "url": "https://www.dfb.de/frauen/nationalmannschaften/nationalmannschaft/spiele-und-termine"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
       "id": "laliga-2026-11-30-espanyol-getafe",
@@ -4794,20 +4561,146 @@
         }
       ],
       "verifiedAt": "2026-11-17T10:08:19Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-01-kiel-koln",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Holstein Kiel vs. FC Köln · Octavos",
+      "date": "2026-12-01",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-01-stuttgart-dresden",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "VfB Stuttgart vs. Dynamo Dresden · Octavos",
+      "date": "2026-12-01",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-01-bayern-hertha",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Bayern München vs. Hertha BSC · Octavos",
+      "date": "2026-12-01",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-01-monchengladbach-darmstadt",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Borussia Mönchengladbach vs. Darmstadt 98 · Octavos",
+      "date": "2026-12-01",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "premier-league-2026-12-01-coventry-ipswich",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Coventry City vs. Ipswich Town",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "coppa-italia-2026-12-01-inter-genoa",
+      "sport": "Fútbol",
+      "competition": "Coppa Italia",
+      "title": "Inter vs. Genoa · Octavos",
+      "date": "2026-12-01",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · programación oficial de Coppa Italia",
+          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+        }
+      ],
+      "verifiedAt": "2026-11-18T10:02:06Z"
     }
   ],
-  "updatedAt": "2026-11-17T10:08:19Z",
-  "coverageThrough": "2026-11-30",
+  "updatedAt": "2026-11-18T10:02:06Z",
+  "coverageThrough": "2026-12-01",
   "warnings": [
-    "ESPN Argentina publicó programación hasta el 20/11; señales posteriores siguen pendientes.",
-    "F1 Las Vegas: TV confirmada hasta clasificación; carrera y lista oficial del evento pendientes.",
+    "ESPN Argentina publicó la grilla general hasta el 20/11; emisiones posteriores salvo F1 siguen pendientes.",
+    "F1 Las Vegas: TV por Disney+ confirmada; lista oficial del evento y grilla de carrera pendientes.",
     "Copa del Rey: Badajoz–Tenerife sigue sin nueva fecha.",
     "Cabalén: Córdoba Pista confirmó 21–22/11; cronograma, entradas y TV pendientes.",
     "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-11-16",
-    "verifiedAt": "2026-11-17T10:08:19Z",
+    "verifiedAt": "2026-11-18T10:02:06Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual 16/11",
