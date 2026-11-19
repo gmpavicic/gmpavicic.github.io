@@ -1,215 +1,6 @@
 {
   "events": [
     {
-      "id": "tennis-stockholm-2026-11-11-sonego-tabilo",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Lorenzo Sonego vs. Alejandro Tabilo",
-      "date": "2026-11-11",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · Stockholm Open",
-          "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
-        },
-        {
-          "name": "Stockholm Open · orden de juego 11/11",
-          "url": "https://stockholmopen.se/en/schedule/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-11-fritz-norrie",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Taylor Fritz vs. Cameron Norrie",
-      "date": "2026-11-11",
-      "time": "10:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · Stockholm Open",
-          "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
-        },
-        {
-          "name": "Stockholm Open · orden de juego 11/11",
-          "url": "https://stockholmopen.se/en/schedule/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-11-gojo-humbert",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Borna Gojo vs. Ugo Humbert",
-      "date": "2026-11-11",
-      "time": "12:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · Stockholm Open",
-          "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
-        },
-        {
-          "name": "Stockholm Open · orden de juego 11/11",
-          "url": "https://stockholmopen.se/en/schedule/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-11-shevchenko-ruud",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Alexander Shevchenko vs. Casper Ruud",
-      "date": "2026-11-11",
-      "time": "14:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · Stockholm Open",
-          "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
-        },
-        {
-          "name": "Stockholm Open · orden de juego 11/11",
-          "url": "https://stockholmopen.se/en/schedule/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-11-kecmanovic-rune",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Miomir Kecmanović vs. Holger Rune",
-      "date": "2026-11-11",
-      "time": "15:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "ATP · Stockholm Open",
-          "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
-        },
-        {
-          "name": "Stockholm Open · orden de juego 11/11",
-          "url": "https://stockholmopen.se/en/schedule/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-wta-finals-2026-11-11-svitolina-muchova",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Elina Svitolina vs. Karolina Muchova",
-      "date": "2026-11-11",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego Finals 11/11",
-          "url": "https://www.wtatennis.com/news/4466268/wta-finals-2026-schedule-of-play-and-how-to-watch"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-11-ayats-sanchez-stupaczuk-sanz",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Ayats / Sánchez vs. Stupaczuk / Sanz",
-      "date": "2026-11-11",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuadro principal masculino. Orden secuencial; hora y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, cuadro y orden de juego",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-11-castano-hernandez-augsburger-lebron",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Castaño / Hernández vs. Augsburger / Lebrón",
-      "date": "2026-11-11",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Cuadro principal masculino. Orden secuencial; hora y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, cuadro y orden de juego",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-wta-finals-2026-11-11-sabalenka-andreeva",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Aryna Sabalenka vs. Mirra Andreeva",
-      "date": "2026-11-11",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles, a continuación de Svitolina–Muchova. Hora y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego Finals 11/11",
-          "url": "https://www.wtatennis.com/news/4466268/wta-finals-2026-schedule-of-play-and-how-to-watch"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
       "id": "dpwt-championship-2026-r1",
       "sport": "Golf",
       "competition": "DP World Tour Championship",
@@ -1850,6 +1641,37 @@
       "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
+      "id": "atp-finals-2026-11-19-shelton-jodar",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Ben Shelton vs. Rafael Jodar",
+      "date": "2026-11-19",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; transmisión y partido desde 10:00.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · orden de juego",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
       "id": "pga-rsm-classic-2026",
       "sport": "Golf",
       "competition": "PGA Tour",
@@ -1875,6 +1697,64 @@
       "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
+      "id": "argentina-sub17-masculina-2026-11-19",
+      "sport": "Fútbol",
+      "competition": "Mundial Sub-17 masculino",
+      "title": "Argentina vs. Australia Sub-17 masculina",
+      "date": "2026-11-19",
+      "time": "13:00",
+      "timeType": "event",
+      "channels": [
+        "TyC Sports",
+        "DSports"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": true,
+      "venue": "Aspire Zone",
+      "city": "Al Rayyan, Qatar",
+      "venueStatus": "confirmed",
+      "note": "Fase de grupos; hora, sede y TV confirmadas por AFA.",
+      "sources": [
+        {
+          "name": "AFA · fixture y horarios del Mundial Sub-17",
+          "url": "https://www.afa.com.ar/es/posts/desde-las-13.00-argentina-debuta-en-el-mundial-sub-17-ante-australia"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "atp-finals-2026-11-19-zverev-fils",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Alexander Zverev vs. Arthur Fils",
+      "date": "2026-11-19",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; transmisión y partido desde 16:30.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · orden de juego",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
       "id": "f1-las-vegas-2026-fp1",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de Las Vegas",
@@ -1898,58 +1778,11 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
         },
         {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+          "name": "ESPN Argentina · GP de Las Vegas",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
         }
       ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
-    },
-    {
-      "id": "argentina-sub17-masculina-2026-11-19",
-      "sport": "Fútbol",
-      "competition": "Mundial Sub-17 masculino",
-      "title": "Argentina vs. Australia Sub-17 masculina",
-      "date": "2026-11-19",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": true,
-      "venueStatus": "pending",
-      "note": "Fecha y rival confirmados por AFA. Hora, estadio y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "AFA · agenda oficial",
-          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:01:20Z"
-    },
-    {
-      "id": "atp-finals-turin-2026",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "Nitto ATP Finals · Turín · singles",
-      "date": "2026-11-19",
-      "endDate": "2026-11-22",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Singles del 19–22/11; cruces diarios pendientes.",
-      "sources": [
-        {
-          "name": "ATP Finals · formato y calendario 2026",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-history-draw-schedule"
-        }
-      ],
-      "verifiedAt": "2026-11-18T10:02:06Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "f1-las-vegas-2026-fp2",
@@ -1975,11 +1808,73 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
         },
         {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
+          "name": "ESPN Argentina · GP de Las Vegas",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "atp-finals-2026-11-20-alcaraz-cobolli",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Carlos Alcaraz vs. Flavio Cobolli",
+      "date": "2026-11-20",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; transmisión y partido desde 10:00.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · orden de juego",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "atp-finals-2026-11-20-medvedev-tiafoe",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Daniil Medvedev vs. Frances Tiafoe",
+      "date": "2026-11-20",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; transmisión y partido desde 16:30.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · orden de juego",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
+        },
+        {
+          "name": "ESPN Argentina · programación 13–20/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-20-bayern-koln",
@@ -2077,11 +1972,11 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
         },
         {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+          "name": "ESPN Argentina · GP de Las Vegas",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
         }
       ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "f1-las-vegas-2026-qualifying",
@@ -2107,11 +2002,11 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
         },
         {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+          "name": "ESPN Argentina · GP de Las Vegas",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
         }
       ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-man-city-fulham",
@@ -2713,7 +2608,7 @@
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
         }
       ],
-      "verifiedAt": "2026-11-18T10:02:06Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-22-juventus-venezia",
@@ -2861,6 +2756,30 @@
         }
       ],
       "verifiedAt": "2026-11-09T10:11:42Z"
+    },
+    {
+      "id": "argentina-sub17-masculina-2026-11-22",
+      "sport": "Fútbol",
+      "competition": "Mundial Sub-17 masculino",
+      "title": "Argentina vs. Mozambique Sub-17 masculina",
+      "date": "2026-11-22",
+      "time": "12:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Aspire Zone",
+      "city": "Al Rayyan, Qatar",
+      "venueStatus": "confirmed",
+      "note": "Fase de grupos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "AFA · fixture y horarios del Mundial Sub-17",
+          "url": "https://www.afa.com.ar/es/posts/desde-las-13.00-argentina-debuta-en-el-mundial-sub-17-ante-australia"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-22-liverpool-man-utd",
@@ -3058,28 +2977,6 @@
         }
       ],
       "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "argentina-sub17-masculina-2026-11-22",
-      "sport": "Fútbol",
-      "competition": "Mundial Sub-17 masculino",
-      "title": "Argentina vs. Mozambique Sub-17 masculina",
-      "date": "2026-11-22",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": true,
-      "venueStatus": "pending",
-      "note": "Fecha y rival confirmados por AFA. Hora, estadio y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "AFA · agenda oficial",
-          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:01:20Z"
     },
     {
       "id": "serie-a-2026-11-23-monza-fiorentina",
@@ -3393,6 +3290,30 @@
       "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
+      "id": "argentina-sub17-masculina-2026-11-25",
+      "sport": "Fútbol",
+      "competition": "Mundial Sub-17 masculino",
+      "title": "Dinamarca vs. Argentina Sub-17 masculina",
+      "date": "2026-11-25",
+      "time": "12:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Aspire Zone",
+      "city": "Al Rayyan, Qatar",
+      "venueStatus": "confirmed",
+      "note": "Fase de grupos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "AFA · fixture y horarios del Mundial Sub-17",
+          "url": "https://www.afa.com.ar/es/posts/desde-las-13.00-argentina-debuta-en-el-mundial-sub-17-ante-australia"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
       "id": "football-ucl-2026-11-25-sabah-barcelona",
       "sport": "Fútbol",
       "competition": "UEFA Champions League",
@@ -3603,28 +3524,6 @@
         }
       ],
       "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "argentina-sub17-masculina-2026-11-25",
-      "sport": "Fútbol",
-      "competition": "Mundial Sub-17 masculino",
-      "title": "Dinamarca vs. Argentina Sub-17 masculina",
-      "date": "2026-11-25",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": true,
-      "venueStatus": "pending",
-      "note": "Fecha y rival confirmados por AFA. Hora, estadio y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "AFA · agenda oficial",
-          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
-        }
-      ],
-      "verifiedAt": "2026-10-25T10:01:20Z"
     },
     {
       "id": "60c3efdf3998f6ea",
@@ -4605,6 +4504,27 @@
       "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
+      "id": "coppa-italia-2026-12-01-inter-genoa",
+      "sport": "Fútbol",
+      "competition": "Coppa Italia",
+      "title": "Inter vs. Genoa · Octavos",
+      "date": "2026-12-01",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial de Coppa Italia",
+          "url": "https://www.legaseriea.it/coppa-italia/calendario-risultati"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
       "id": "dfb-pokal-2026-12-01-bayern-hertha",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
@@ -4668,12 +4588,12 @@
       "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
-      "id": "coppa-italia-2026-12-01-inter-genoa",
+      "id": "dfb-pokal-2026-12-02-leverkusen-leipzig",
       "sport": "Fútbol",
-      "competition": "Coppa Italia",
-      "title": "Inter vs. Genoa · Octavos",
-      "date": "2026-12-01",
-      "time": "17:00",
+      "competition": "DFB-Pokal",
+      "title": "Bayer Leverkusen vs. RB Leipzig · Octavos",
+      "date": "2026-12-02",
+      "time": "14:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
@@ -4682,15 +4602,309 @@
       "note": "Octavos; TV argentina pendiente.",
       "sources": [
         {
-          "name": "Lega Serie A · programación oficial de Coppa Italia",
-          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
         }
       ],
-      "verifiedAt": "2026-11-18T10:02:06Z"
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-02-kaiserslautern-freiburg",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Kaiserslautern vs. SC Freiburg · Octavos",
+      "date": "2026-12-02",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "laliga-2026-12-02-real-sociedad-real-madrid",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Sociedad vs. Real Madrid",
+      "date": "2026-12-02",
+      "time": "15:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Jornada 23 adelantada; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LALIGA · partidos adelantados de la jornada 23",
+          "url": "https://www.laliga.com/es-PE/noticias/horarios-de-los-partidos-adelantados-de-la-jornada-23-de-laliga-ea-sports"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "coppa-italia-2026-12-02-como-cremonese",
+      "sport": "Fútbol",
+      "competition": "Coppa Italia",
+      "title": "Como vs. Cremonese · Octavos",
+      "date": "2026-12-02",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial de Coppa Italia",
+          "url": "https://www.legaseriea.it/coppa-italia/calendario-risultati"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-chelsea-palace",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Chelsea vs. Crystal Palace",
+      "date": "2026-12-02",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-hull-forest",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Hull City vs. Nottingham Forest",
+      "date": "2026-12-02",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-liverpool-sunderland",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Liverpool vs. Sunderland",
+      "date": "2026-12-02",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-man-city-leeds",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Manchester City vs. Leeds United",
+      "date": "2026-12-02",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-02-frankfurt-dortmund",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "Eintracht Frankfurt vs. Borussia Dortmund · Octavos",
+      "date": "2026-12-02",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "dfb-pokal-2026-12-02-bochum-augsburg",
+      "sport": "Fútbol",
+      "competition": "DFB-Pokal",
+      "title": "VfL Bochum vs. FC Augsburg · Octavos",
+      "date": "2026-12-02",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Octavos; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "DFB · octavos oficiales",
+          "url": "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-aston-villa-everton",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Aston Villa vs. Everton",
+      "date": "2026-12-02",
+      "time": "17:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-bournemouth-brighton",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Bournemouth vs. Brighton & Hove Albion",
+      "date": "2026-12-02",
+      "time": "17:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-brentford-arsenal",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Brentford vs. Arsenal",
+      "date": "2026-12-02",
+      "time": "17:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-02-newcastle-man-utd",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Newcastle United vs. Manchester United",
+      "date": "2026-12-02",
+      "time": "17:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "laliga-2026-12-02-barcelona-atletico",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Barcelona vs. Atlético de Madrid",
+      "date": "2026-12-02",
+      "time": "17:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Jornada 23 adelantada; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LALIGA · partidos adelantados de la jornada 23",
+          "url": "https://www.laliga.com/es-PE/noticias/horarios-de-los-partidos-adelantados-de-la-jornada-23-de-laliga-ea-sports"
+        }
+      ],
+      "verifiedAt": "2026-11-19T10:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-18T10:02:06Z",
-  "coverageThrough": "2026-12-01",
+  "updatedAt": "2026-11-19T10:00:00Z",
+  "coverageThrough": "2026-12-02",
   "warnings": [
     "ESPN Argentina publicó la grilla general hasta el 20/11; emisiones posteriores salvo F1 siguen pendientes.",
     "F1 Las Vegas: TV por Disney+ confirmada; lista oficial del evento y grilla de carrera pendientes.",
@@ -4700,7 +4914,7 @@
   ],
   "padelTopPairs": {
     "rankingDate": "2026-11-16",
-    "verifiedAt": "2026-11-18T10:02:06Z",
+    "verifiedAt": "2026-11-19T10:00:00Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual 16/11",
