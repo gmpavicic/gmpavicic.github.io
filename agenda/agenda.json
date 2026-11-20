@@ -1,460 +1,6 @@
 {
   "events": [
     {
-      "id": "dpwt-championship-2026-r1",
-      "sport": "Golf",
-      "competition": "DP World Tour Championship",
-      "title": "DP World Tour Championship · Primera ronda",
-      "date": "2026-11-12",
-      "time": "04:00",
-      "timeType": "broadcast",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "sources": [
-        {
-          "name": "DP World Tour · calendario oficial 2026",
-          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 6–13/11",
-          "url": "https://espnpressroom.com/latinamerica/press-releases/2026/11/espn-programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-triay-brea-talavan-saiz",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Triay / Brea vs. Talaván / Saiz",
-      "date": "2026-11-12",
-      "time": "05:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; inicio confirmado. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-12-michelsen-tabilo",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Alex Michelsen vs. Alejandro Tabilo",
-      "date": "2026-11-12",
-      "time": "09:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "pga-austin-championship-2026",
-      "sport": "Golf",
-      "competition": "PGA Tour",
-      "title": "Austin Championship",
-      "date": "2026-11-12",
-      "endDate": "2026-11-15",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Omni Barton Creek Resort & Spa · Fazio Canyons",
-      "city": "Austin, Texas",
-      "venueStatus": "confirmed",
-      "note": "Primera salida 10:00 del 12/11; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Austin Championship · cronograma oficial",
-          "url": "https://www.austinchampionship.com/about/schedule-of-events/"
-        },
-        {
-          "name": "PGA Tour · field oficial",
-          "url": "https://www.pgatour.com/tournaments/2026/austin-championship-presented-by-compliance-solutions/R2026558/field"
-        },
-        {
-          "name": "PGA Tour · horarios de salida",
-          "url": "https://www.pgatour.com/tournaments/2026/austin-championship-presented-by-compliance-solutions/R2026558/tee-times"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-12-tirante-shevchenko",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Thiago Agustín Tirante vs. Aleksandr Shevchenko",
-      "date": "2026-11-12",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-04-cs-puertollano-albacete-balompie",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CS Puertollano vs. Albacete Balompié",
-      "date": "2026-11-12",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-12-fritz-rune",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Taylor Fritz vs. Holger Rune",
-      "date": "2026-11-12",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-05-cd-tarancon-levante-ud",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Tarancón vs. Levante UD",
-      "date": "2026-11-12",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "copa-del-rey-2026-11-12-cda-navalcarnero-real-betis",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CDA Navalcarnero vs. Real Betis",
-      "date": "2026-11-12",
-      "time": "15:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "tennis-wta-finals-2026-11-12-kostyuk-gauff",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Marta Kostyuk vs. Coco Gauff",
-      "date": "2026-11-12",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Indian Wells Tennis Garden",
-      "city": "Indian Wells, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Singles.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego del 12/11",
-          "url": "https://www.wtatennis.com/news/4607847/fage-wta-finals-day-5-preview-coco-gauff-jessica-pegula-battling-for-spots-in-indian-wells-semis"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 6–13/11",
-          "url": "https://espnpressroom.com/latinamerica/press-releases/2026/11/espn-programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "supercopa-argentina-2026-11-12-estudiantes-independiente-rivadavia",
-      "sport": "Fútbol",
-      "competition": "Supercopa Argentina",
-      "title": "Estudiantes de La Plata vs. Independiente Rivadavia",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": true,
-      "national": false,
-      "venue": "Belgrano (Córdoba)",
-      "city": "Córdoba",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde 19:45; partido 20:00.",
-      "sources": [
-        {
-          "name": "AFA · agenda oficial",
-          "url": "https://www.afa.com.ar/es/posts/la-agenda-de-la-afa"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-06T10:12:00Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-castello-rodriguez-fernandez-calvo",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Castelló / Rodríguez vs. Fernández / Calvo",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; hora fija solo en el primer turno. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-fassio-virseda-josemaria-gonzalez",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Fassio / Virseda vs. Josemaría / González",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; hora fija solo en el primer turno. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-ruiz-lopez-augsburger-lebron",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Ruiz / López vs. Augsburger / Lebrón",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; hora fija solo en el primer turno. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-sanchez-gutierrez-stupaczuk-sanz",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Sánchez / Gutiérrez vs. Stupaczuk / Sanz",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; hora fija solo en el primer turno. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "padel-dubai-p1-2026-11-12-sanchez-ustero-manquillo-sainz",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Sánchez / Ustero vs. Manquillo / Sainz",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Octavos; hora fija solo en el primer turno. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · Dubai P1, orden de juego 12/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-THURSDAY-12-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "FIP · Dubai P1, cuadro oficial",
-          "url": "https://www.padelfip.com/events/emaar-dubai-premier-padel-p1-2026/?tab=Draws"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "tennis-stockholm-2026-11-12-musetti-humbert",
-      "sport": "Tenis",
-      "competition": "ATP 250",
-      "title": "Stockholm · Lorenzo Musetti vs. Ugo Humbert",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Singles; a continuación de Fritz–Rune. Hora y TV argentina pendientes.",
-      "sources": [
-        {
-          "name": "Stockholm Open · orden de juego",
-          "url": "https://www.stockholmopen.se/en/tournament/spelschema"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "tennis-wta-finals-2026-11-12-pegula-noskova",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Jessica Pegula vs. Linda Noskova",
-      "date": "2026-11-12",
-      "time": null,
-      "timeType": "pending",
-      "channels": [
-        "ESPN4",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Indian Wells Tennis Garden",
-      "city": "Indian Wells, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Singles; comienza al finalizar Kostyuk–Gauff.",
-      "sources": [
-        {
-          "name": "WTA · orden de juego del 12/11",
-          "url": "https://www.wtatennis.com/news/4607847/fage-wta-finals-day-5-preview-coco-gauff-jessica-pegula-battling-for-spots-in-indian-wells-semis"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 6–13/11",
-          "url": "https://espnpressroom.com/latinamerica/press-releases/2026/11/espn-programacion-destacada-del-6-al-13-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
       "id": "dpwt-championship-2026-r2",
       "sport": "Golf",
       "competition": "DP World Tour Championship",
@@ -1568,27 +1114,6 @@
       "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
-      "id": "copa-del-rey-2026-11-04-cd-minera-fc-cartagena",
-      "sport": "Fútbol",
-      "competition": "Copa del Rey",
-      "title": "CD Minera vs. FC Cartagena",
-      "date": "2026-11-18",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "RFEF · calendario actualizado de partidos aplazados",
-          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
       "id": "atp-finals-2026-11-18-cobolli-tiafoe",
       "sport": "Tenis",
       "competition": "ATP Finals",
@@ -1618,6 +1143,27 @@
         }
       ],
       "verifiedAt": "2026-11-18T10:02:06Z"
+    },
+    {
+      "id": "copa-del-rey-2026-11-04-cd-minera-fc-cartagena",
+      "sport": "Fútbol",
+      "competition": "Copa del Rey",
+      "title": "CD Minera vs. FC Cartagena",
+      "date": "2026-11-18",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Primera eliminatoria reprogramada. TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "RFEF · calendario actualizado de partidos aplazados",
+          "url": "https://rfef.es/es/noticias/nuevas-fechas-y-horarios-de-los-partidos-aplazados-este-28-de-octubre-de-la-copa-del-rey"
+        }
+      ],
+      "verifiedAt": "2026-11-11T10:09:19Z"
     },
     {
       "id": "copa-del-rey-2026-11-04-reus-fc-reddis-barakaldo-cf",
@@ -1891,7 +1437,7 @@
       "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Partido 16:30; transmisión desde 16:20.",
+      "note": "Partido 16:30. Transmisión desde 16:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
@@ -1900,9 +1446,13 @@
         {
           "name": "ESPN Press Room Argentina · programación 13–20/11",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-2026-11-20-athletic-espanyol",
@@ -1965,7 +1515,7 @@
       "venue": "Las Vegas Strip Circuit",
       "city": "Las Vegas, Estados Unidos",
       "venueStatus": "confirmed",
-      "note": "Transmisión desde 21:25 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 21:25.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de Las Vegas",
@@ -1974,9 +1524,13 @@
         {
           "name": "ESPN Argentina · GP de Las Vegas",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "f1-las-vegas-2026-qualifying",
@@ -1995,7 +1549,7 @@
       "venue": "Las Vegas Strip Circuit",
       "city": "Las Vegas, Estados Unidos",
       "venueStatus": "confirmed",
-      "note": "Transmisión desde 00:55 por Disney+ Premium (ESPN).",
+      "note": "Transmisión desde 00:55.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de Las Vegas",
@@ -2004,9 +1558,13 @@
         {
           "name": "ESPN Argentina · GP de Las Vegas",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-man-city-fulham",
@@ -2016,18 +1574,25 @@
       "date": "2026-11-21",
       "time": "09:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 09:20.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-2026-11-21-alaves-deportivo",
@@ -2037,18 +1602,56 @@
       "date": "2026-11-21",
       "time": "10:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 09:50.",
       "sources": [
         {
           "name": "LALIGA · jornada 13 oficial",
           "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "atp-finals-2026-11-21-sf1",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Semifinal 1",
+      "date": "2026-11-21",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; participantes por definir.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · horario oficial",
+          "url": "https://www.nittoatpfinals.com/en/event/tournament-schedule"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-21-como-cagliari",
@@ -2058,18 +1661,24 @@
       "date": "2026-11-21",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Lega Serie A · jornada 12 oficial",
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-21-lazio-lecce",
@@ -2079,60 +1688,51 @@
       "date": "2026-11-21",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Lega Serie A · jornada 12 oficial",
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-leverkusen-paderborn",
+      "id": "bundesliga-2026-11-21-elversberg-freiburg",
       "sport": "Fútbol",
       "competition": "Bundesliga",
-      "title": "Bayer Leverkusen vs. SC Paderborn 07",
+      "title": "SV Elversberg vs. SC Freiburg",
       "date": "2026-11-21",
       "time": "11:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
-      "id": "bundesliga-2026-11-21-gladbach-dortmund",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Borussia Mönchengladbach vs. Borussia Dortmund",
-      "date": "2026-11-21",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
+        },
         {
-          "name": "Bundesliga · fecha 10, horarios UTC oficiales",
-          "url": "https://products.bundesliga.com/fixtures"
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-21-frankfurt-hoffenheim",
@@ -2142,24 +1742,57 @@
       "date": "2026-11-21",
       "time": "11:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
-      "id": "bundesliga-2026-11-21-elversberg-freiburg",
+      "id": "bundesliga-2026-11-21-gladbach-dortmund",
       "sport": "Fútbol",
       "competition": "Bundesliga",
-      "title": "SV Elversberg vs. SC Freiburg",
+      "title": "Borussia Mönchengladbach vs. Borussia Dortmund",
+      "date": "2026-11-21",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 11:20.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 10, horarios UTC oficiales",
+          "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "bundesliga-2026-11-21-leverkusen-paderborn",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Bayer Leverkusen vs. SC Paderborn 07",
       "date": "2026-11-21",
       "time": "11:30",
       "timeType": "event",
@@ -2184,18 +1817,24 @@
       "date": "2026-11-21",
       "time": "11:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-aston-villa-sunderland",
@@ -2205,18 +1844,24 @@
       "date": "2026-11-21",
       "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-bournemouth-nottingham-forest",
@@ -2226,18 +1871,24 @@
       "date": "2026-11-21",
       "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-chelsea-leeds",
@@ -2247,18 +1898,25 @@
       "date": "2026-11-21",
       "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-coventry-crystal-palace",
@@ -2268,18 +1926,24 @@
       "date": "2026-11-21",
       "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-21-tottenham-ipswich",
@@ -2289,18 +1953,24 @@
       "date": "2026-11-21",
       "time": "12:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-2026-11-21-rayo-valencia",
@@ -2331,39 +2001,25 @@
       "date": "2026-11-21",
       "time": "14:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 13:55.",
       "sources": [
         {
           "name": "Lega Serie A · jornada 12 oficial",
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
-        }
-      ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
-    },
-    {
-      "id": "premier-league-2026-11-21-newcastle-arsenal",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Newcastle United vs. Arsenal",
-      "date": "2026-11-21",
-      "time": "14:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
+        },
         {
-          "name": "Premier League · fixture oficial",
-          "url": "https://www.premierleague.com/en/news/4725574"
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-21-schalke-stuttgart",
@@ -2373,18 +2029,25 @@
       "date": "2026-11-21",
       "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 14:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-2026-11-21-sevilla-betis",
@@ -2406,6 +2069,33 @@
         }
       ],
       "verifiedAt": "2026-11-08T10:10:22Z"
+    },
+    {
+      "id": "premier-league-2026-11-21-newcastle-arsenal",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Newcastle United vs. Arsenal",
+      "date": "2026-11-21",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 14:20.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial",
+          "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "liga-profesional-2026-octavos-2026-11-21-defensa-barracas",
@@ -2431,6 +2121,37 @@
       "verifiedAt": "2026-11-12T10:00:43Z"
     },
     {
+      "id": "atp-finals-2026-11-21-sf2",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Semifinal 2",
+      "date": "2026-11-21",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; participantes por definir.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · horario oficial",
+          "url": "https://www.nittoatpfinals.com/en/event/tournament-schedule"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
       "id": "serie-a-2026-11-21-napoli-torino",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -2438,18 +2159,52 @@
       "date": "2026-11-21",
       "time": "16:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · jornada 12 oficial",
           "url": "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "laliga-2026-2026-11-21-real-madrid-celta",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Madrid vs. Celta de Vigo",
+      "date": "2026-11-21",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:50.",
+      "sources": [
+        {
+          "name": "LALIGA · jornada 13 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "liga-profesional-2026-octavos-2026-11-21-argentinos-independiente",
@@ -2475,27 +2230,6 @@
       "verifiedAt": "2026-11-12T10:00:43Z"
     },
     {
-      "id": "laliga-2026-2026-11-21-real-madrid-celta",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Real Madrid vs. Celta de Vigo",
-      "date": "2026-11-21",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "LALIGA · jornada 13 oficial",
-          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
-        }
-      ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
-    },
-    {
       "id": "89e1852e6785cca6",
       "sport": "Rugby",
       "competition": "Nations Championship",
@@ -2503,14 +2237,17 @@
       "date": "2026-11-21",
       "time": "17:10",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": true,
       "venue": "Stade de France",
       "city": "Saint-Denis",
       "venueStatus": "confirmed",
-      "note": "Horario y sede oficiales. TV argentina por confirmar.",
+      "note": "Partido 17:10; transmisión desde 16:30.",
       "sources": [
         {
           "name": "UAR · calendario de Los Pumas",
@@ -2519,9 +2256,13 @@
         {
           "name": "FFR · programa oficial 2026/27",
           "url": "https://presse.ffr.fr/categories/equipes-de-france/saison-26-27-programme-des-equipes-de-france-a-xv"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-10-25T10:01:20Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "sudamericana-2026-final",
@@ -2531,14 +2272,17 @@
       "date": "2026-11-21",
       "time": "19:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
       "venue": "Estadio Metropolitano Roberto Meléndez",
       "city": "Barranquilla, Colombia",
       "venueStatus": "confirmed",
-      "note": "Final única; TV argentina pendiente.",
+      "note": "Final única; partido 19:30 y transmisión desde 19:00.",
       "sources": [
         {
           "name": "AFA · horarios de las finales CONMEBOL",
@@ -2547,38 +2291,13 @@
         {
           "name": "CONMEBOL · ficha oficial de la final",
           "url": "https://gol.conmebol.com/es/fixture/view/1727"
-        }
-      ],
-      "verifiedAt": "2026-11-17T10:08:19Z"
-    },
-    {
-      "id": "cordoba-pista-cabalen-2026-11-21-22",
-      "sport": "Automovilismo",
-      "competition": "Córdoba Pista",
-      "title": "Córdoba Pista · Fecha 8",
-      "date": "2026-11-21",
-      "endDate": "2026-11-22",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": true,
-      "national": false,
-      "venue": "Autódromo Oscar Cabalén",
-      "city": "Villa Parque Santa Ana, Córdoba",
-      "venueStatus": "confirmed",
-      "note": "Fecha 8. Cronograma, entradas y TV por confirmar.",
-      "sources": [
-        {
-          "name": "Córdoba Pista · calendario oficial",
-          "url": "https://cordobapista.com/cordoba-pista-confirmo-el-calendario-de-las-ultimas-cuatro-fechas-de-la-temporada-2026/"
         },
         {
-          "name": "FRAD Córdoba · calendario modificado",
-          "url": "https://fradcba.com.ar/se-modifico-el-calendario-del-cordoba-pista-y-la-ultima-del-provincial-de-karting-en-asfalto/"
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "f1-las-vegas-2026-race",
@@ -2597,7 +2316,7 @@
       "venue": "Las Vegas Strip Circuit",
       "city": "Las Vegas, Estados Unidos",
       "venueStatus": "confirmed",
-      "note": "Transmisión desde 00:55; carrera 01:00.",
+      "note": "Carrera 01:00; transmisión desde 00:55.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de Las Vegas",
@@ -2606,9 +2325,27 @@
         {
           "name": "ESPN Argentina · GP de Las Vegas",
           "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        },
+        {
+          "name": "FIA · lista oficial de participantes de Las Vegas",
+          "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_entry_list.pdf"
         }
       ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
+      "verifiedAt": "2026-11-20T10:00:00Z",
+      "f1Grid": {
+        "driver": "Franco Colapinto",
+        "startingPosition": null,
+        "status": "pending",
+        "source": {
+          "name": "FIA · lista oficial de participantes de Las Vegas",
+          "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_entry_list.pdf"
+        },
+        "verifiedAt": "2026-11-20T10:00:00Z"
+      }
     },
     {
       "id": "serie-a-2026-11-22-juventus-venezia",
@@ -2618,18 +2355,25 @@
       "date": "2026-11-22",
       "time": "08:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 08:20.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
           "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-11-22-barcelona-villarreal",
@@ -2653,27 +2397,6 @@
       "verifiedAt": "2026-11-09T10:11:42Z"
     },
     {
-      "id": "serie-a-2026-11-22-bologna-udinese",
-      "sport": "Fútbol",
-      "competition": "Serie A",
-      "title": "Bologna vs. Udinese",
-      "date": "2026-11-22",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Lega Serie A · calendario oficial",
-          "url": "https://en.legaseriea.it/serie-a/fixtures-results"
-        }
-      ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
-    },
-    {
       "id": "premier-league-2026-11-22-hull-brighton",
       "sport": "Fútbol",
       "competition": "Premier League",
@@ -2681,18 +2404,52 @@
       "date": "2026-11-22",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial de noviembre",
           "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "serie-a-2026-11-22-bologna-udinese",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Bologna vs. Udinese",
+      "date": "2026-11-22",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 10:50.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial",
+          "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-22-sassuolo-genoa",
@@ -2702,18 +2459,25 @@
       "date": "2026-11-22",
       "time": "11:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 10:50.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
           "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-22-augsburg-mainz",
@@ -2723,18 +2487,24 @@
       "date": "2026-11-22",
       "time": "11:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 11:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-11-22-racing-real-sociedad",
@@ -2744,18 +2514,24 @@
       "date": "2026-11-22",
       "time": "12:15",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
       "sources": [
         {
           "name": "LALIGA · jornada 13 oficial",
           "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-22",
@@ -2765,42 +2541,27 @@
       "date": "2026-11-22",
       "time": "12:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "TyC Sports 2"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": true,
       "venue": "Aspire Zone",
       "city": "Al Rayyan, Qatar",
       "venueStatus": "confirmed",
-      "note": "Fase de grupos; TV argentina pendiente.",
+      "note": "Fase de grupos.",
       "sources": [
         {
-          "name": "AFA · fixture y horarios del Mundial Sub-17",
-          "url": "https://www.afa.com.ar/es/posts/desde-las-13.00-argentina-debuta-en-el-mundial-sub-17-ante-australia"
-        }
-      ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
-    },
-    {
-      "id": "premier-league-2026-11-22-liverpool-man-utd",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Liverpool vs. Manchester United",
-      "date": "2026-11-22",
-      "time": "13:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
+          "name": "AFA · fixture y cobertura del Mundial Sub-17",
+          "url": "https://www.afa.com.ar/es/posts/argentina-cayo-ante-australia-en-su-debut-en-el-mundial-sub-17"
+        },
         {
-          "name": "Premier League · fixture oficial de noviembre",
-          "url": "https://www.premierleague.com/en/news/4725574"
+          "name": "Televisión.com.ar · cobertura argentina del Mundial Sub-17",
+          "url": "https://television.com.ar/noticias/tv-paga/mundial-sub-17-2026-donde-ver-a-la-seleccion-argentina-y-como-sera-la-cobertura-de-tyc-sports-y-dsports/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-22-bremen-hamburg",
@@ -2810,18 +2571,83 @@
       "date": "2026-11-22",
       "time": "13:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 13:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 10, horarios UTC oficiales",
           "url": "https://products.bundesliga.com/fixtures"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-11-22-liverpool-man-utd",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Liverpool vs. Manchester United",
+      "date": "2026-11-22",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 13:20.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "atp-finals-2026-11-22-final",
+      "sport": "Tenis",
+      "competition": "ATP Finals",
+      "title": "ATP Finals · Final",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Inalpi Arena",
+      "city": "Turín, Italia",
+      "venueStatus": "confirmed",
+      "note": "Singles; participantes por definir.",
+      "sources": [
+        {
+          "name": "Nitto ATP Finals · horario oficial",
+          "url": "https://www.nittoatpfinals.com/en/event/tournament-schedule"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-22-milan-frosinone",
@@ -2831,18 +2657,24 @@
       "date": "2026-11-22",
       "time": "14:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 13:50.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
           "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-11-22-osasuna-malaga",
@@ -2852,18 +2684,25 @@
       "date": "2026-11-22",
       "time": "14:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 14:15.",
       "sources": [
         {
           "name": "LALIGA · jornada 13 oficial",
           "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "liga-profesional-2026-octavos-2026-11-22-rosario-central-gimnasia-mendoza",
@@ -2896,18 +2735,25 @@
       "date": "2026-11-22",
       "time": "16:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial",
           "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-11-22-getafe-atletico",
@@ -2917,18 +2763,25 @@
       "date": "2026-11-22",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:50.",
       "sources": [
         {
           "name": "LALIGA · jornada 13 oficial",
           "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-09T10:11:42Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "liga-profesional-2026-octavos-2026-11-22-river-lanus",
@@ -2986,24 +2839,31 @@
       "date": "2026-11-23",
       "time": "16:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · jornada 12 oficial",
           "url": "https://en.legaseriea.it/serie-a/fixtures-results"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
-      "id": "premier-league-2026-11-23-brentford-everton",
+      "id": "laliga-2026-11-23-levante-elche",
       "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Brentford vs. Everton",
+      "competition": "LaLiga",
+      "title": "Levante vs. Elche",
       "date": "2026-11-23",
       "time": "17:00",
       "timeType": "event",
@@ -3014,8 +2874,8 @@
       "note": "TV argentina pendiente.",
       "sources": [
         {
-          "name": "Premier League · fixture oficial de noviembre",
-          "url": "https://www.premierleague.com/en/news/4725574"
+          "name": "LALIGA · jornada 13 oficial",
+          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
         }
       ],
       "verifiedAt": "2026-11-10T10:05:16Z"
@@ -3044,25 +2904,32 @@
       "verifiedAt": "2026-11-12T10:00:43Z"
     },
     {
-      "id": "laliga-2026-11-23-levante-elche",
+      "id": "premier-league-2026-11-23-brentford-everton",
       "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Levante vs. Elche",
+      "competition": "Premier League",
+      "title": "Brentford vs. Everton",
       "date": "2026-11-23",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:50.",
       "sources": [
         {
-          "name": "LALIGA · jornada 13 oficial",
-          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
+          "name": "Premier League · fixture oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4725574"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-10T10:05:16Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2049629",
@@ -3072,11 +2939,14 @@
       "date": "2026-11-24",
       "time": "14:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 14:30.",
       "sources": [
         {
           "name": "UEFA · partido",
@@ -3085,9 +2955,13 @@
         {
           "name": "UEFA · calendario completo",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2049631",
@@ -3097,11 +2971,13 @@
       "date": "2026-11-24",
       "time": "14:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 14:30.",
       "sources": [
         {
           "name": "UEFA · partido",
@@ -3110,134 +2986,13 @@
         {
           "name": "UEFA · calendario completo",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "football-ucl-2049627",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Arsenal vs. Borussia Dortmund",
-      "date": "2026-11-24",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049627--arsenal-vs-dortmund/"
         },
         {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "football-ucl-2049633",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Como vs. AEK Athens",
-      "date": "2026-11-24",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049633--como-vs-aek/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "football-ucl-2049628",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Feyenoord vs. Porto",
-      "date": "2026-11-24",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049628--feyenoord-vs-porto/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "football-ucl-2049630",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Leipzig vs. Lens",
-      "date": "2026-11-24",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049630--leipzig-vs-lens/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
-    },
-    {
-      "id": "football-ucl-2049626",
-      "sport": "Fútbol",
-      "competition": "UEFA Champions League",
-      "title": "Manchester City vs. Napoli",
-      "date": "2026-11-24",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "UEFA · partido",
-          "url": "https://www.uefa.com/uefachampionsleague/match/2049626--man-city-vs-napoli/"
-        },
-        {
-          "name": "UEFA · calendario completo",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
-        }
-      ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2049625",
@@ -3247,11 +3002,13 @@
       "date": "2026-11-24",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · partido",
@@ -3260,9 +3017,139 @@
         {
           "name": "UEFA · calendario completo",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "football-ucl-2049626",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Manchester City vs. Napoli",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049626--man-city-vs-napoli/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "football-ucl-2049627",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Arsenal vs. Borussia Dortmund",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049627--arsenal-vs-dortmund/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "football-ucl-2049628",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Feyenoord vs. Porto",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049628--feyenoord-vs-porto/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "football-ucl-2049630",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Leipzig vs. Lens",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049630--leipzig-vs-lens/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2049632",
@@ -3272,11 +3159,14 @@
       "date": "2026-11-24",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · partido",
@@ -3285,9 +3175,45 @@
         {
           "name": "UEFA · calendario completo",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-11T10:09:19Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "football-ucl-2049633",
+      "sport": "Fútbol",
+      "competition": "UEFA Champions League",
+      "title": "Como vs. AEK Athens",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "note": "Transmisión desde 16:40.",
+      "sources": [
+        {
+          "name": "UEFA · partido",
+          "url": "https://www.uefa.com/uefachampionsleague/match/2049633--como-vs-aek/"
+        },
+        {
+          "name": "UEFA · calendario completo",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "argentina-sub17-masculina-2026-11-25",
@@ -3297,21 +3223,27 @@
       "date": "2026-11-25",
       "time": "12:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "TyC Sports"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": true,
       "venue": "Aspire Zone",
       "city": "Al Rayyan, Qatar",
       "venueStatus": "confirmed",
-      "note": "Fase de grupos; TV argentina pendiente.",
+      "note": "Fase de grupos.",
       "sources": [
         {
-          "name": "AFA · fixture y horarios del Mundial Sub-17",
-          "url": "https://www.afa.com.ar/es/posts/desde-las-13.00-argentina-debuta-en-el-mundial-sub-17-ante-australia"
+          "name": "AFA · fixture y cobertura del Mundial Sub-17",
+          "url": "https://www.afa.com.ar/es/posts/argentina-cayo-ante-australia-en-su-debut-en-el-mundial-sub-17"
+        },
+        {
+          "name": "Televisión.com.ar · cobertura argentina del Mundial Sub-17",
+          "url": "https://television.com.ar/noticias/tv-paga/mundial-sub-17-2026-donde-ver-a-la-seleccion-argentina-y-como-sera-la-cobertura-de-tyc-sports-y-dsports/"
         }
       ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-sabah-barcelona",
@@ -3321,18 +3253,24 @@
       "date": "2026-11-25",
       "time": "14:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 14:30.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-slavia-villarreal",
@@ -3342,18 +3280,25 @@
       "date": "2026-11-25",
       "time": "14:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 14:30.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-atletico-viking",
@@ -3363,18 +3308,25 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-brugge-liverpool",
@@ -3384,18 +3336,24 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-inter-stuttgart",
@@ -3405,18 +3363,25 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-lille-bayern",
@@ -3426,18 +3391,25 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN3",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-psg-roma",
@@ -3447,18 +3419,25 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-shakhtar-fenerbahce",
@@ -3468,18 +3447,24 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "football-ucl-2026-11-25-sporting-manchester-united",
@@ -3489,18 +3474,24 @@
       "date": "2026-11-25",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Horario oficial en Córdoba. TV argentina pendiente.",
+      "note": "Transmisión desde 16:40.",
       "sources": [
         {
           "name": "UEFA · calendario completo de fase liga",
           "url": "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "liga-profesional-2026-octavos-2026-11-25-boca-independiente-rivadavia",
@@ -3553,6 +3544,66 @@
       "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
+      "id": "f1-qatar-2026-fp1",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Qatar",
+      "title": "GP de Qatar · Práctica 1",
+      "date": "2026-11-27",
+      "time": "10:30",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Lusail International Circuit",
+      "city": "Lusail, Qatar",
+      "venueStatus": "confirmed",
+      "note": "Transmisión desde 10:25.",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Qatar",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "f1-qatar-2026-fp2",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Qatar",
+      "title": "GP de Qatar · Práctica 2",
+      "date": "2026-11-27",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": false,
+      "venue": "Lusail International Circuit",
+      "city": "Lusail, Qatar",
+      "venueStatus": "confirmed",
+      "note": "Transmisión desde 13:55.",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Qatar",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
       "id": "bundesliga-2026-11-27-bremen-monchengladbach",
       "sport": "Fútbol",
       "competition": "Bundesliga",
@@ -3560,18 +3611,24 @@
       "date": "2026-11-27",
       "time": "16:30",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "Disney+ Premium (ESPN)"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 11; TV argentina pendiente.",
+      "note": "Transmisión desde 16:20.",
       "sources": [
         {
           "name": "Bundesliga · fecha 11 oficial",
           "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-14T10:01:01Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-27-venezia-bologna",
@@ -3581,18 +3638,25 @@
       "date": "2026-11-27",
       "time": "16:45",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN2",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Fecha 13; TV argentina pendiente.",
+      "note": "Transmisión desde 16:30.",
       "sources": [
         {
           "name": "Lega Serie A · calendario oficial de Venezia",
           "url": "https://en.legaseriea.it/team/venezia/schedule"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-14T10:01:01Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "laliga-2026-11-27-levante-racing",
@@ -3602,18 +3666,25 @@
       "date": "2026-11-27",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN4",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "Jornada 14; TV argentina pendiente.",
+      "note": "Transmisión desde 16:50.",
       "sources": [
         {
           "name": "LALIGA · horarios oficiales de la jornada 14",
           "url": "https://www.laliga.com/es-US/noticias/horarios-de-la-decimocuarta-jornada-de-laliga-ea-sports-2026-27"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-14T10:01:01Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-27-nottingham-chelsea",
@@ -3623,18 +3694,25 @@
       "date": "2026-11-27",
       "time": "17:00",
       "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "note": "Transmisión desde 16:50.",
       "sources": [
         {
           "name": "Premier League · fixture oficial 2026/27",
           "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-season-2026-27"
+        },
+        {
+          "name": "ESPN Press Room Argentina · programación 20–27/11",
+          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
         }
       ],
-      "verifiedAt": "2026-11-14T10:01:01Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "los-pumas-finals-weekend-2026",
@@ -3704,10 +3782,10 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
-      "id": "bundesliga-2026-11-28-koln-elversberg",
+      "id": "bundesliga-2026-11-28-hamburg-bayern",
       "sport": "Fútbol",
       "competition": "Bundesliga",
-      "title": "FC Köln vs. SV Elversberg",
+      "title": "Hamburger SV vs. Bayern Munich",
       "date": "2026-11-28",
       "time": "11:30",
       "timeType": "event",
@@ -3725,10 +3803,10 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
-      "id": "bundesliga-2026-11-28-hamburg-bayern",
+      "id": "bundesliga-2026-11-28-koln-elversberg",
       "sport": "Fútbol",
       "competition": "Bundesliga",
-      "title": "Hamburger SV vs. Bayern Munich",
+      "title": "FC Köln vs. SV Elversberg",
       "date": "2026-11-28",
       "time": "11:30",
       "timeType": "event",
@@ -3786,6 +3864,30 @@
         }
       ],
       "verifiedAt": "2026-11-15T10:03:56Z"
+    },
+    {
+      "id": "f1-qatar-2026-fp3",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Qatar",
+      "title": "GP de Qatar · Práctica 3",
+      "date": "2026-11-28",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Lusail International Circuit",
+      "city": "Lusail, Qatar",
+      "venueStatus": "confirmed",
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Qatar",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "premier-league-2026-11-28-leeds-coventry",
@@ -3872,6 +3974,27 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
+      "id": "bundesliga-2026-11-28-stuttgart-frankfurt",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Stuttgart vs. Eintracht Frankfurt",
+      "date": "2026-11-28",
+      "time": "14:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Fecha 11; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 11 oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
+        }
+      ],
+      "verifiedAt": "2026-11-15T10:03:56Z"
+    },
+    {
       "id": "laliga-2026-11-28-elche-atletico",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -3914,25 +4037,28 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
-      "id": "bundesliga-2026-11-28-stuttgart-frankfurt",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Stuttgart vs. Eintracht Frankfurt",
+      "id": "f1-qatar-2026-qualifying",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Qatar",
+      "title": "GP de Qatar · Clasificación",
       "date": "2026-11-28",
-      "time": "14:30",
+      "time": "15:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "Fecha 11; TV argentina pendiente.",
+      "venue": "Lusail International Circuit",
+      "city": "Lusail, Qatar",
+      "venueStatus": "confirmed",
+      "note": "TV argentina pendiente.",
       "sources": [
         {
-          "name": "Bundesliga · fecha 11 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
+          "name": "Fórmula 1 · horario oficial de Qatar",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
         }
       ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "serie-a-2026-11-28-torino-lazio",
@@ -3951,6 +4077,27 @@
         {
           "name": "Lega Serie A · programación oficial, fechas 13–19",
           "url": "https://images.legaseriea.it/image/private/fl_attachment/prd/uregsxswxv7ddacwghha.pdf"
+        }
+      ],
+      "verifiedAt": "2026-11-15T10:03:56Z"
+    },
+    {
+      "id": "laliga-2026-11-28-real-madrid-alaves",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Real Madrid vs. Deportivo Alavés",
+      "date": "2026-11-28",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Jornada 14; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LALIGA · horarios oficiales de la jornada 14",
+          "url": "https://www.laliga.com/noticias/horarios-de-la-decimocuarta-jornada-de-laliga-ea-sports-2026-27"
         }
       ],
       "verifiedAt": "2026-11-15T10:03:56Z"
@@ -3982,27 +4129,6 @@
         }
       ],
       "verifiedAt": "2026-11-17T10:08:19Z"
-    },
-    {
-      "id": "laliga-2026-11-28-real-madrid-alaves",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Real Madrid vs. Deportivo Alavés",
-      "date": "2026-11-28",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Jornada 14; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "LALIGA · horarios oficiales de la jornada 14",
-          "url": "https://www.laliga.com/noticias/horarios-de-la-decimocuarta-jornada-de-laliga-ea-sports-2026-27"
-        }
-      ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
       "id": "serie-a-2026-11-29-lecce-torino",
@@ -4236,25 +4362,28 @@
       "verifiedAt": "2026-11-16T10:43:08Z"
     },
     {
-      "id": "premier-league-2026-11-29-arsenal-man-city",
-      "sport": "Fútbol",
-      "competition": "Premier League",
-      "title": "Arsenal vs. Manchester City",
+      "id": "f1-qatar-2026-race",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Qatar",
+      "title": "GP de Qatar · Carrera",
       "date": "2026-11-29",
-      "time": "13:30",
+      "time": "13:00",
       "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
       "national": false,
-      "note": "TV argentina pendiente.",
+      "venue": "Lusail International Circuit",
+      "city": "Lusail, Qatar",
+      "venueStatus": "confirmed",
+      "note": "57 vueltas; TV argentina y lista oficial pendientes.",
       "sources": [
         {
-          "name": "Premier League · programación oficial de noviembre",
-          "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-2026-27"
+          "name": "Fórmula 1 · horario oficial de Qatar",
+          "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
         }
       ],
-      "verifiedAt": "2026-11-16T10:43:08Z"
+      "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
       "id": "bundesliga-2026-11-29-hoffenheim-augsburg",
@@ -4273,6 +4402,27 @@
         {
           "name": "Bundesliga · fecha 11 oficial",
           "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
+        }
+      ],
+      "verifiedAt": "2026-11-16T10:43:08Z"
+    },
+    {
+      "id": "premier-league-2026-11-29-arsenal-man-city",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Arsenal vs. Manchester City",
+      "date": "2026-11-29",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · programación oficial de noviembre",
+          "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-2026-27"
         }
       ],
       "verifiedAt": "2026-11-16T10:43:08Z"
@@ -4588,10 +4738,10 @@
       "verifiedAt": "2026-11-18T10:02:06Z"
     },
     {
-      "id": "dfb-pokal-2026-12-02-leverkusen-leipzig",
+      "id": "dfb-pokal-2026-12-02-kaiserslautern-freiburg",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
-      "title": "Bayer Leverkusen vs. RB Leipzig · Octavos",
+      "title": "Kaiserslautern vs. SC Freiburg · Octavos",
       "date": "2026-12-02",
       "time": "14:00",
       "timeType": "event",
@@ -4609,10 +4759,10 @@
       "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
-      "id": "dfb-pokal-2026-12-02-kaiserslautern-freiburg",
+      "id": "dfb-pokal-2026-12-02-leverkusen-leipzig",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
-      "title": "Kaiserslautern vs. SC Freiburg · Octavos",
+      "title": "Bayer Leverkusen vs. RB Leipzig · Octavos",
       "date": "2026-12-02",
       "time": "14:00",
       "timeType": "event",
@@ -4756,10 +4906,10 @@
       "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
-      "id": "dfb-pokal-2026-12-02-frankfurt-dortmund",
+      "id": "dfb-pokal-2026-12-02-bochum-augsburg",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
-      "title": "Eintracht Frankfurt vs. Borussia Dortmund · Octavos",
+      "title": "VfL Bochum vs. FC Augsburg · Octavos",
       "date": "2026-12-02",
       "time": "16:45",
       "timeType": "event",
@@ -4777,10 +4927,10 @@
       "verifiedAt": "2026-11-19T10:00:00Z"
     },
     {
-      "id": "dfb-pokal-2026-12-02-bochum-augsburg",
+      "id": "dfb-pokal-2026-12-02-frankfurt-dortmund",
       "sport": "Fútbol",
       "competition": "DFB-Pokal",
-      "title": "VfL Bochum vs. FC Augsburg · Octavos",
+      "title": "Eintracht Frankfurt vs. Borussia Dortmund · Octavos",
       "date": "2026-12-02",
       "time": "16:45",
       "timeType": "event",
@@ -4901,24 +5051,119 @@
         }
       ],
       "verifiedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "coppa-italia-2026-12-03-juventus-sassuolo",
+      "sport": "Fútbol",
+      "competition": "Coppa Italia",
+      "title": "Juventus vs. Sassuolo · Octavos",
+      "date": "2026-12-03",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial de Coppa Italia",
+          "url": "https://www.legaseriea.it/coppa-italia/calendario-risultati"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "premier-league-2026-12-03-tottenham-fulham",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Tottenham Hotspur vs. Fulham",
+      "date": "2026-12-03",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial de diciembre",
+          "url": "https://www.premierleague.com/en/news/4743152/fixture-amendments-for-premier-league-matches-in-december/"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "pga-hero-world-challenge-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "Hero World Challenge",
+      "date": "2026-12-03",
+      "endDate": "2026-12-06",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Albany Golf Course",
+      "city": "New Providence, Bahamas",
+      "venueStatus": "confirmed",
+      "note": "Tee-times y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "PGA Tour · calendario oficial 2026",
+          "url": "https://www.pgatour.com/schedule"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
+    },
+    {
+      "id": "argentina-femenina-uruguay-2026-12-04",
+      "sport": "Fútbol",
+      "competition": "Amistoso · Selección argentina femenina",
+      "title": "Argentina vs. Uruguay",
+      "date": "2026-12-04",
+      "time": "19:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Estadio Claudio Fabián Tapia · Barracas Central",
+      "city": "Buenos Aires",
+      "venueStatus": "confirmed",
+      "note": "Amistoso internacional; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "AFA · amistoso ante Uruguay",
+          "url": "https://www.afa.com.ar/es/posts/la-seleccion-femenina-cerrara-la-fecha-fifa-ante-uruguay-en-barracas-central"
+        }
+      ],
+      "verifiedAt": "2026-11-20T10:00:00Z"
     }
   ],
-  "updatedAt": "2026-11-19T10:00:00Z",
-  "coverageThrough": "2026-12-02",
+  "updatedAt": "2026-11-20T10:00:00Z",
+  "coverageThrough": "2026-12-03",
   "warnings": [
-    "ESPN Argentina publicó la grilla general hasta el 20/11; emisiones posteriores salvo F1 siguen pendientes.",
-    "F1 Las Vegas: TV por Disney+ confirmada; lista oficial del evento y grilla de carrera pendientes.",
-    "Copa del Rey: Badajoz–Tenerife sigue sin nueva fecha.",
-    "Cabalén: Córdoba Pista confirmó 21–22/11; cronograma, entradas y TV pendientes.",
+    "ESPN Argentina confirmó señales hasta el 27/11; emisiones posteriores siguen pendientes.",
+    "F1 Las Vegas: Colapinto figura en la lista oficial; grilla de carrera aún pendiente.",
+    "F1 Qatar: P1 y P2 confirmadas por Disney+; TV del resto del fin de semana pendiente.",
+    "Cabalén: la fecha 8 ya se disputó 24–25/10; no hay otra fecha confirmada allí.",
     "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-11-16",
-    "verifiedAt": "2026-11-19T10:00:00Z",
+    "verifiedAt": "2026-11-20T10:00:00Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual 16/11",
         "url": "https://www.padelfip.com/fip-rankings/"
+      },
+      {
+        "name": "FIP · entry list oficial Mexico Major",
+        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/Entry-list-Mexico-Major-M-v9.pdf"
       }
     ],
     "pairs": [
