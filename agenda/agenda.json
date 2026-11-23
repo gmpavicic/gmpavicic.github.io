@@ -1,181 +1,6 @@
 {
   "events": [
     {
-      "id": "dpwt-championship-2026-r4",
-      "sport": "Golf",
-      "competition": "DP World Tour Championship",
-      "title": "DP World Tour Championship · Ronda final",
-      "date": "2026-11-15",
-      "time": "03:30",
-      "timeType": "broadcast",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Ronda final; transmisión desde 03:30.",
-      "sources": [
-        {
-          "name": "DP World Tour · calendario oficial 2026",
-          "url": "https://www.europeantour.com/dpworld-tour/schedule/2026/"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
-      "id": "tennis-atp-finals-2026-11-15-zverev-jodar",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Alexander Zverev vs. Rafael Jodar",
-      "date": "2026-11-15",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Round robin de singles.",
-      "sources": [
-        {
-          "name": "ATP Finals · orden de juego 15–16/11",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
-      "id": "premier-padel-dubai-2026-final-women",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Claudia Fernández / Martina Calvo vs. Paula Josemaría / Bea González",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Hamdan Sports Complex",
-      "city": "Dubai, Emiratos Árabes Unidos",
-      "venueStatus": "confirmed",
-      "note": "Final femenina.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 15/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SUNDAY-15-NOVEMBER-2026-5.pdf"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
-    },
-    {
-      "id": "premier-padel-dubai-2026-final-men",
-      "sport": "Pádel",
-      "competition": "Premier Padel · Dubai P1",
-      "title": "Dubai P1 · Tino Libaak / Gonza Alfonso vs. Leo Augsburger / Juan Lebrón",
-      "date": "2026-11-15",
-      "time": "13:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Hamdan Sports Complex",
-      "city": "Dubai, Emiratos Árabes Unidos",
-      "venueStatus": "confirmed",
-      "note": "Final masculina; no antes de 13:00. TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "FIP · orden de juego oficial del 15/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SUNDAY-15-NOVEMBER-2026-5.pdf"
-        }
-      ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
-    },
-    {
-      "id": "tennis-atp-finals-2026-11-15-shelton-fils",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Ben Shelton vs. Arthur Fils",
-      "date": "2026-11-15",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Round robin de singles.",
-      "sources": [
-        {
-          "name": "ATP Finals · orden de juego 15–16/11",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
-      "id": "wta-finals-2026-11-15-final-singles",
-      "sport": "Tenis",
-      "competition": "WTA Finals",
-      "title": "WTA Finals · Mirra Andreeva vs. Elina Svitolina",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Indian Wells Tennis Garden · Stadium 2",
-      "city": "Indian Wells, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Final de singles.",
-      "sources": [
-        {
-          "name": "WTA · previa y orden de juego de la final",
-          "url": "https://www.wtatennis.com/news/4609127/mirra-andreeva-vs-elina-svitolina-wta-finals-2026-indian-wells-championships-everything-to-know"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
-    },
-    {
       "id": "tennis-atp-finals-2026-11-16-alcaraz-tiafoe",
       "sport": "Tenis",
       "competition": "ATP Finals",
@@ -3026,31 +2851,6 @@
       "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
-      "id": "los-pumas-finals-weekend-2026",
-      "sport": "Rugby",
-      "competition": "Nations Championship · Selección argentina",
-      "title": "Los Pumas · Fin de semana de Finales",
-      "date": "2026-11-27",
-      "endDate": "2026-11-29",
-      "time": null,
-      "timeType": "pending",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": true,
-      "venue": "Twickenham Stadium",
-      "city": "Londres, Inglaterra",
-      "venueStatus": "confirmed",
-      "note": "Rival, día exacto, hora y TV pendientes.",
-      "sources": [
-        {
-          "name": "UAR · cierre del Nations Championship",
-          "url": "https://uar.com.ar/los-pumas-ya-tienen-plantel-para-el-cierre-del-nations-championship/"
-        }
-      ],
-      "verifiedAt": "2026-11-18T10:02:06Z"
-    },
-    {
       "id": "laliga-2026-11-28-betis-rayo",
       "sport": "Fútbol",
       "competition": "LaLiga",
@@ -3503,6 +3303,34 @@
         }
       ],
       "verifiedAt": "2026-11-16T10:43:08Z"
+    },
+    {
+      "id": "los-pumas-finals-weekend-2026",
+      "sport": "Rugby",
+      "competition": "Nations Championship · Selección argentina",
+      "title": "Escocia vs. Los Pumas",
+      "date": "2026-11-29",
+      "time": "10:10",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": true,
+      "venue": "Allianz Stadium, Twickenham",
+      "city": "Londres, Inglaterra",
+      "venueStatus": "confirmed",
+      "note": "Fin de Semana de Finales; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Nations Championship · fixture oficial",
+          "url": "https://nationschampionshiprugby.com/es"
+        },
+        {
+          "name": "Nations Championship · Fin de Semana de Finales",
+          "url": "https://nationschampionshiprugby.com/es/finals-weekend"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
     },
     {
       "id": "serie-a-2026-11-29-atalanta-roma",
@@ -5029,14 +4857,311 @@
         }
       ],
       "verifiedAt": "2026-11-22T10:01:19Z"
+    },
+    {
+      "id": "serie-a-2026-12-06-genoa-torino",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Genoa vs. Torino",
+      "date": "2026-12-06",
+      "time": "08:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · programación oficial",
+          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "laliga-2026-12-06-osasuna-elche",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Osasuna vs. Elche",
+      "date": "2026-12-06",
+      "time": "09:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · jornada 15",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-15"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "f1-abu-dhabi-2026-race",
+      "sport": "Fórmula 1",
+      "competition": "Fórmula 1 · GP de Abu Dhabi",
+      "title": "GP de Abu Dhabi · Carrera",
+      "date": "2026-12-06",
+      "time": "10:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Yas Marina Circuit",
+      "city": "Abu Dhabi, Emiratos Árabes Unidos",
+      "venueStatus": "confirmed",
+      "note": "Carrera a 58 vueltas; TV argentina y lista oficial pendientes.",
+      "sources": [
+        {
+          "name": "Fórmula 1 · horario oficial de Abu Dhabi",
+          "url": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "premier-league-2026-12-06-everton-fulham",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Everton vs. Fulham",
+      "date": "2026-12-06",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial 2026/27",
+          "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-season-2026-27"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "serie-a-2026-12-06-lazio-atalanta",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Lazio vs. Atalanta",
+      "date": "2026-12-06",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · programación oficial",
+          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "premier-league-2026-12-06-newcastle-sunderland",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Newcastle United vs. Sunderland",
+      "date": "2026-12-06",
+      "time": "11:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial 2026/27",
+          "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-season-2026-27"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "laliga-2026-12-06-athletic-real-madrid",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Athletic Club vs. Real Madrid",
+      "date": "2026-12-06",
+      "time": "11:15",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · jornada 15",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-15"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "bundesliga-2026-12-06-schalke-dortmund",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Schalke 04 vs. Borussia Dortmund",
+      "date": "2026-12-06",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Bundesliga · jornada 12",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "laliga-2026-12-06-getafe-valencia",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Getafe vs. Valencia",
+      "date": "2026-12-06",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · jornada 15",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-15"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "bundesliga-2026-12-06-elversberg-stuttgart",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "SV Elversberg vs. VfB Stuttgart",
+      "date": "2026-12-06",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Bundesliga · jornada 12",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "premier-league-2026-12-06-tottenham-arsenal",
+      "sport": "Fútbol",
+      "competition": "Premier League",
+      "title": "Tottenham Hotspur vs. Arsenal",
+      "date": "2026-12-06",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Premier League · fixture oficial 2026/27",
+          "url": "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-season-2026-27"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "serie-a-2026-12-06-juventus-udinese",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Juventus vs. Udinese",
+      "date": "2026-12-06",
+      "time": "14:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · programación oficial",
+          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "laliga-2026-12-06-atletico-betis",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Atlético de Madrid vs. Real Betis",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · jornada 15",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-15"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "serie-a-2026-12-06-milan-parma",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Milan vs. Parma",
+      "date": "2026-12-06",
+      "time": "16:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · programación oficial",
+          "url": "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+        }
+      ],
+      "verifiedAt": "2026-11-23T09:57:24Z"
     }
   ],
-  "updatedAt": "2026-11-22T10:01:19Z",
-  "coverageThrough": "2026-12-05",
+  "updatedAt": "2026-11-23T09:57:24Z",
+  "coverageThrough": "2026-12-06",
   "warnings": [
     "ESPN Argentina confirmó señales hasta el 27/11; emisiones posteriores siguen pendientes.",
     "F1 Qatar: P1 y P2 confirmadas por Disney+; TV del resto del fin de semana pendiente.",
-    "F1 Abu Dhabi: horarios oficiales hasta el 5/12 confirmados; TV argentina pendiente.",
+    "F1 Abu Dhabi: horarios oficiales hasta el 6/12 confirmados; TV argentina pendiente.",
     "Cabalén: la fecha 8 ya se disputó 24–25/10; no hay otra fecha confirmada allí.",
     "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
   ],
