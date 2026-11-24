@@ -1,68 +1,6 @@
 {
   "events": [
     {
-      "id": "tennis-atp-finals-2026-11-16-alcaraz-tiafoe",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Carlos Alcaraz vs. Frances Tiafoe",
-      "date": "2026-11-16",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Round robin de singles.",
-      "sources": [
-        {
-          "name": "ATP Finals · orden de juego 15–16/11",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
-      "id": "tennis-atp-finals-2026-11-16-medvedev-cobolli",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Daniil Medvedev vs. Flavio Cobolli",
-      "date": "2026-11-16",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Round robin de singles.",
-      "sources": [
-        {
-          "name": "ATP Finals · orden de juego 15–16/11",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule-sunday-monday"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-13T10:02:39Z"
-    },
-    {
       "id": "atp-finals-2026-11-17-fils-jodar",
       "sport": "Tenis",
       "competition": "ATP Finals",
@@ -5154,35 +5092,103 @@
         }
       ],
       "verifiedAt": "2026-11-23T09:57:24Z"
+    },
+    {
+      "id": "serie-a-2026-12-07-venezia-sassuolo",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Venezia vs. Sassuolo",
+      "date": "2026-12-07",
+      "time": "13:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial de Venezia",
+          "url": "https://www.legaseriea.it/team/venezia/schedule"
+        }
+      ],
+      "verifiedAt": "2026-11-24T10:01:31Z"
+    },
+    {
+      "id": "serie-a-2026-12-07-fiorentina-cagliari",
+      "sport": "Fútbol",
+      "competition": "Serie A",
+      "title": "Fiorentina vs. Cagliari",
+      "date": "2026-12-07",
+      "time": "15:45",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Lega Serie A · calendario oficial de Fiorentina",
+          "url": "https://www.legaseriea.it/team/fiorentina/schedule"
+        }
+      ],
+      "verifiedAt": "2026-11-24T10:01:31Z"
+    },
+    {
+      "id": "laliga-2026-12-07-sevilla-malaga",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Sevilla vs. Málaga",
+      "date": "2026-12-07",
+      "time": "16:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "LaLiga · jornada 15",
+          "url": "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-15"
+        }
+      ],
+      "verifiedAt": "2026-11-24T10:01:31Z"
     }
   ],
-  "updatedAt": "2026-11-23T09:57:24Z",
-  "coverageThrough": "2026-12-06",
+  "updatedAt": "2026-11-24T10:01:31Z",
+  "coverageThrough": "2026-12-07",
   "warnings": [
     "ESPN Argentina confirmó señales hasta el 27/11; emisiones posteriores siguen pendientes.",
     "F1 Qatar: P1 y P2 confirmadas por Disney+; TV del resto del fin de semana pendiente.",
     "F1 Abu Dhabi: horarios oficiales hasta el 6/12 confirmados; TV argentina pendiente.",
     "Cabalén: la fecha 8 ya se disputó 24–25/10; no hay otra fecha confirmada allí.",
-    "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana."
+    "Korn Ferry Tour: temporada 2026 finalizada; no hay torneos en la ventana.",
+    "Premier Padel: sin cruces top 4 el 24/11; orden del 25/11 y cuadro de Finals pendientes."
   ],
   "padelTopPairs": {
-    "rankingDate": "2026-11-16",
-    "verifiedAt": "2026-11-20T10:00:00Z",
+    "rankingDate": "2026-11-23",
+    "verifiedAt": "2026-11-24T10:01:31Z",
     "sources": [
       {
-        "name": "FIP · ranking mundial individual 16/11",
+        "name": "FIP · ranking mundial individual 23/11",
         "url": "https://www.padelfip.com/fip-rankings/"
       },
       {
-        "name": "FIP · entry list oficial Mexico Major",
-        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/Entry-list-Mexico-Major-M-v9.pdf"
+        "name": "FIP · cuadro oficial Mexico Major",
+        "url": "https://www.padelfip.com/events/mexico-major-2026/?tab=Draws"
+      },
+      {
+        "name": "FIP · entry list femenina Mexico Major",
+        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/Entry-list-Mexico-Major-W-v9.pdf"
       }
     ],
     "pairs": [
       {
         "gender": "men",
         "rank": 1,
-        "points": 40566,
+        "points": 40422,
         "players": [
           {
             "name": "Arturo Coello",
@@ -5204,7 +5210,7 @@
       {
         "gender": "men",
         "rank": 2,
-        "points": 28152,
+        "points": 28066,
         "players": [
           {
             "name": "Alejandro Galán",
@@ -5228,7 +5234,7 @@
       {
         "gender": "men",
         "rank": 3,
-        "points": 17056,
+        "points": 17043,
         "players": [
           {
             "name": "Juan Lebrón",
@@ -5252,7 +5258,7 @@
       {
         "gender": "men",
         "rank": 4,
-        "points": 11436,
+        "points": 11423,
         "players": [
           {
             "name": "Franco Stupaczuk",
@@ -5273,7 +5279,7 @@
       {
         "gender": "women",
         "rank": 1,
-        "points": 31806,
+        "points": 31662,
         "players": [
           {
             "name": "Gemma Triay Pons",
@@ -5297,7 +5303,7 @@
       {
         "gender": "women",
         "rank": 2,
-        "points": 25217,
+        "points": 25149,
         "players": [
           {
             "name": "Beatriz González Fernández",
@@ -5322,7 +5328,7 @@
       {
         "gender": "women",
         "rank": 3,
-        "points": 24479,
+        "points": 24429,
         "players": [
           {
             "name": "Ariana Sánchez Fallada",
@@ -5347,7 +5353,7 @@
       {
         "gender": "women",
         "rank": 4,
-        "points": 20974,
+        "points": 20942,
         "players": [
           {
             "name": "Claudia Fernández Sánchez",
