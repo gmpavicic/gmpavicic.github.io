@@ -1,208 +1,6 @@
 {
   "events": [
     {
-      "id": "f1-las-vegas-2026-fp2",
-      "sport": "Fórmula 1",
-      "competition": "Fórmula 1 · GP de Las Vegas",
-      "title": "GP de Las Vegas · Práctica 2",
-      "date": "2026-11-20",
-      "time": "01:00",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Las Vegas Strip Circuit",
-      "city": "Las Vegas, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde 00:55 por Disney+ Premium (ESPN).",
-      "sources": [
-        {
-          "name": "Fórmula 1 · horario oficial de Las Vegas",
-          "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-        },
-        {
-          "name": "ESPN Argentina · GP de Las Vegas",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
-        }
-      ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
-    },
-    {
-      "id": "atp-finals-2026-11-20-alcaraz-cobolli",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Carlos Alcaraz vs. Flavio Cobolli",
-      "date": "2026-11-20",
-      "time": "10:00",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Singles; transmisión y partido desde 10:00.",
-      "sources": [
-        {
-          "name": "Nitto ATP Finals · orden de juego",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
-        },
-        {
-          "name": "ESPN Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
-    },
-    {
-      "id": "bundesliga-2026-11-20-bayern-koln",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "Bayern Múnich vs. FC Köln",
-      "date": "2026-11-20",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN3",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Partido 16:30. Transmisión desde 16:20.",
-      "sources": [
-        {
-          "name": "Bundesliga · fecha 10, horarios UTC oficiales",
-          "url": "https://products.bundesliga.com/fixtures"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 20–27/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
-    },
-    {
-      "id": "atp-finals-2026-11-20-medvedev-tiafoe",
-      "sport": "Tenis",
-      "competition": "ATP Finals",
-      "title": "ATP Finals · Daniil Medvedev vs. Frances Tiafoe",
-      "date": "2026-11-20",
-      "time": "16:30",
-      "timeType": "event",
-      "channels": [
-        "ESPN2",
-        "Disney+ Premium"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Inalpi Arena",
-      "city": "Turín, Italia",
-      "venueStatus": "confirmed",
-      "note": "Singles; transmisión y partido desde 16:30.",
-      "sources": [
-        {
-          "name": "Nitto ATP Finals · orden de juego",
-          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-schedule"
-        },
-        {
-          "name": "ESPN Argentina · programación 13–20/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-13-al-20-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-19T10:00:00Z"
-    },
-    {
-      "id": "laliga-2026-2026-11-20-athletic-espanyol",
-      "sport": "Fútbol",
-      "competition": "LaLiga",
-      "title": "Athletic Club vs. Espanyol",
-      "date": "2026-11-20",
-      "time": "17:00",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "LALIGA · jornada 13 oficial",
-          "url": "https://www.laliga.com/laliga-easports/resultados/2026-27/jornada-13"
-        }
-      ],
-      "verifiedAt": "2026-11-08T10:10:22Z"
-    },
-    {
-      "id": "liga-profesional-2026-octavos-2026-11-20-velez-belgrano",
-      "sport": "Fútbol",
-      "competition": "Liga Profesional",
-      "title": "Vélez vs. Belgrano · Octavos",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "timeType": "event",
-      "channels": [
-        "TNT Sports"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "note": "Octavos a partido único.",
-      "sources": [
-        {
-          "name": "Liga Profesional · octavos de final",
-          "url": "https://www.ligaprofesional.ar/notas/temporada-2026/2026/11/11/programacion-de-los-octavos-de-final/"
-        }
-      ],
-      "verifiedAt": "2026-11-12T10:00:43Z"
-    },
-    {
-      "id": "f1-las-vegas-2026-fp3",
-      "sport": "Fórmula 1",
-      "competition": "Fórmula 1 · GP de Las Vegas",
-      "title": "GP de Las Vegas · Práctica 3",
-      "date": "2026-11-20",
-      "time": "21:30",
-      "timeType": "event",
-      "channels": [
-        "Disney+ Premium (ESPN)"
-      ],
-      "broadcastStatus": "confirmed",
-      "local": false,
-      "national": false,
-      "venue": "Las Vegas Strip Circuit",
-      "city": "Las Vegas, Estados Unidos",
-      "venueStatus": "confirmed",
-      "note": "Transmisión desde 21:25.",
-      "sources": [
-        {
-          "name": "Fórmula 1 · horario oficial de Las Vegas",
-          "url": "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
-        },
-        {
-          "name": "ESPN Argentina · GP de Las Vegas",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/espn-trae-a-disney-plan-premium-el-gp-de-las-vegas-bajo-las-luces-de-la-ciudad/"
-        },
-        {
-          "name": "ESPN Press Room Argentina · programación 20–27/11",
-          "url": "https://latinamerica.espnpressroom.com/press-releases/2026/11/programacion-destacada-del-20-al-27-de-noviembre/"
-        }
-      ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
-    },
-    {
       "id": "f1-las-vegas-2026-qualifying",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de Las Vegas",
@@ -2653,33 +2451,13 @@
       "verifiedAt": "2026-11-20T10:00:00Z"
     },
     {
-      "sport": "Pádel",
-      "competition": "Premier Padel · Mexico Major",
-      "date": "2026-11-27",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "venue": "Arena GNP Seguros",
-      "city": "Acapulco, México",
-      "venueStatus": "confirmed",
-      "sources": [
-        {
-          "name": "FIP · orden de juego Mexico Major 27/11",
-          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
-        }
-      ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
       "id": "premier-padel-mexico-2026-11-27-icardo-jensen-josemaria-gonzalez",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
       "title": "Icardo / Jensen vs. Josemaría / González",
+      "date": "2026-11-27",
       "time": "19:00",
       "timeType": "event",
-      "note": "Cuartos; inicio confirmado. Señal argentina pendiente."
-    },
-    {
-      "sport": "Pádel",
-      "competition": "Premier Padel · Mexico Major",
-      "date": "2026-11-27",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
@@ -2687,23 +2465,23 @@
       "venue": "Arena GNP Seguros",
       "city": "Acapulco, México",
       "venueStatus": "confirmed",
+      "note": "Cuartos; inicio confirmado. Señal argentina pendiente.",
       "sources": [
         {
           "name": "FIP · orden de juego Mexico Major 27/11",
           "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
         }
       ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
       "id": "premier-padel-mexico-2026-11-27-sanchez-ustero-guinart-alonso",
-      "title": "Sánchez / Ustero vs. Guinart / Alonso",
-      "time": "19:00",
-      "timeType": "event",
-      "note": "Cuartos; inicio confirmado. Señal argentina pendiente."
-    },
-    {
       "sport": "Pádel",
       "competition": "Premier Padel · Mexico Major",
+      "title": "Sánchez / Ustero vs. Guinart / Alonso",
       "date": "2026-11-27",
+      "time": "19:00",
+      "timeType": "event",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
@@ -2711,23 +2489,23 @@
       "venue": "Arena GNP Seguros",
       "city": "Acapulco, México",
       "venueStatus": "confirmed",
+      "note": "Cuartos; inicio confirmado. Señal argentina pendiente.",
       "sources": [
         {
           "name": "FIP · orden de juego Mexico Major 27/11",
           "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
         }
       ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
       "id": "premier-padel-mexico-2026-11-27-brea-triay-caldera-goenaga",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
       "title": "Brea / Triay vs. Caldera / Goenaga",
+      "date": "2026-11-27",
       "time": "22:00",
       "timeType": "event",
-      "note": "Cuartos; no antes de las 22:00. Señal argentina pendiente."
-    },
-    {
-      "sport": "Pádel",
-      "competition": "Premier Padel · Mexico Major",
-      "date": "2026-11-27",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
@@ -2735,23 +2513,23 @@
       "venue": "Arena GNP Seguros",
       "city": "Acapulco, México",
       "venueStatus": "confirmed",
+      "note": "Cuartos; no antes de las 22:00. Señal argentina pendiente.",
       "sources": [
         {
           "name": "FIP · orden de juego Mexico Major 27/11",
           "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
         }
       ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
       "id": "premier-padel-mexico-2026-11-27-jofre-esbri-augsburger-lebron",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
       "title": "Jofre / Esbrí vs. Augsburger / Lebrón",
+      "date": "2026-11-27",
       "time": null,
       "timeType": "pending",
-      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes."
-    },
-    {
-      "sport": "Pádel",
-      "competition": "Premier Padel · Mexico Major",
-      "date": "2026-11-27",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
@@ -2759,23 +2537,23 @@
       "venue": "Arena GNP Seguros",
       "city": "Acapulco, México",
       "venueStatus": "confirmed",
+      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes.",
       "sources": [
         {
           "name": "FIP · orden de juego Mexico Major 27/11",
           "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
         }
       ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
       "id": "premier-padel-mexico-2026-11-27-ortega-araujo-calvo-fernandez",
-      "title": "Ortega / Araujo vs. Calvo / Fernández",
-      "time": null,
-      "timeType": "pending",
-      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes."
-    },
-    {
       "sport": "Pádel",
       "competition": "Premier Padel · Mexico Major",
+      "title": "Ortega / Araujo vs. Calvo / Fernández",
       "date": "2026-11-27",
+      "time": null,
+      "timeType": "pending",
       "channels": [],
       "broadcastStatus": "pending",
       "local": false,
@@ -2783,18 +2561,100 @@
       "venue": "Arena GNP Seguros",
       "city": "Acapulco, México",
       "venueStatus": "confirmed",
+      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes.",
       "sources": [
         {
           "name": "FIP · orden de juego Mexico Major 27/11",
           "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
         }
       ],
-      "verifiedAt": "2026-11-27T10:02:01Z",
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
       "id": "premier-padel-mexico-2026-11-27-tapia-coello-valenzuela-gil",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
       "title": "Tapia / Coello vs. Valenzuela / Gil",
+      "date": "2026-11-27",
       "time": null,
       "timeType": "pending",
-      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes."
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Arena GNP Seguros",
+      "city": "Acapulco, México",
+      "venueStatus": "confirmed",
+      "note": "Cuartos; a continuación del partido previo. Hora y señal argentina pendientes.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego Mexico Major 27/11",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
+        }
+      ],
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
+      "id": "los-pumas-7s-dubai-2026-sudafrica",
+      "sport": "Rugby",
+      "competition": "SVNS · Selección argentina",
+      "title": "Argentina vs. Sudáfrica",
+      "date": "2026-11-28",
+      "time": "04:52",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": true,
+      "venue": "The Sevens Stadium",
+      "city": "Dubái, Emiratos Árabes Unidos",
+      "venueStatus": "confirmed",
+      "note": "Seven de Dubái · fase de grupos.",
+      "sources": [
+        {
+          "name": "UAR · fixture oficial de Los Pumas 7s",
+          "url": "https://uar.com.ar/los-pumas-7s-con-plantel-confirmado-para-iniciar-una-nueva-temporada/"
+        },
+        {
+          "name": "DeporTV · horarios y TV en Argentina",
+          "url": "https://deportv.gob.ar/rugby/pumas-7s-arrancan-temporada-dubai-fixture-horarios-plantel-nid%3A19196"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "los-pumas-7s-dubai-2026-estados-unidos",
+      "sport": "Rugby",
+      "competition": "SVNS · Selección argentina",
+      "title": "Argentina vs. Estados Unidos",
+      "date": "2026-11-28",
+      "time": "07:33",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": true,
+      "venue": "The Sevens Stadium",
+      "city": "Dubái, Emiratos Árabes Unidos",
+      "venueStatus": "confirmed",
+      "note": "Seven de Dubái · fase de grupos.",
+      "sources": [
+        {
+          "name": "UAR · fixture oficial de Los Pumas 7s",
+          "url": "https://uar.com.ar/los-pumas-7s-con-plantel-confirmado-para-iniciar-una-nueva-temporada/"
+        },
+        {
+          "name": "DeporTV · horarios y TV en Argentina",
+          "url": "https://deportv.gob.ar/rugby/pumas-7s-arrancan-temporada-dubai-fixture-horarios-plantel-nid%3A19196"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "laliga-2026-11-28-betis-rayo",
@@ -2839,6 +2699,27 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
+      "id": "bundesliga-2026-11-28-koln-elversberg",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "FC Köln vs. SV Elversberg",
+      "date": "2026-11-28",
+      "time": "11:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "note": "Fecha 11; TV argentina pendiente.",
+      "sources": [
+        {
+          "name": "Bundesliga · fecha 11 oficial",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
+        }
+      ],
+      "verifiedAt": "2026-11-15T10:03:56Z"
+    },
+    {
       "id": "f1-qatar-2026-fp3",
       "sport": "Fórmula 1",
       "competition": "Fórmula 1 · GP de Qatar",
@@ -2860,28 +2741,7 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
         }
       ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
-    },
-    {
-      "id": "bundesliga-2026-11-28-koln-elversberg",
-      "sport": "Fútbol",
-      "competition": "Bundesliga",
-      "title": "FC Köln vs. SV Elversberg",
-      "date": "2026-11-28",
-      "time": "11:30",
-      "timeType": "event",
-      "channels": [],
-      "broadcastStatus": "pending",
-      "local": false,
-      "national": false,
-      "note": "Fecha 11; TV argentina pendiente.",
-      "sources": [
-        {
-          "name": "Bundesliga · fecha 11 oficial",
-          "url": "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11"
-        }
-      ],
-      "verifiedAt": "2026-11-15T10:03:56Z"
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "bundesliga-2026-11-28-hamburg-bayern",
@@ -3010,6 +2870,37 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
+      "id": "los-pumas-7s-dubai-2026-australia",
+      "sport": "Rugby",
+      "competition": "SVNS · Selección argentina",
+      "title": "Argentina vs. Australia",
+      "date": "2026-11-28",
+      "time": "12:16",
+      "timeType": "event",
+      "channels": [
+        "ESPN",
+        "Disney+ Premium"
+      ],
+      "broadcastStatus": "confirmed",
+      "local": false,
+      "national": true,
+      "venue": "The Sevens Stadium",
+      "city": "Dubái, Emiratos Árabes Unidos",
+      "venueStatus": "confirmed",
+      "note": "Seven de Dubái · fase de grupos.",
+      "sources": [
+        {
+          "name": "UAR · fixture oficial de Los Pumas 7s",
+          "url": "https://uar.com.ar/los-pumas-7s-con-plantel-confirmado-para-iniciar-una-nueva-temporada/"
+        },
+        {
+          "name": "DeporTV · horarios y TV en Argentina",
+          "url": "https://deportv.gob.ar/rugby/pumas-7s-arrancan-temporada-dubai-fixture-horarios-plantel-nid%3A19196"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
       "id": "serie-a-2026-11-28-inter-genoa",
       "sport": "Fútbol",
       "competition": "Serie A",
@@ -3115,7 +3006,7 @@
           "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
         }
       ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "serie-a-2026-11-28-torino-lazio",
@@ -3196,43 +3087,98 @@
       "verifiedAt": "2026-11-15T10:03:56Z"
     },
     {
+      "id": "premier-padel-mexico-2026-11-28-sanchez-ustero-josemaria-gonzalez",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
+      "title": "Sánchez / Ustero vs. Josemaría / González",
+      "date": "2026-11-28",
+      "time": "19:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Arena GNP Seguros",
+      "city": "Acapulco, México",
+      "venueStatus": "confirmed",
+      "note": "Semifinal; inicio confirmado. Señal argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial 28/11",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SATURDAY-28-NOVEMBER-2026-2.pdf"
+        },
+        {
+          "name": "Premier Padel · semifinalistas confirmados",
+          "url": "https://premierpadel.com/en/news/jofre-esbr-y-bergamini-bautista-acceden-a-semifinales-mientras-libaak-alfonso-alcanzan-el-sueo-de-las-finals"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "liga-profesional-2026-cuartos-2026-11-28-velez-independiente",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
-      "timeType": "event",
-      "broadcastStatus": "confirmed",
-      "national": false,
-      "verifiedAt": "2026-11-27T10:02:01Z",
-      "id": "liga-profesional-2026-cuartos-2026-11-28-velez-independiente",
       "title": "Vélez vs. Independiente · Cuartos",
       "date": "2026-11-28",
       "time": "20:00",
+      "timeType": "event",
       "channels": [
         "TNT Sports"
       ],
+      "broadcastStatus": "confirmed",
       "local": false,
+      "national": false,
       "note": "Cuartos a partido único.",
       "sources": [
         {
           "name": "AFA · agenda de cuartos de final",
           "url": "https://www.afa.com.ar/es/posts/agenda-para-los-cuartos-de-final-de-la-liga-profesional"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-27T10:02:01Z"
     },
     {
+      "id": "premier-padel-mexico-2026-11-28-brea-triay-calvo-fernandez",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
+      "title": "Brea / Triay vs. Calvo / Fernández",
+      "date": "2026-11-28",
+      "time": "22:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Arena GNP Seguros",
+      "city": "Acapulco, México",
+      "venueStatus": "confirmed",
+      "note": "Semifinal; no antes de las 22:00. Señal argentina pendiente.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial 28/11",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SATURDAY-28-NOVEMBER-2026-2.pdf"
+        },
+        {
+          "name": "Premier Padel · semifinalistas confirmados",
+          "url": "https://premierpadel.com/en/news/jofre-esbr-y-bergamini-bautista-acceden-a-semifinales-mientras-libaak-alfonso-alcanzan-el-sueo-de-las-finals"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "liga-profesional-2026-cuartos-2026-11-28-instituto-river",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
-      "timeType": "event",
-      "broadcastStatus": "confirmed",
-      "national": false,
-      "verifiedAt": "2026-11-27T10:02:01Z",
-      "id": "liga-profesional-2026-cuartos-2026-11-28-instituto-river",
       "title": "Instituto vs. River Plate · Cuartos",
       "date": "2026-11-28",
       "time": "22:00",
+      "timeType": "event",
       "channels": [
         "ESPN Premium"
       ],
+      "broadcastStatus": "confirmed",
       "local": true,
+      "national": false,
       "venue": "Estadio Monumental Juan Domingo Perón",
       "city": "Córdoba",
       "venueStatus": "confirmed",
@@ -3246,7 +3192,36 @@
           "name": "Instituto · venta y sede del partido",
           "url": "https://institutoacc.com.ar/index.php/ya-podes-adquirir-tu-lugar-para-instituto-vs-river-por-los-cuartos-de-final/"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-27T10:02:01Z"
+    },
+    {
+      "id": "premier-padel-mexico-2026-11-28-tapia-coello-bautista-bergamini",
+      "sport": "Pádel",
+      "competition": "Premier Padel · Mexico Major",
+      "title": "Tapia / Coello vs. Bautista / Bergamini",
+      "date": "2026-11-28",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Arena GNP Seguros",
+      "city": "Acapulco, México",
+      "venueStatus": "confirmed",
+      "note": "Semifinal; a continuación del partido previo. Hora y señal argentina pendientes.",
+      "sources": [
+        {
+          "name": "FIP · orden de juego oficial 28/11",
+          "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SATURDAY-28-NOVEMBER-2026-2.pdf"
+        },
+        {
+          "name": "Premier Padel · semifinalistas confirmados",
+          "url": "https://premierpadel.com/en/news/jofre-esbr-y-bergamini-bautista-acceden-a-semifinales-mientras-libaak-alfonso-alcanzan-el-sueo-de-las-finals"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "serie-a-2026-11-29-lecce-torino",
@@ -3522,14 +3497,28 @@
       "venue": "Lusail International Circuit",
       "city": "Lusail, Qatar",
       "venueStatus": "confirmed",
-      "note": "57 vueltas; TV argentina y lista oficial pendientes.",
+      "note": "57 vueltas; TV argentina pendiente. Grilla oficial pendiente.",
       "sources": [
         {
           "name": "Fórmula 1 · horario oficial de Qatar",
           "url": "https://www.formula1.com/en/latest/article/formula-1-qatar-airways-qatar-grand-prix-2026.3XJyoYSnpJEcuZovstTdcG"
+        },
+        {
+          "name": "FIA · lista oficial de participantes del GP de Qatar",
+          "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_entry_list.pdf"
         }
       ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
+      "verifiedAt": "2026-11-28T10:04:17Z",
+      "f1Grid": {
+        "driver": "Franco Colapinto",
+        "startingPosition": null,
+        "status": "pending",
+        "source": {
+          "name": "FIA · lista oficial de participantes del GP de Qatar",
+          "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_entry_list.pdf"
+        },
+        "verifiedAt": "2026-11-28T10:04:17Z"
+      }
     },
     {
       "id": "premier-league-2026-11-29-arsenal-man-city",
@@ -3679,20 +3668,19 @@
       "verifiedAt": "2026-11-16T10:43:08Z"
     },
     {
+      "id": "liga-profesional-2026-cuartos-2026-11-29-rosario-central-barracas",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
-      "timeType": "event",
-      "broadcastStatus": "confirmed",
-      "national": false,
-      "verifiedAt": "2026-11-27T10:02:01Z",
-      "id": "liga-profesional-2026-cuartos-2026-11-29-rosario-central-barracas",
       "title": "Rosario Central vs. Barracas Central · Cuartos",
       "date": "2026-11-29",
       "time": "17:00",
+      "timeType": "event",
       "channels": [
         "ESPN Premium"
       ],
+      "broadcastStatus": "confirmed",
       "local": false,
+      "national": false,
       "note": "AFA actualizó a 17:00; LPF aún muestra 17:30.",
       "sources": [
         {
@@ -3703,7 +3691,8 @@
           "name": "Liga Profesional · agenda de cuartos",
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/11/25/agenda-para-cuartos/"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-27T10:02:01Z"
     },
     {
       "id": "46543116c09d8bf2",
@@ -3750,31 +3739,26 @@
       "note": "Amistoso internacional; TV argentina pendiente.",
       "sources": [
         {
-          "name": "AFA · amistoso confirmado",
-          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-amistoso-confirmado-en-el-pais"
-        },
-        {
-          "name": "DFB · horario y sede oficiales",
-          "url": "https://www.dfb.de/frauen/nationalmannschaften/nationalmannschaft/spiele-und-termine"
+          "name": "AFA · horario y sede del amistoso ante Alemania",
+          "url": "https://www.afa.com.ar/es/posts/seleccion-femenina-todo-listo-para-el-encuentro-ante-alemania"
         }
       ],
-      "verifiedAt": "2026-11-18T10:02:06Z"
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
+      "id": "liga-profesional-2026-cuartos-2026-11-29-boca-gimnasia",
       "sport": "Fútbol",
       "competition": "Liga Profesional",
-      "timeType": "event",
-      "broadcastStatus": "confirmed",
-      "national": false,
-      "verifiedAt": "2026-11-27T10:02:01Z",
-      "id": "liga-profesional-2026-cuartos-2026-11-29-boca-gimnasia",
       "title": "Boca Juniors vs. Gimnasia La Plata · Cuartos",
       "date": "2026-11-29",
       "time": "20:30",
+      "timeType": "event",
       "channels": [
         "TNT Sports"
       ],
+      "broadcastStatus": "confirmed",
       "local": false,
+      "national": false,
       "note": "AFA actualizó a 20:30; LPF aún muestra 22:00.",
       "sources": [
         {
@@ -3785,7 +3769,8 @@
           "name": "Liga Profesional · agenda de cuartos",
           "url": "https://www.ligaprofesional.ar/notas/primera/2026/11/25/agenda-para-cuartos/"
         }
-      ]
+      ],
+      "verifiedAt": "2026-11-27T10:02:01Z"
     },
     {
       "id": "laliga-2026-11-30-espanyol-getafe",
@@ -4315,9 +4300,13 @@
         {
           "name": "PGA Tour · calendario oficial 2026",
           "url": "https://www.pgatour.com/schedule"
+        },
+        {
+          "name": "Hero World Challenge · tee-times aún no publicados",
+          "url": "https://heroworldchallenge.com/pairings/"
         }
       ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "f1-abu-dhabi-2026-fp1",
@@ -4449,7 +4438,7 @@
           "url": "https://www.afa.com.ar/es/posts/la-seleccion-femenina-cerrara-la-fecha-fifa-ante-uruguay-en-barracas-central"
         }
       ],
-      "verifiedAt": "2026-11-20T10:00:00Z"
+      "verifiedAt": "2026-11-28T10:04:17Z"
     },
     {
       "id": "f1-abu-dhabi-2026-p3",
@@ -5656,29 +5645,123 @@
         }
       ],
       "verifiedAt": "2026-11-26T09:58:53Z"
+    },
+    {
+      "id": "pga-tour-q-school-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour · Q-School",
+      "title": "PGA Tour Q-School presented by Korn Ferry",
+      "date": "2026-12-10",
+      "endDate": "2026-12-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Dye's Valley Course y Sawgrass Country Club",
+      "city": "Ponte Vedra Beach, Florida",
+      "venueStatus": "confirmed",
+      "note": "Final Stage; tee-times y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "PGA Tour · Final Stage 2026",
+          "url": "https://www.pgatour.com/article/news/how-it-works/how-it-works-2026-pga-tour-q-school-presented-by-korn-ferry"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "bundesliga-2026-12-11-hamburgo-schalke",
+      "sport": "Fútbol",
+      "competition": "Bundesliga",
+      "title": "Hamburger SV vs. Schalke 04",
+      "date": "2026-12-11",
+      "time": "16:30",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venueStatus": "pending",
+      "note": "Fecha 13; TV argentina y estadio pendientes.",
+      "sources": [
+        {
+          "name": "Bundesliga · fixture oficial de la fecha 13",
+          "url": "https://www.bundesliga.com/en/bundesliga/matchday/cn/13"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "laliga-2026-12-11-elche-sevilla",
+      "sport": "Fútbol",
+      "competition": "LaLiga",
+      "title": "Elche vs. Sevilla",
+      "date": "2026-12-11",
+      "time": "17:00",
+      "timeType": "event",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venueStatus": "pending",
+      "note": "Jornada 16; TV argentina y estadio pendientes.",
+      "sources": [
+        {
+          "name": "LaLiga · horarios oficiales de la jornada 16",
+          "url": "https://www.laliga.com/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
+    },
+    {
+      "id": "grant-thornton-invitational-2026",
+      "sport": "Golf",
+      "competition": "PGA Tour",
+      "title": "Grant Thornton Invitational",
+      "date": "2026-12-11",
+      "endDate": "2026-12-13",
+      "time": null,
+      "timeType": "pending",
+      "channels": [],
+      "broadcastStatus": "pending",
+      "local": false,
+      "national": false,
+      "venue": "Tiburón Golf Club",
+      "city": "Naples, Florida",
+      "venueStatus": "confirmed",
+      "note": "Torneo por equipos mixtos; tee-times y TV argentina pendientes.",
+      "sources": [
+        {
+          "name": "Grant Thornton Invitational · calendario oficial",
+          "url": "https://grantthorntoninvitational.com/tournament-info/schedule-of-events/"
+        }
+      ],
+      "verifiedAt": "2026-11-28T10:04:17Z"
     }
   ],
-  "updatedAt": "2026-11-27T10:02:01Z",
-  "coverageThrough": "2026-12-10",
+  "updatedAt": "2026-11-28T10:04:17Z",
+  "coverageThrough": "2026-12-11",
   "warnings": [
-    "ESPN Argentina confirmó señales hasta el 27/11; emisiones posteriores siguen pendientes.",
-    "F1 Qatar: P1 y P2 confirmadas por Disney+; TV del resto del fin de semana pendiente.",
+    "ESPN Argentina no publicó una grilla posterior al 27/11; emisiones no confirmadas siguen pendientes.",
+    "F1 Qatar: P1 y P2 confirmadas por Disney+; TV del resto del fin de semana y grilla de carrera pendientes.",
     "F1 Abu Dhabi: horarios oficiales hasta el 6/12 confirmados; TV argentina pendiente.",
     "Cabalén: no se publicó una nueva fecha confirmada dentro de los próximos 90 días.",
     "Korn Ferry Tour: temporada finalizada; sin torneos dentro de la ventana revisada.",
-    "Premier Padel: seis cuartos top 4 el 27/11; orden del 28/11 y cuadro de Finals pendientes."
+    "Premier Padel: tres semifinales top 4 el 28/11; orden de finales y cuadro de Finals pendientes."
   ],
   "padelTopPairs": {
     "rankingDate": "2026-11-23",
-    "verifiedAt": "2026-11-27T10:02:01Z",
+    "verifiedAt": "2026-11-28T10:04:17Z",
     "sources": [
       {
         "name": "FIP · ranking mundial individual 23/11",
         "url": "https://www.padelfip.com/fip-rankings/"
       },
       {
-        "name": "FIP · orden de juego Mexico Major 27/11",
-        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-FRIDAY-27-NOVEMBER-2026-2.pdf"
+        "name": "FIP · orden de juego Mexico Major 28/11",
+        "url": "https://www.padelfip.com/wp-content/uploads/2025/12/ORDER-OF-PLAY-SATURDAY-28-NOVEMBER-2026-2.pdf"
       }
     ],
     "pairs": [
